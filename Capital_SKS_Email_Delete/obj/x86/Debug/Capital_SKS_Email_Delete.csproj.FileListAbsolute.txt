@@ -1,0 +1,64 @@
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.exe.config
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.exe
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\OpenPop.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.Properties.Resources.resources
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.GenerateResource.cache
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.CoreCompileInputs.cache
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.CopyComplete
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.exe
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.exe.config
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.exe
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\OpenPop.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csprojAssemblyReference.cache
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.Properties.Resources.resources
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.GenerateResource.cache
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.exe
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.pdb
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.exe.config
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.exe
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.pdb
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\OpenPop.dll
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csprojAssemblyReference.cache
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.Properties.Resources.resources
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.GenerateResource.cache
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.CoreCompileInputs.cache
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.CopyComplete
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.exe
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.exe.config
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\OpenPop.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csprojAssemblyReference.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.Properties.Resources.resources
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.GenerateResource.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.pdb
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.exe.config
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.exe
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.pdb
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\OpenPop.dll
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.AssemblyReference.cache
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.Properties.Resources.resources
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.GenerateResource.cache
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.CoreCompileInputs.cache
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.CopyComplete
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.exe
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.pdb
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.exe.config
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.exe
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.pdb
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Delete\bin\Debug\OpenPop.dll
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.Properties.Resources.resources
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.GenerateResource.cache
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.exe
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.pdb

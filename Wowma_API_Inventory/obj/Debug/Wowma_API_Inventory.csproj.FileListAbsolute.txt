@@ -1,0 +1,50 @@
+C:\My Data\Projects\Capital_SKS_SourceCode\Capital_RCM\RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.exe.config
+C:\My Data\Projects\Capital_SKS_SourceCode\Capital_RCM\RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.exe
+C:\My Data\Projects\Capital_SKS_SourceCode\Capital_RCM\RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.pdb
+C:\My Data\Projects\Capital_SKS_SourceCode\Capital_RCM\RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.csproj.CoreCompileInputs.cache
+C:\My Data\Projects\Capital_SKS_SourceCode\Capital_RCM\RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.exe
+C:\My Data\Projects\Capital_SKS_SourceCode\Capital_RCM\RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.pdb
+C:\My Data\Projects\Capital_RCM\MieMie-mm\RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.exe.config
+C:\My Data\Projects\Capital_RCM\MieMie-mm\RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.exe
+C:\My Data\Projects\Capital_RCM\MieMie-mm\RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.pdb
+C:\My Data\Projects\Capital_RCM\MieMie-mm\RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.csproj.CoreCompileInputs.cache
+C:\My Data\Projects\Capital_RCM\MieMie-mm\RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.exe
+C:\My Data\Projects\Capital_RCM\MieMie-mm\RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.pdb
+C:\MyData\Projects\SKS\RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.exe.config
+C:\MyData\Projects\SKS\RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.exe
+C:\MyData\Projects\SKS\RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.pdb
+C:\MyData\Projects\SKS\RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.csproj.CoreCompileInputs.cache
+C:\MyData\Projects\SKS\RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.exe
+C:\MyData\Projects\SKS\RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.pdb
+F:\MyData\Projects\ORS\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.exe.config
+F:\MyData\Projects\ORS\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.exe
+F:\MyData\Projects\ORS\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.pdb
+F:\MyData\Projects\ORS\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.csproj.CoreCompileInputs.cache
+F:\MyData\Projects\ORS\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.exe
+F:\MyData\Projects\ORS\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.exe.config
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.exe
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.exe
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.csprojAssemblyReference.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.exe.config
+D:\ORS_Data\ORS_RCM\ORS_RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.pdb
+D:\MyProjects\ORS_RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.exe.config
+D:\MyProjects\ORS_RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.exe
+D:\MyProjects\ORS_RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.pdb
+D:\MyProjects\ORS_RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.csproj.AssemblyReference.cache
+D:\MyProjects\ORS_RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.csproj.CoreCompileInputs.cache
+D:\MyProjects\ORS_RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.exe
+D:\MyProjects\ORS_RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.pdb
+D:\ORS_Data\ORS_RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.exe.config
+D:\ORS_Data\ORS_RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.exe
+D:\ORS_Data\ORS_RCM\Wowma_API_Inventory\bin\Debug\Wowma_API_Inventory.pdb
+D:\ORS_Data\ORS_RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.exe
+D:\ORS_Data\ORS_RCM\Wowma_API_Inventory\obj\Debug\Wowma_API_Inventory.pdb

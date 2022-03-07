@@ -1,0 +1,1013 @@
+﻿@charset "utf-8";
+
+/*------------------------------------------------------------
+ I make a user page with basics.
+ It is the CSS of the management page.
+ Please refer to [common.css] for the basic setting.
+-------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------------------------------
+  [1]Item
+div.itemCmnSet.searchBox dl {
+	width: 1000px;
+	margin: 0px auto;
+}
+div.itemCmnSet.searchBox dl dt {
+	width: 100px;
+	text-align: right;
+	margin-bottom: 10px;
+}
+div.itemCmnSet.searchBox dl dd {
+	width: 130px;
+}
+div.itemCmnSet.searchBox dl dt:nth-of-type(12) {
+	line-height: 11px;
+	height: 14px;
+	vertical-align: middle;
+}
+div.itemCmnSet.searchBox dl dd select {
+	width: 130px;
+}
+div.itemCmnSet.searchBox dl dd input {
+	width: 120px;
+}
+
+div.itemCmnSet.searchBox p {
+	width: 100%;
+	margin: 10px auto 0px auto;
+}
+--------------------------------------------------------------------------------------*/
+/*-- Item List -------------- */
+.itemCmnSet.editBtn {
+	position: relative;
+}
+.itemCmnSet.editBtn p {
+	display: inline-block;
+}
+.itemCmnSet.editBtn p:last-of-type {
+	position: absolute;
+	right: 0;
+}
+.itemCmnSet.editBtn p:last-of-type select {
+	width:	60px;
+}
+
+/*-- Item List -------------- */
+div.itemCmnSet table.listTable {
+	table-layout: fixed;
+}
+
+div.itemCmnSet table.listTable th {
+	white-space: nowrap;
+}
+div.itemCmnSet table.listTable td {
+	text-align: left;
+/*	vertical-align: middle;*/
+	vertical-align: top;
+	height: inherit;
+	table-layout: fixed;
+	padding-top: 10px;
+}
+div.itemCmnSet table.listTable td > div {
+	overflow: auto;
+	height: 300px;
+}
+/*-- form -------------- */
+div.itemCmnSet table.listTable2 td input[type="text"] {
+/*	width: 90%;*/
+	width: 85%;
+}
+div.itemCmnSet table.listTable2 td textarea {
+	width: 95%;
+	height: 95%;
+	line-height: 1.3em;
+	font-family: monospace;
+}
+/*-- ICON -------------- */
+td.stSet p {
+	width: 100%;
+	text-align: center;
+	color: #fff;
+	padding: 2px 0px;
+	margin: 2px 0px;
+}
+td.stSet.sksST p.page {
+	background: #F39;
+}
+td.stSet.sksST p.wait {
+	background: #ff0000;
+}
+td.stSet.sksST p.waitL {
+	background: #ff0000;
+}
+td.stSet.sksST p.ok {
+	background: #00F;
+}
+td.stSet.shopST p.wait {
+	background: #ff0000;
+}
+td.stSet.shopST p.ok {
+	background: #00F;
+}
+td.stSet.shopST p.del {
+	background: #000;
+}
+td.stSet p.lockIcon {
+	background: #ff0000;
+	width: 100%;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 10px 0px;
+	text-align: center;
+	color: #fff;
+	margin-bottom: 20px;
+}
+
+
+/*-- th -------------- */
+div.itemCmnSet.editBox table.listTable2 th:first-of-type { /*行*/
+	width: 10px;
+}
+div.itemCmnSet.editBox table.listTable2 th:nth-of-type(2) { /*対象*/
+	width: 20px;
+}
+div.itemCmnSet.editBox table.listTable2 th:nth-of-type(3) { /*SKS ST*/
+	width: 45px;
+}
+div.itemCmnSet.editBox table.listTable2 th:nth-of-type(4) { /*ショップST*/
+	width: 45px;
+}
+div.itemCmnSet.editBox table.listTable2 th:nth-of-type(5) { /*商品番号*/
+    width: 60px;
+}
+div.itemCmnSet.editBox table.listTable2 th:nth-of-type(6) { /*商品名*/
+    width: 110px;
+}
+div.itemCmnSet.editBox table.listTable2 th:nth-of-type(7) { /*商品画像*/
+    width: 130px;
+}
+div.itemCmnSet.editBox table.listTable2 th:nth-of-type(8) { /*SKUショッププレビュー*/
+	width: 85px;
+	letter-spacing: -0.01em;
+}
+
+/*-- td -------------- */
+div.itemCmnSet.editBox table.listTable2 td:nth-of-type(1),
+div.itemCmnSet.editBox table.listTable2 td:nth-of-type(2){
+	text-align: center;
+}
+/*商品画像*/
+div.itemCmnSet.editBox table.listTable2 td:nth-of-type(5) li {
+	background-image: url(../images/arrow2.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 5px;
+	padding-left: 10px;
+	margin-bottom: 5px;
+	text-align: left;
+}
+div.itemCmnSet.editBox table.listTable2 td:nth-of-type(5) li a {
+	display: block;
+	font-weight: bold;
+}
+div.itemCmnSet.editBox.editBox table.listTable2 td:nth-of-type(5) li:last-child {
+	background: none;
+}
+div.itemCmnSet.editBox table.listTable2 td:nth-of-type(7) p {
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background: #dddddd url(../images/not-img.png) no-repeat center;
+	border: 1px solid #dddddd;
+}
+div.itemCmnSet.editBox table.listTable2 td:nth-of-type(7) p img {
+	width: 40px;
+}
+div.itemCmnSet.editBox table.listTable2 td:nth-of-type(8) {
+	text-align: center;
+}
+div.itemCmnSet.editBox table.listTable2 td:nth-of-type(8) p {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px dashed #999;
+}
+div.itemCmnSet.editBox table.listTable2 td:nth-of-type(8) p:last-of-type {
+	border: none;
+	margin-bottom: 0px;
+}
+
+/*-- th[quickEdit] -------------- */
+div.itemCmnSet table.quickEdit th:first-of-type { /*行*/
+	width: 20px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(2) { /*対象*/
+	width: 30px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(3) { /*SKS ST*/
+	width: 75px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(4) { /*ショップST*/
+	width: 75px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(5) { /*商品番号等*/
+    width: 450px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(6) { /*SKU*/
+    width: 100px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(7) { /*ライブラリ画像*/
+    width: 130px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(8) { /*販売説明文*/
+    width: 130px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(9) { /*商品説明文*/
+    width: 130px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(10) { /*オプション*/
+    width: 100px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(11) { /*ショップカテゴリー*/
+    width: 200px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(12) { /*スペックID*/
+    width: 100px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(13) { /*関連商品*/
+    width: 130px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(14) { /*ショップ*/
+/*	width: 140px;*/
+}
+
+/*-- form -------------- */
+div.itemCmnSet table.quickEdit td input[type="text"] {
+	width: 85%;
+}
+div.itemCmnSet table.quickEdit td textarea {
+	width: 95%;
+	height: 95%;
+	line-height: 1.3em;
+	font-family: monospace;
+}
+div.itemCmnSet table.quickEdit td input[type="button"] {
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+
+/*-- td[quickEdit] -------------- */
+div.itemCmnSet table.quickEdit td:nth-of-type(14) {
+	text-align: center;
+}
+
+/*商品名等*/
+div.itemCmnSet table.quickEdit td:nth-of-type(5) li {
+	padding: 5px 0px;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(5) li a {
+	display: block;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(5) div {
+	margin-bottom: 10px;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(5) input[type="button"] {
+	width: inherit;
+}
+
+div.itemCmnSet.editBox table.quickEdit td:nth-of-type(5) p {
+	display: inline-block;
+	width: 64px;
+	height: 64px;
+	background: #dddddd url(../images/not-img.png) no-repeat center;
+	border: 1px solid #dddddd;
+}
+div.itemCmnSet.editBox table.quickEdit td:nth-of-type(5) p img {
+	width: 64px;
+}
+
+/*オプション*/
+div.itemCmnSet table.quickEdit td:nth-of-type(8) span,
+div.itemCmnSet table.quickEdit td:nth-of-type(9) span {
+	font-size: 10px;
+}
+
+/*オプション*/
+div.itemCmnSet table.quickEdit td:nth-of-type(10) dl {
+	margin-bottom: 10px;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(10) dt {
+	text-align: right;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(10) dd:nth-of-type(2n) {
+	margin-bottom: 10px;
+}
+
+/*カテゴリ*/
+div.itemCmnSet table.quickEdit td:nth-of-type(11) p:first-of-type,
+div.itemCmnSet table.quickEdit td:nth-of-type(11) p:last-of-type {
+	font-weight: bold;
+	width: 98%;
+	text-align: left;
+	margin: 0px 2px 10px 2px;
+	background: #333;
+	color: #fff;
+	padding: 5px 2px;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(11) p:nth-of-type(2) {
+	width: 100%;
+	text-align: right;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(11) dl {
+	margin-bottom: 10px;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(11) dt {
+	width: 95px;
+	margin-right: 5px;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(11) li {
+	font-weight: bold;
+	text-align: left;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(11) li span {
+    display: inline-block;
+    width: 53px;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(11) li input[type="text"] {
+	width: 85px;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(11) p:nth-of-type(2) input[type="button"] {
+	width: 50%;
+	margin-right: 5%;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(11) li input[type="button"] {
+	width: inherit;
+}
+
+
+/*操作*//*ショップ*//*プレビュー*/
+div.itemCmnSet.editBox table.quickEdit td:nth-of-type(14) p {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px dashed #999;
+}
+div.itemCmnSet.editBox table.quickEdit td:nth-of-type(14) p:last-of-type {
+	border: none;
+	margin-bottom: 0px;
+}
+
+/*--------------------------------------------------------------------------------------
+  [1]Item Edit 1.2
+--------------------------------------------------------------------------------------*/
+.itemCmnSet.editPage {
+	width: 98%;
+	margin: 0px auto;
+}
+.itemCmnSet.editPage #scrollArea {
+	margin-top: 10px;
+	overflow:auto;
+	height: 460px;
+}
+.itemCmnSet.editPage dl {
+    text-align: left;
+	margin-bottom: 10px;
+}
+.itemCmnSet.editPage dl dt {
+    font-weight: bold;
+    text-align: left;
+	vertical-align: top;
+	width: 150px;
+}
+.itemCmnSet.editPage dl dd {
+	text-align: left;
+}
+.itemCmnSet.editPage #block3 dl dt input,
+.itemCmnSet.editPage #block4 dl dt input {
+	display: block;
+	width: 100px;
+	margin-top: 5px;
+}
+
+
+/*　Block1 */
+.itemCmnSet.editPage #block1 dl {
+	display: block;
+	width: 100%;
+	text-align: left;
+}
+.itemCmnSet.editPage #block1 dl dt {
+    font-weight: bold;
+    width: 100px;
+    text-align: left;
+}
+.itemCmnSet.editPage #block1 dl dd:first-of-type {
+    width: 200px;
+}
+.itemCmnSet.editPage #block1 dl dd {
+    height: 30px;
+}
+.itemCmnSet.editPage #block1 > dl:nth-of-type(1) dd {
+    overflow: auto;
+}
+.itemCmnSet.editPage #block1 > dl:first-of-type dd:last-of-type {
+    width: 560px;
+}
+/*　Block1_1 */
+.itemCmnSet.editPage #block1 > #block1_1 dl {
+	display: inline-block;
+	width: 460px;
+}
+.itemCmnSet.editPage #block1 #block1_1 dl dt {
+	width: 75px;
+}
+.itemCmnSet.editPage #block1 #block1_1 dl dd {
+	width: 355px;
+}
+.itemCmnSet.editPage #block1 #block1_1 dl dd p {
+	width: 64px;
+	height: 64px;
+	background: #dddddd url(../images/not-img.png) no-repeat center;
+	border: 1px solid #dddddd;
+}
+.itemCmnSet.editPage #block1 #block1_1 dl dd img {
+	width: 64px;
+	height: 64px;
+}
+.itemCmnSet.editPage #block1 #block1_1 dl:last-of-type dt {
+	display: block;
+	width: 520px;
+}
+.itemCmnSet.editPage #block1 #block1_1 dl:last-of-type,
+.itemCmnSet.editPage #block1 #block1_1 dl:last-of-type dd {
+    width: 520px;
+	vertical-align: top;
+}
+.itemCmnSet.editPage #block1 #block1_1 dl:last-of-type dd input {
+	width: 90px;
+	margin-right: 5px;
+}
+.itemCmnSet.editPage #block1 #block1_1 dl:last-of-type dd input:last-of-type {
+	margin-right: 0px;
+}
+
+/* SKU */
+#skuBlock h2{
+    display:block;
+    border-bottom:#666 1px solid;
+    cursor:pointer;
+    background:url(images/i_swich.png) 177px -69px no-repeat;
+}
+#skuBlock div#skubox {
+    width:100%;
+    display:none;
+}
+#skuBlock div#skubox > div {
+	display: inline-block;
+	width: 195px;
+	text-align: center;
+}
+#skuBlock div#skubox > div:first-of-type {
+	width: 590px;
+}
+#skuBlock div#skubox > div p {
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 0px;
+    width: 98%;
+    margin: 5px auto;
+    text-align: center;
+	background: #ddd
+}
+#skuBlock div#skubox table {
+	width: 98%;
+	margin: 0px auto;
+	letter-spacing: 0.1em;
+}
+#skuBlock div#skubox table td {
+	text-align: left;
+}
+#skuBlock div#skubox table th,#skuBlock div#skubox table td {
+	border: 1px solid #ddd;
+}
+#skuBlock div#skubox table th:first-of-type {
+	width: 60px;
+}
+
+#skuBlock h2.active{
+    background:url(images/i_swich.png) 177px 18px no-repeat;
+}
+
+/*　Block2 */
+.itemCmnSet.editPage #block2 dl {
+	display: block;
+	height: 70px;
+}
+/*.itemCmnSet.editPage #block2 dl dt {
+	width: 180px;
+}*/
+.itemCmnSet.editPage #block2 dl dd {
+    width: 770px;
+}
+.itemCmnSet.editPage #block2 dl dd textarea {
+	width: 95%;
+	height: 60px;
+}
+
+/*　Block3 */
+.itemCmnSet.editPage #block3 dl dt {
+	/*width: 120px;*/
+	vertical-align: top;
+}
+.itemCmnSet.editPage #block3 dl dd {
+	width: 320px;
+}
+
+
+/*　Block4 */
+.itemCmnSet.editPage #block4 dl {
+    width: 450px;
+    display: inline-block;
+}
+/*.itemCmnSet.editPage #block4 dl dt {
+    width: 150px;
+}*/
+.itemCmnSet.editPage #block4 dl dd {
+    width: 285px;
+}
+.itemCmnSet.editPage #block4 dl:nth-of-type(2) {
+    width: 450px;
+    display: inline-block;
+    margin-left: 55px;
+}
+.itemCmnSet.editPage #block4 dl:nth-of-type(2) dd input[type="text"] {
+    width: 81%;
+}
+.itemCmnSet.editPage #block4 dl:nth-of-type(2) dt {
+    width: 123px;
+	vertical-align: inherit;
+}
+.itemCmnSet.editPage #block4 div {
+	letter-spacing: 0.1em;
+	font-weight: bold;
+	margin-bottom: 10px;
+
+}
+.itemCmnSet.editPage #block4 div span {
+	display: inline-block;
+	width: 150px;
+}
+.itemCmnSet.editPage #block4 div input[type="text"] {
+	width: 120px;
+	margin-right: 5px;
+}
+.itemCmnSet.editPage #block4 div input[type="button"] {
+	width: 100px;
+}
+
+/*　Block5 */
+
+.itemCmnSet.editPage #block5 p:first-of-type {
+	font-weight: bold;
+}
+.itemCmnSet.editPage #block5 p,
+.itemCmnSet.editPage #block5 dl {
+	display: inline-block;
+	width: 150px;
+	vertical-align: top;
+
+}
+
+
+/*　Block6 */
+.itemCmnSet.editPage #block6 dl {
+	display: inline-block;
+}
+.itemCmnSet.editPage #block6 dl:nth-of-type(2) dt {
+    width: 80px;
+}
+.itemCmnSet.editPage #block6 dl:nth-of-type(2) dd {
+    width: 130px;
+}
+.itemCmnSet.editPage #block6 dl dd input {
+    width: 70%;
+}
+.itemCmnSet.editPage #block6 dl:nth-of-type(3) dt {
+	width: 100px;
+}
+.itemCmnSet.editPage #block6 dl:nth-of-type(3) dt:last-of-type {
+	width: 140px;
+}
+.itemCmnSet.editPage #block6 dl:nth-of-type(3) dd {
+	width: 200px;
+}
+.itemCmnSet.editPage #block6 .inlineSet dl {
+	display: block;
+}
+.itemCmnSet.editPage #block6 .inlineSet dl dt {
+	width: 150px;
+}
+.itemCmnSet.editPage #block6 .inlineSet dl dd {
+    width: 770px;
+}
+.itemCmnSet.editPage #block6 .inlineSet dl dd textarea {
+	width: 95%;
+	height: 60px;
+}
+
+
+/*　Block7 */
+.itemCmnSet.editPage #block7 dl {
+	display: inline-block;
+	width: 200px;
+}
+.itemCmnSet.editPage #block7 dl dt {
+    border-bottom: 1px solid #ddd;
+}
+.itemCmnSet.editPage #block7 dl dd {
+    margin-left: 10px;
+}
+
+/*--------------------------------------------------------------------------------------
+  [1]Item Edit 1.2 - popup
+--------------------------------------------------------------------------------------*/
+
+/* common */
+#PopContents div.btn {
+	width: 100%;
+	margin-top: 20px;
+}
+#PopContents div.btn input[type="button"] {
+	width: 100px;
+	margin: 0px auto;
+	display: block;
+}
+#PopContents div.btn {
+	width: 100%;
+	margin-top: 20px;
+	position: fixed;
+	bottom: 0px;
+	padding: 10px 0px;
+	background: rgba(0,0,0,0.5);
+	left: 0;
+}
+
+
+#PopContents dl {
+	display: block;
+	text-align: left;
+}
+#PopContents dt,#PopContents dd {
+	text-align: left;
+	font-weight: bold;
+}
+.popSearch dt {
+	font-size: 15px;
+}
+.popSearch dt span {
+    font-size: 10px;
+    font-weight: normal;
+    padding-left: 10px;
+}
+ dl.popSearch input[type="text"] {
+    width: 400px;
+    margin-right: 10px;
+}
+dl.popSearch input[type="button"] {
+    width: 100px;
+}
+
+#PopContents table th,
+#PopContents table td{
+	border: 1px solid #ddd;
+}
+
+
+
+/* pop1_Img */
+.pop1_Img dl {
+	margin-bottom: 10px;
+}
+
+#PopContent.pop1_Img > dl dd {
+	font-weight: normal;
+}
+.pop1_Img dl dt,
+.pop1_Img dl dd:first-of-type {
+	margin-right: 10px;
+}
+
+/* pop2_Option */
+#PopContents.pop2_Option dl {
+	border-left: 5px solid #73c5ff;
+	margin-bottom: 10px;
+	margin-left: 32px;
+}
+#PopContents.pop2_Option dt {
+	width: 60px;
+	text-align: right;
+	margin-right: 10px;
+}
+.pop2_Option dd {
+	width: 465px;
+}
+.pop2_Option dd input {
+	width: 150px;
+}
+.pop2_Option dd:last-of-type input {
+	width: 450px;
+}
+#PopContents.pop2_Option dl:first-of-type {
+	border: none;
+	margin-left: 0px;
+}
+
+#PopContents.pop2_Option dl:first-of-type dt {
+	padding-left: 10px;
+	width: 90px;
+}
+#PopContents.pop2_Option dl:first-of-type dd {
+	width: 450px;
+}
+.pop2_Option dl:first-of-type dd input {
+	width: 150px;
+}
+.OptionBlock {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #3d3a35;
+}
+.OptionBlock:last-child {
+	display: block;
+	border: none;
+}
+
+
+/* pop3_Scate */
+#cateArea {
+	overflow: auto;
+	height: 200px;
+	margin: 10px auto;
+}
+
+/* pop4_Mcate */
+.pop4_Mcate div {
+	margin-top: 10px;
+}
+.pop4_Mcate div p {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.pop4_Mcate div table th,
+.pop4_Mcate div table td{
+	border: 1px solid #ddd;
+}
+.pop4_Mcate div table th:first-of-type {
+	width: 20px;
+	text-align:center;
+}
+.pop4_Mcate div table th:nth-of-type(2) {
+	width: 150px;
+}
+
+/* pop5_Spec */
+.pop5_Spec table {
+	width:550px;
+	margin: 0px auto;
+}
+.pop5_Spec table th:first-of-type {
+	width: 150px;
+}
+.pop5_Spec table th:last-of-type {
+	text-align: left;
+}
+
+.pop5_Spec table th,
+.pop5_Spec table td {
+	padding: 0px 20px;
+	height: 40px;
+}
+
+/*--------------------------------------------------------------------------------------
+  [1]Item 1.3
+--------------------------------------------------------------------------------------*/
+.itemCmnSetKnr.itemCmnSet.editBtn {
+    width: 100%;
+}
+.itemCmnSetKnr.editBtn p:nth-of-type(2) {
+	margin-left: 20px;
+}
+.itemCmnSetKnr.editBtn p:last-of-type {
+	position: absolute;
+	right: 1%;
+}
+
+
+
+
+div.itemCmnSetKnr.searchBox dl dt:nth-of-type(3),
+div.itemCmnSetKnr.searchBox dl dt:nth-of-type(16) {
+	line-height: 11px;
+	height: 14px;
+	vertical-align: middle;
+}
+div.itemCmnSetKnr.searchBox dl dd:nth-of-type(11) {
+	width: 315px;
+}
+div.itemCmnSetKnr.searchBox dl dt:nth-of-type(12) {
+	line-height: 1.5em;
+	height: inherit;
+	vertical-align: baseline;
+}
+
+
+/*-- th -------------- */
+div.itemCmnSetKnr.editBox table.managementList th {
+    white-space: pre;
+	padding: 0px 5px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:first-of-type { /*対象*/
+	width: 10px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(2) { /*SKS ST*/
+	width: 75px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(3) { /*ショップST*/
+	width: 75px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(4) { /*商品画像*/
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(5) { /*商品番号*/
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(6) { /*商品名*/
+	width: 200px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(7) { /*定価*/
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(8) { /*販売価格*/
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(9) { /*原価*/
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(10) { /*送料*/
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(11) { /*SKU*/
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(12) { /*ショップページ*/
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(13) { /*ブランド*/
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(14) { /*仕入先*/
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(15) { /*カタログ*/
+	width: 200px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(16) { /*競技*/
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(17) { /*分類名*/
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(18) { /*年度*/
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(19) { /*シーズン*/
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(20) { /*割引率*/
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(21) { /*原価率*/
+}
+
+/*-- td -------------- */
+div.itemCmnSetKnr.editBox table.managementList td {
+    text-align: left;
+}
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(10) {
+    white-space: pre;
+}
+
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(4) img { /*商品画像*/
+	width: 64px;
+}
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(6) { /*商品画像*/
+	text-align:left;
+}
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(15) div {
+    overflow: auto;
+    height: 50px;
+}
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(15) {
+}
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(10),
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(18),
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(19) {
+    white-space: pre;
+	text-align: center;
+}
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(20),
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(21) {
+	text-align: center;
+}
+
+
+/*--------------------------------------------------------------------------------------
+  [1] 1.5 - smarttemplate
+--------------------------------------------------------------------------------------*/
+#CmnContents .smartTmp.entryBox h2 {
+    padding-left: 10px;
+	border-left: 5px solid #73c5ff;
+	border-bottom: 1px solid #73c5ff;
+}
+
+.smartTmp.entryBox {
+	letter-spacing: 0.1em;
+	width: 950px;
+	margin: 0px auto;
+	text-align: left;
+}
+.smartTmp.entryBox div {
+	margin-bottom: 20px;
+}
+.smartTmp.entryBox th {
+	width: 150px;
+}
+.smartTmp.entryBox tr:last-of-type th {
+	vertical-align: top;
+}
+.smartTmp.entryBox textarea {
+	width: 600px;
+	height: 80px;
+}
+
+.smartTmp.entryBox.confBox tr:last-of-type th {
+	vertical-align: middle;
+}
+
+
+/*--------------------------------------------------------------------------------------
+  [1] 1.6 - Option Edit
+--------------------------------------------------------------------------------------*/
+#PopContents.OptionBlock2.pop2_Option .OptionBlock {
+	padding-right: 380px;
+}
+
+#PopContents.OptionBlock2.pop2_Option .btn {
+	margin: 0px;
+}
+#PopContents.OptionBlock2.pop2_Option dt {
+	padding: 5px 0px;
+	width: 63px;
+}
+
+#PopContents.OptionBlock2.pop2_Option dd {
+	font-weight: normal;
+	padding: 5px 0px;
+}
+
+
+
+/*--------------------------------------------------------------------------------------
+  [1] 1.7 - Export
+--------------------------------------------------------------------------------------*/
+.exportBox.entryBox {
+	letter-spacing: 0.1em;
+	width: 950px;
+	margin: 0px auto;
+	text-align: left;
+}
+.exportBox.entryBox th {
+	width: 120px;
+}
+.exportBox.entryBox tr:nth-of-type(2) th {
+	vertical-align: top;
+}
+
+.exportBox.entryBox textarea {
+	width: 600px;
+	height: 80px;
+}
+.exportBox.entryBox div {
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #73c5ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

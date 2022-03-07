@@ -1,0 +1,72 @@
+D:\C# Projects\ORS_RCM\API_Wowma\bin\Debug\API_Wowma.exe.config
+D:\C# Projects\ORS_RCM\API_Wowma\bin\Debug\API_Wowma.exe
+D:\C# Projects\ORS_RCM\API_Wowma\bin\Debug\API_Wowma.pdb
+D:\C# Projects\ORS_RCM\API_Wowma\bin\Debug\ionic.zip.dll
+D:\C# Projects\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.csprojAssemblyReference.cache
+D:\C# Projects\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.csproj.CoreCompileInputs.cache
+D:\C# Projects\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.csproj.CopyComplete
+D:\C# Projects\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.exe
+D:\C# Projects\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.pdb
+F:\MyData\Projects\ORS\API_Wowma\bin\Debug\API_Wowma.exe.config
+F:\MyData\Projects\ORS\API_Wowma\bin\Debug\API_Wowma.exe
+F:\MyData\Projects\ORS\API_Wowma\bin\Debug\API_Wowma.pdb
+F:\MyData\Projects\ORS\API_Wowma\bin\Debug\ionic.zip.dll
+F:\MyData\Projects\ORS\API_Wowma\obj\Debug\API_Wowma.csprojAssemblyReference.cache
+F:\MyData\Projects\ORS\API_Wowma\obj\Debug\API_Wowma.csproj.CoreCompileInputs.cache
+F:\MyData\Projects\ORS\API_Wowma\obj\Debug\API_Wowma.csproj.CopyComplete
+F:\MyData\Projects\ORS\API_Wowma\obj\Debug\API_Wowma.exe
+F:\MyData\Projects\ORS\API_Wowma\obj\Debug\API_Wowma.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Wowma\bin\Debug\API_Wowma.exe.config
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Wowma\bin\Debug\API_Wowma.exe
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Wowma\bin\Debug\API_Wowma.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Wowma\bin\Debug\ionic.zip.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.csprojAssemblyReference.cache
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.exe
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\API_Wowma\bin\Debug\API_Wowma.exe.config
+D:\ORS_Data\ORS_RCM\ORS_RCM\API_Wowma\bin\Debug\API_Wowma.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\API_Wowma\bin\Debug\API_Wowma.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\API_Wowma\bin\Debug\ionic.zip.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_BL.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_DL.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_Common.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_BL.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_DL.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_Common.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.csprojAssemblyReference.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.pdb
+D:\MyProjects\ORS_RCM\API_Wowma\bin\Debug\API_Wowma.exe.config
+D:\MyProjects\ORS_RCM\API_Wowma\bin\Debug\API_Wowma.exe
+D:\MyProjects\ORS_RCM\API_Wowma\bin\Debug\API_Wowma.pdb
+D:\MyProjects\ORS_RCM\API_Wowma\bin\Debug\ionic.zip.dll
+D:\MyProjects\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_BL.dll
+D:\MyProjects\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_DL.dll
+D:\MyProjects\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_Common.dll
+D:\MyProjects\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_BL.pdb
+D:\MyProjects\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_DL.pdb
+D:\MyProjects\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_Common.pdb
+D:\MyProjects\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.csproj.AssemblyReference.cache
+D:\MyProjects\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.csproj.CoreCompileInputs.cache
+D:\MyProjects\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.csproj.CopyComplete
+D:\MyProjects\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.exe
+D:\MyProjects\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.pdb
+D:\ORS_Data\ORS_RCM\API_Wowma\bin\Debug\API_Wowma.exe.config
+D:\ORS_Data\ORS_RCM\API_Wowma\bin\Debug\API_Wowma.exe
+D:\ORS_Data\ORS_RCM\API_Wowma\bin\Debug\API_Wowma.pdb
+D:\ORS_Data\ORS_RCM\API_Wowma\bin\Debug\ionic.zip.dll
+D:\ORS_Data\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_BL.dll
+D:\ORS_Data\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_DL.dll
+D:\ORS_Data\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_Common.dll
+D:\ORS_Data\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_BL.pdb
+D:\ORS_Data\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_DL.pdb
+D:\ORS_Data\ORS_RCM\API_Wowma\bin\Debug\ORS_RCM_Common.pdb
+D:\ORS_Data\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.csproj.AssemblyReference.cache
+D:\ORS_Data\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.exe
+D:\ORS_Data\ORS_RCM\API_Wowma\obj\Debug\API_Wowma.pdb

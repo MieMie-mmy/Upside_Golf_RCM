@@ -1,0 +1,84 @@
+﻿@charset "utf-8";
+
+/*------------------------------------------------------------
+ I make a user page with basics.
+ It is the CSS of the management page.
+ Please refer to [common.css] for the basic setting.
+-------------------------------------------------------------*/
+
+/*SET*/
+#prevBlock {
+	width:769px;
+	margin: 0px auto;
+}
+
+/*楽天商品ページCSS-直書き*/
+ td.sdtext { color:#000000; font-size:80%;}
+ td.topT_sdtext { color:#000000; font-size:80%;}
+ td.exT_sdtext { color:#000000; font-size:80%;}
+ td.inT_sdtext { color:#000000; font-size:80%;}
+
+body { background-color: #FFFFFF;}
+span.item_name { color: #3e3e3e; font-size: 100%;}
+span.item_desc { color: #FF0000; font-size: 120%;}
+span.item_number_title { color: #999999; font-size: 80%;}
+span.item_number { color: #999999; font-size: 100%;}
+span.unit { color: #000000; font-size: 100%;}
+span.price1 { color: #FF0000; font-size: 120%;}
+span.price2 { color: #FF0000; font-size: 120%;}
+span.tax_postage { color: #333333; font-size: 80%;}
+a.etc_link:link { color: #0000FF; font-size: 100%;}
+a.etc_link:visited { color: #0000FF; font-size: 100%;}
+a.etc_link:active { color: #0000FF; font-size: 100%;}
+a.etc_link:hover { color: #0000FF; font-size: 100%;}
+span.time_sale { color: #333333; font-size: 80%;}
+span.catch_copy { color: #808080; font-size: 80%;}
+span.sale_desc { color: #333333; font-size: 120%;}
+span.double_price_title { color: #333333; font-size: 80%;}
+span.double_price { color: #333333; font-size: 80%;}
+span.open_price_title { color: #333333; font-size: 80%;}
+span.open_price { color: #333333; font-size: 80%;}
+span.choice { color: #000000; font-size: 80%;}
+span.rest { color: #FF0000; font-size: 100%;}
+span.soldout_msg { color: #FF0000; font-size: 100%;}
+span.inventory_title { color: #000000; font-size: 100%;}
+td.inventory { background-color: #FFFFFF;}
+span.inventory_choice_name { color: #000000; font-size: 80%;}
+td.inventory_choice_name { background-color: #f0f8ff;}
+span.inventory_desc { color: #ff4500; font-size: 80%;}
+span.inventory_soldout { color: #000000; font-size: 100%;}
+span.inventory_rest { color: #000000; font-size: 100%;}
+td.lossleader_item_name { color: #000000; font-size: 100%; font-weight:bold;}
+a.lossleader_item_name:link { color: #000000;}
+a.lossleader_item_name:visited { color: #000000;}
+a.lossleader_item_name:active { color: #000000;}
+span.lossleader_price1 { color: #000000; font-size: 80%; font-weight:bold;}
+span.lossleader_price2 { color: #000000; font-size: 80%; font-weight:bold;}
+span.lossleader_double_price_title { color: #000000; font-size: 80%; font-weight:bold;}
+span.lossleader_double_price { color: #000000; font-size: 80%; font-weight:bold;}
+span.lossleader_open_price_title { color: #000000; font-size: 80%; font-weight:bold;}
+span.lossleader_open_price { color: #000000; font-size: 80%; font-weight:bold;}
+span.sa_catch_copy { color: #000000; font-size: 150%; font-weight:bold;}
+span.sa_item_name { color: #000000; font-size: 150%; font-weight:bold;}
+span.sa_item_desc { color: #000000; font-size: 100%;}
+span.sa_sale_desc { color: #000000; font-size: 100%;}
+span.present_catch_copy { color: #000000; font-size: 120%; font-weight:bold;}
+span.present_item_name { color: #006600; font-size: 120%; font-weight:bold;}
+span.present_entry_term { color: #333333; font-size: 80%;}
+span.present_item_desc { color: #FF0000; font-size: 120%;}
+span.win_cnt_title { color: #000000; font-size: 100%;}
+span.win_cnt { color: #000000; font-size: 100%;}
+span.present_end_msg { color: #FF0000; font-size: 100%;}
+span.gbuy_catch_copy { color: #000000; font-size: 150%; font-weight:bold;}
+span.gbuy_item_name { color: #000000; font-size: 150%; font-weight:bold;}
+span.gbuy_time_sale { color: #000000; font-size: 100%;}
+span.gbuy_item_desc { color: #000000; font-size: 100%;}
+span.gbuy_sale_desc { color: #000000; font-size: 100%;}
+span.gbuy_price1 { color: #FF0000; font-size: 100%;}
+span.gbuy_price2 { color: #FF0000; font-size: 100%;}
+span.gbuy_double_price_title { color: #000000; font-size: 100%;}
+span.gbuy_double_price { color: #000000; font-size: 100%;}
+span.gbuy_final_price { font-size: 120%; font-weight:bold;}
+span.gbuy_open_price_title { color: #000000; font-size: 100%;}
+span.gbuy_open_price { color: #000000; font-size: 100%;}
+span.gbuy_table_detail_title { font-size: 100%;}

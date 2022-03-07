@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="JishaMaster.master.cs" Inherits="ORS_RCM.JishaMaster" %>
+
+<%@ Register src="WebForms/Jisha/SideMenu.ascx" tagname="SideMenu" tagprefix="uc1" %>
+
+<%@ Register src="WebForms/Jisha/SearchMenu.ascx" tagname="SearchMenu" tagprefix="uc2" %>
+
+<%@ Register src="WebForms/Jisha/FooterMenu.ascx" tagname="FooterMenu" tagprefix="uc3" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    
+    <uc2:SearchMenu ID="SearchMenu1" runat="server" />
+    
+    <table width="100%">
+    <tr>
+    <td colspan="2"><%--HeaderMenu--%>
+   
+    <%--    <asp:Menu ID="NavigationMenu" runat="server">
+        <Items>
+        <asp:MenuItem NavigateUrl="~/LogIn.aspx" Text="SKS Login"/>
+        <asp:MenuItem NavigateUrl="~/Jisha_Import.aspx" Text="Import" Value="Import"></asp:MenuItem>
+        <asp:MenuItem NavigateUrl="~/WebForms/Jisha/Jisha_Item_View.aspx" Text="Item_View" 
+                        Value="Item_View"></asp:MenuItem>
+        <asp:MenuItem NavigateUrl="~/WebForms/Jisha/Jisha_Order.aspx" Text="Order" Value="Order"></asp:MenuItem>
+        <asp:MenuItem NavigateUrl="~/WebForms/Jisha/Jisha_Shopping_Cart.aspx" Text="Shopping Cart" 
+                        Value="Shopping Cart"></asp:MenuItem>
+        <asp:MenuItem NavigateUrl="~/WebForms/Jisha/Jisha_Payment.aspx" Text="Payment" 
+                        Value="Payment"></asp:MenuItem>
+                        </Items>
+        </asp:Menu>--%>
+    </td>
+    </tr>
+    <tr>
+    <td rowspan="2" valign="top"><%--SideMenu--%>
+        <uc1:SideMenu ID="SideMenu1" runat="server" />
+    </td>
+    <td><%--Page--%>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        <tr>
+        <td><%--FooterMenu--%>
+           <uc3:FooterMenu ID="FooterMenu1" runat="server" />
+        </td>
+        </tr>
+    </td>
+    </tr>
+    </table>
+    </form>
+</body>
+</html>

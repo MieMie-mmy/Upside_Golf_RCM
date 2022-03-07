@@ -1,0 +1,686 @@
+﻿@charset "utf-8";
+
+/*------------------------------------------------------------
+ I make a user page with basics.
+ It is the CSS of the management page.
+ Please refer to [common.css] for the basic setting.
+-------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------------------------------
+  parts
+--------------------------------------------------------------------------------------*/
+p.attText {
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 25px 0px;
+	color: #e02133;
+}
+
+/*--------------------------------------------------------------------------------------
+  List
+--------------------------------------------------------------------------------------*/
+
+/*--- common ------------*/
+div.setListBox {
+    margin-bottom: 20px;
+}
+
+/*--- Page Top search ------------*/
+div.iconSet h1 {
+	letter-spacing: 0.1em;
+	border-bottom: 1px solid #3d3a35;
+	text-align: left;
+	margin-bottom: 10px;
+	font-size: 18px;
+}
+
+/*--- entry ------------*/
+div.setListBox:nth-of-type(2) {
+	margin-bottom: 0px;
+}
+div.setListBox #entry p input {
+	width: 200px;
+}
+
+
+/*--- Table list ------------*/
+table.listTable {
+    border: 1px solid #b5b5b5;
+    margin: 8px auto 10px auto;
+}
+table.listTable th,table.listTable td {
+    border: 1px solid #b5b5b5;
+    text-align: center;
+}
+table.listTable th {
+	background: #f2f2f2;
+	background: -moz-linear-gradient(top,  #f2f2f2 0%, #e8e8e8 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2f2f2), color-stop(100%,#e8e8e8));
+	background: -webkit-linear-gradient(top,  #f2f2f2 0%,#e8e8e8 100%);
+	background: -o-linear-gradient(top,  #f2f2f2 0%,#e8e8e8 100%);
+	background: -ms-linear-gradient(top,  #f2f2f2 0%,#e8e8e8 100%);
+	background: linear-gradient(to bottom,  #f2f2f2 0%,#e8e8e8 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', endColorstr='#e8e8e8',GradientType=0 );
+	height:	30px;
+	white-space: pre;
+}
+
+table.listTable tr:nth-of-type(2n) {
+	background: #f9f9f9;
+}
+
+table.listTable td span {
+    display: block;
+}
+
+table.ExportQTable {
+    border: 1px solid #b5b5b5;
+    margin: 8px auto 10px auto;
+    width:  1600px;
+    margin-left: -172px;
+}
+table.ExportQTable th,table.ExportQTable td {
+    border: 1px solid #b5b5b5;
+    text-align: center;
+}
+table.ExportQTable th {
+	background: #f2f2f2;
+	background: -moz-linear-gradient(top,  #f2f2f2 0%, #e8e8e8 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2f2f2), color-stop(100%,#e8e8e8));
+	background: -webkit-linear-gradient(top,  #f2f2f2 0%,#e8e8e8 100%);
+	background: -o-linear-gradient(top,  #f2f2f2 0%,#e8e8e8 100%);
+	background: -ms-linear-gradient(top,  #f2f2f2 0%,#e8e8e8 100%);
+	background: linear-gradient(to bottom,  #f2f2f2 0%,#e8e8e8 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', endColorstr='#e8e8e8',GradientType=0 );
+	height:	30px;
+	white-space: pre;
+}
+
+table.ExportQTable tr:nth-of-type(2n) {
+	background: #f9f9f9;
+}
+table.ExportQTable th:nth-of-type(8n) {
+	width: 250px;
+}
+
+table.ExportQTable td span {
+    display: block;
+}
+
+table.ExportQTable td:nth-of-type(8) p img {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: #dddddd url(../../images/not-img.png) no-repeat center;
+    border: 1px solid #dddddd;
+}
+
+/*--------------------------------------------------------------------------------------
+  Pagenation - Footer
+--------------------------------------------------------------------------------------*/
+/*--- Pagenation[Fixed] ------------*/
+div.btn.pageNav  {
+/*	width: 100%;
+	margin: 20px auto 0px auto;
+	position: fixed;
+	/*bottom: 22px;*/
+	bottom: 0px;
+	background: rgba(61,58,53,1);
+	left: 0px;
+	padding: 10px 0px 5px 0px;*/
+}
+div.btn.pageNav nav#ListPaging {
+    width: 800px;
+}
+nav#ListPaging ul, x:-moz-any-link, x:default { width:440px; }
+div.btn nav#ListPaging ul {
+	display: inline-block;
+}
+div.btn nav#ListPaging p {
+	display: inline-block;
+	margin-top: -22px;
+	/* height: 38px; */
+	vertical-align: middle;
+}
+
+/*--- Pagenation ------------*/
+div.btn  {
+	width: 100%;
+	margin: 20px auto 0px auto;
+	position: fixed;
+	bottom: 0px;
+	background: rgba(61,58,53,1);
+	left: 0px;
+	padding: 7px 0px;
+	text-align: center;
+}
+
+div.btnuser {
+	width: 100%;
+	margin: 20px auto 0px auto;
+	position: fixed;
+	bottom: -20px;
+	background: rgba(0,0,0,0.5);
+	left: 0px;
+	padding: 30px 0px 20px 0px;
+	text-align: center;
+	vertical-align:middle;
+}
+
+div.userRole {
+	padding-bottom: 20px;
+}
+
+
+/*--------------------------------------------------------------------------------------
+  entry & edit
+--------------------------------------------------------------------------------------*/
+div.setDetailBox table.editTable {
+	width: 100%;
+	margin-bottom: 90px;
+}
+
+div.setDetailBox table.editTable th {
+	width: 160px;
+	text-align: left;
+	border-right: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+	border-left: 5px solid #73c5ff;
+	padding: 5px 5px 5px 10px;
+}
+div.setDetailBox table.editTable td {
+	border-bottom: 1px solid #ddd;
+	padding: 5px;
+}
+div.setDetailBox table.editTable td dt {
+    font-weight: bold;
+    border-bottom: 1px dashed #ddd;
+    padding: 5px 0px;
+}
+div.setDetailBox table.editTable td dd {
+    margin-left: 50px;
+	margin-top: 5px;
+}
+div.setDetailBox table.editTable td dd label {
+    line-height: 2em;
+}
+div.setDetailBox input[type="text"] {
+	width: 55%;
+}
+
+div.setDetailBox table.editTable th span {
+	color: #ff0000;
+	font-size: 10px;
+}
+
+
+div.setDetailBox div.btn,
+div.setListBox div.btn {
+	width: 100%;
+	margin: 20px auto 0px auto;
+	position: fixed;
+	/*bottom: 22px;*/
+	bottom: 0px;
+	background: rgba(61,58,53,1);
+	left: 0px;
+	/*padding: 4px 0px;*/
+	padding: 7px 0px;
+	z-index: 9999;
+}
+div.setDetailBox div input, div.setListBox div.btn input {
+	display: block;
+	margin: 0px auto;
+	width: 300px;
+}
+div.setDetailBox div input,div.setListBox div.btn input {
+	height: 25px;
+	width: 150px;
+}
+
+
+/*--- CSV Import Page
+div.setDetailBox.impirtAtt p{
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 25px 0px;
+	color: #e02133;
+}
+ ------------*/
+/*--------------------------------------------------------------------------------------
+  Operetion Button
+--------------------------------------------------------------------------------------*/
+div.operationBtn {
+	margin-bottom: 10px;
+    width: 1000px;
+    margin: 0px auto;
+    position: relative;
+    height: 30px;
+}
+div.operationBtn p {
+	margin-right: 5px;
+}
+
+/*-- 100% -------------- */
+.widthhMax.operationBtn {
+	width: 100%;
+}
+/*-- Number of items -------------- */
+.operationBtn p.itemPage {
+	position: absolute;
+	right: 1%;
+	top: 0px;
+}
+
+/*-- Icon Item List
+.itemCmnSet.editBtn {
+	position: relative;
+}
+.itemCmnSet.editBtn p {
+	display: inline-block;
+}
+.itemCmnSet.editBtn p:last-of-type {
+	position: absolute;
+	right: 0;
+}
+.itemCmnSet.editBtn p:last-of-type select {
+	width:	60px;
+}
+ -------------- */
+/*--------------------------------------------------------------------------------------
+  confirmation
+--------------------------------------------------------------------------------------*/
+div.setDetailBox.confSet table td dt {
+	padding: 10px 0px;
+}
+.confSet p {
+	padding: 5px 0px;
+}
+
+/*--------------------------------------------------------------------------------------
+  Icon
+--------------------------------------------------------------------------------------*/
+/*-- Title ICON -------------- */
+.iconSet h1 {
+	padding-left: 40px;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	background-size: 30px;
+	background-position: 0px -1px;
+	background-repeat: no-repeat;
+}
+
+.iconUser h1 { background-image: url(../images/user.png); }
+.iconShop h1 { background-image: url(../images/shop.png); }
+.iconSearch h1 { background-image: url(../images/search2.png); }
+.iconDb h1 { background-image: url(../images/data.png); }
+.iconList h1 { background-image: url(../images/list.png); }
+.iconEdit h1 { background-image: url(../images/edit.png); }
+.iconCheck h1 { background-image: url(../images/check.png); }
+.iconImport h1 { background-image: url(../images/import.png); }
+.iconLog h1 { background-image: url(../images/log.png); }
+
+.iconRakuten h1 {
+	background-image: url(../images/icon-rakuten.png);
+}
+.iconYahoo h1 {
+	background-image: url(../images/icon-yahoo.png);
+}
+.iconPon h1 {
+	background-image: url(../images/icon-pon.png);
+}
+.iconJisya h1 {
+	background-image: url(../images/icon-jisya.png);
+}
+.iconAmazon h1 {
+	background-image: url(../images/icon-amazon.png);
+}
+
+.iconSet .h2 h2 {
+	padding-left: 27px !important;
+	padding-bottom: 3px;
+	padding-top: 3px;
+	background-size: 20px;
+	background-position: 0px 4px;
+	background-repeat: no-repeat;
+	font-size: 16px !important;
+}
+.iconList.h2 h2 { background-image: url(../images/list.png); }
+
+/*-- status ICON -------------- */
+.stSet p {
+	width: 20px;
+	text-align: center;
+	color: #fff;
+	padding: 2px 0px;
+	margin:2px auto;
+}
+/*ページ制作*/
+.stSet.sksST p.page { background: #F39; }
+.stSet.sksST p.page:before { content:"制"; }
+
+/*出品待ち*/
+.stSet.sksST p.wait1 { background: #ff0000; }
+.stSet.sksST p.wait1:before { content:"待"; }
+
+/*期日出品待ち*/
+.stSet.sksST p.waitL { background: #f7a300; }
+.stSet.sksST p.waitL:before { content:"期"; }
+
+/*出品中*/
+.stSet.sksST p.exhibit { background: #23d134; }
+.stSet.sksST p.exhibit:before { content:"中 "; }
+
+/*倉庫*/
+.stSet.sksST p.warehouse { background: #00FFFF ; }
+.stSet.sksST p.warehouse:before { content:"倉"; }
+
+/*Error*/
+.stSet.sksST p.warehouseerror { background: #843f5b; }
+.stSet.sksST p.warehouseerror:before { content:"E"; }
+
+/*出品済*/
+.stSet.sksST p.mono { background: #003366; }
+.stSet.sksST p.mono:before { content:"M"; }
+
+/*未出品*/
+.stSet.sksST p.nomono { background: #226600; }
+.stSet.sksST p.nomono:before { content:"N"; }
+
+/*Ready*/
+.stSet.sksST p.ready { background: #80002a; }
+.stSet.sksST p.ready:before { content:"R"; }
+
+/*Not Ready*/
+.stSet.sksST p.noready { background: #e67300; }
+.stSet.sksST p.noready:before { content:"N"; }
+
+/*出品済*/
+.stSet.sksST p.ok1 { background: #00F; }
+.stSet.sksST p.ok1:before { content:"済"; }
+
+.stSet.sksST p.notok1 { background: #cc33ff; }
+.stSet.sksST p.notok1:before { content:"未"; }
+
+/*未掲載*/
+.stSet.shopST p.wait { background: #ff0000; }
+.stSet.shopST p.wait:before { content:"未"; }
+
+/*掲載中*/
+.stSet.shopST p.ok { background: #00F; }
+.stSet.shopST p.ok:before { content:"掲"; }
+
+/*削除*/
+.stSet.shopST p.del { background: #000; }
+.stSet.shopST p.del:before { content:"削"; }
+
+.stSet.shopST p.deactive { background: #c3c3a2; }
+.stSet.shopST p.deactive:before { content:"無"; }
+
+.ptSet p {
+	width: 20px;
+	text-align: center;
+	color: #fff;
+	padding: 2px 0px;
+	margin:2px auto;
+}
+/*ページ制作*/
+.ptSet.sksST p.page { background: #F39; }
+.ptSet.sksST p.page:before { content:"制"; }
+
+/*出品待ち*/
+.ptSet.sksST p.wait1 { background: #ff0000; }
+.ptSet.sksST p.wait1:before { content:"待"; }
+
+/*期日出品待ち*/
+.ptSet.sksST p.waitL { background: #f7a300; }
+.ptSet.sksST p.waitL:before { content:"期"; }
+
+/*出品中*/
+.ptSet.sksST p.exhibit { background: #23d134; }
+.ptSet.sksST p.exhibit:before { content:"中 "; }
+
+/*出品済*/
+.ptSet.sksST p.ok1 { background: #00F; }
+.ptSet.sksST p.ok1:before { content:"済"; }
+
+/**/
+.ptSet.sksST p.notok1 { background: #cc33ff; }
+.ptSet.sksST p.notok1:before { content:"未"; }
+
+/*未掲載*/
+.ptSet.shopST p.wait { background: #ff0000; }
+.ptSet.shopST p.wait:before { content:"未"; }
+
+/*掲載中*/
+.ptSet.shopST p.ok { background: #00F; }
+.ptSet.shopST p.ok:before { content:"掲"; }
+
+/*削除*/
+.ptSet.shopST p.del { background: #000; }
+.ptSet.shopST p.del:before { content:"削"; }
+
+/*掲載無*/
+.ptSet.shopST p.deactive { background: #c3c3a2; }
+.ptSet.shopST p.deactive:before { content:"無"; }
+
+
+/*ロック中*/
+.stSet p.lockIcon {
+	background: url(../images/icon_lock.png) no-repeat;
+	background-size: 20px;
+	background-position: top center;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 10px 0px;
+	color: #fff;
+	height: 30px;
+}
+
+/*-- mall ICON --*/
+.mallSet p {
+	margin-right: 5px;
+	display: inline-block;
+   
+}
+
+/*楽天*/
+.mallSet p.iconR { background: #b3321e; }
+.mallSet p.iconR:before { content:"Ｒ"; }
+
+/*Yahoo*/
+.mallSet p.iconY { background: #f39700; }
+.mallSet p.iconY:before { content:"Ｙ"; }
+
+/*ponpare*/
+.mallSet p.iconP { background: #e6002d; }
+.mallSet p.iconP:before { content:"Ｐ"; }
+
+/*自社*/
+.mallSet p.iconJ { background: #66cc00; }
+.mallSet p.iconJ:before { content:"自"; }
+
+/*amazon*/
+.mallSet p.iconA { background: #000; }
+.mallSet p.iconA:before { content:"ａ"; }
+
+    /*Wowma*/
+.mallSet p.iconW { background: #a82cc1; }
+.mallSet p.iconW:before { content: "W"; }
+
+
+
+
+/*-- ICON description -------------- */
+.iconEx p,
+.iconEx div {
+	display: inline-block;
+	position: initial;
+}
+.iconEx div {
+	font-size: 10px;
+
+}
+.iconEx div.stSet p.lockIcon {
+	height: 30px;
+	margin-bottom: -10px;
+	padding: 0px;
+	position: initial;
+}
+
+/*.iconEx p,.iconEx div {
+--------------------------------------------------------------------------------------
+  Search
+--------------------------------------------------------------------------------------*/
+/*--- common ------------*/
+/*div.searchBox dl {
+	width: 1000px;
+	margin: 0px auto;
+	text-align: left;
+}*/
+div.searchBox dl {
+	width: 980px;
+	margin: 0px auto;
+	text-align: left;
+	display: block;
+}
+div.searchBox dl dt {
+	width: 100px;
+	text-align: right;
+	margin-bottom: 1px;
+/*	height: 22px;
+	vertical-align: middle;
+*/}
+div.searchBox dl dd {
+	width: 130px;
+	text-align: left;
+	margin-bottom: 1px;
+	height: initial;
+	vertical-align: bottom;
+	/*margin-right: 10px;*/
+}
+
+div.searchBox dl dd select,
+div.searchBox dl dd input[type="text"],
+div.searchBox dl dd textarea {
+	width: 100%;
+	vertical-align: bottom;
+}
+div.searchBox dl dd select,
+div.searchBox dl dd input[type="text"] {
+	height: 25px;
+}
+
+/*カレンダー*/
+div.searchBox dl dd.cal input[type="text"] {
+	width: 130px;
+	margin-right: 2px;
+}
+
+/*
+div.searchBox dl dd select {
+	width: 130px;
+}
+div.searchBox dl dd input {
+	width: 120px;
+}
+*/
+
+div.searchBox p {
+	width: 100%;
+	margin: 10px auto 0px auto;
+}
+
+div.searchBox p input[type="button"],
+div.searchBox p input[type="submit"] {
+	width: 150px;
+}
+div.searchBox select {
+	width: 200px;
+}
+
+/* toggle */
+#hideBlock #hideBox {
+    width:100%;
+    display:none;
+}
+div#hideBlock p {
+    text-align: left;
+    padding-left: 27px;
+    font-weight: bold;
+    border-bottom: 1px dashed #333;
+    width: 973px;
+	background-image: url(../images/btn_on-off.gif);
+    background-position: 11px 3px;
+	background-repeat: no-repeat;
+    height: 20px;
+}
+div#hideBlock p.active {
+    border-bottom: none;
+    background-position: 11px -26px;
+}
+
+/* Category Search */
+div.CateIdSar.searchBox h2 span {
+	padding-left: 10px;
+	font-size: 10px;
+	font-weight: normal;
+}
+div.CateIdSar.searchBox dl {
+    width: 100%;
+}
+div.CateIdSar.searchBox dl dd {
+    width: 750px;
+}
+div.CateIdSar.searchBox dl dd input {
+    width: 700px;
+	margin: 0px 5px;
+}
+
+
+
+/*--------------------------------------------------------------------------------------
+  1.2/2.3 edit
+--------------------------------------------------------------------------------------*/
+.cmnEdit div {
+	width: 960px;
+	margin: 0px auto;
+}
+.cmnEdit dl {
+	width: 100%;
+	vertical-align: top;
+	margin-bottom: 30px;
+}
+.cmnEdit dl dt {
+	width: 100%;
+	font-weight: bold;
+	display: block;
+	text-align: left;
+	border-left: 3px solid #73c5ff;
+	border-bottom: 1px solid #73c5ff;
+	padding: 4px 0px 4px 5px;
+	margin-bottom: 10px;
+	background: #d6efff;
+	box-sizing: border-box;
+}
+/**/.cmnEdit dl dd {
+	width: 100%;
+	text-align: left;
+	margin-left: 20px;
+}
+
+.cmnEdit dl dd textarea {
+	width: 284px;
+	height: 35px;
+	overflow-y: hidden;
+}
+
+.cmnEdit .parts dl {
+	display: inline-block;
+	margin-right: 20px;
+}
+.cmnEdit .parts dl:nth-of-type(2n) {
+	margin-right: 0px;
+}

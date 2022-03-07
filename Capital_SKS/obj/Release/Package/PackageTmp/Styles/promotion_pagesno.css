@@ -1,0 +1,63 @@
+﻿/* File Created: July 15, 2014 */
+
+.li {
+	margin: 0px 2px;
+}
+
+.lnk {
+	vertical-align: middle;
+	/* height: 20px; */
+	text-align: center;
+	width: 40px;
+	color:#333;
+	border: 1px solid #b5b5b5;
+	text-align: center;
+	background-color:White;
+	/*display:table-cell;*/
+	text-decoration: none;
+	display: block;
+	padding: 2px 0px;
+}
+.lnk:hover {
+	background-color:#73c5ff !important;
+	/*border: 1px solid #b5b5b5;*/
+	text-align: center;
+	/*display:table-cell; */
+	color: #fff;
+}
+
+.pgText {
+	color: #fff;
+	padding-left: 10px;
+}
+	
+#scroll {
+	vertical-align: middle;
+	height: 30px;
+	text-align: center;
+	width: 40px;
+	color:#7045e9;
+	border: 1px solid #b5b5b5;
+	text-align: center;
+	background-color:White;
+	display:table-cell; 
+}
+
+#scroll a {
+	vertical-align: middle;
+	height: 30px;
+	text-align: center;
+	border: 1px solid #b5b5b5;
+	text-align: center;
+	background-color:White;
+	display: table-cell;
+}
+
+#scroll a:hover {
+	background-color:Gray;
+	background-color:#b5b5b5;
+	border: 1px solid #b5b5b5;
+	text-align: center;
+	display:table-cell; 
+}
+	

@@ -1,0 +1,162 @@
+﻿@charset "utf-8";
+
+header {
+	display: block;
+	background-color:#3d3a35;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	z-index: 999;
+	padding: 5px 0px 0px 0px;
+	color: #fff;
+}
+header a {
+	color: #fff;
+}
+#HeaderWrapper {
+	width: 1000px;
+	margin: 0px auto;
+	/*height: 50px;
+	 vertical-align: middle; */
+}
+
+#HeaderWrapper p {
+    display: inline-block;
+	width: 65px;
+    height: 50px;
+    vertical-align: middle;
+}
+#HeaderWrapper p img {
+	width: 60px;
+	margin-top: 10px;
+}
+
+
+
+header nav {
+	background: #3d3a35;
+    width: 790px;
+    display: inline-block;
+}
+
+#nav {
+	width: 100%;
+	margin: 0px auto;
+	position: relative;
+	line-height:1;
+	text-align: left;
+	letter-spacing: -.40em;
+}
+#nav > li {
+    display: inline-block;
+	position: relative;
+	color: #fff;
+    width: 16.5%;
+	letter-spacing: normal;
+    text-align: center;
+    padding: 10px 0px;
+    border-left: 1px solid #545151;
+}
+#nav > li:hover {
+	background: #3d3a35;
+}
+#nav > li:before {
+	content: "";
+	float: left;
+	width: 6px;
+	height: 16px;
+	margin: 0 0px 0 10px;
+	background: url(../images/h_arrow.png) 0px 6px no-repeat;
+}
+#nav > li:hover:before {
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+	background-position: 0px 4px;
+}
+
+#nav > li:last-child {
+    border-right: 1px solid #545151;
+}
+#nav > li > a {
+    display: block;
+    color: #fff;
+    letter-spacing: 0.1em;
+    text-decoration: none;
+	font-size: 10px;
+    padding-left: 10px;
+}
+
+#nav ul { display: none; position: absolute; top: 39px; left: 0; }
+
+#nav ul { width: 100%; }
+#nav ul ul { top: 0; left: 100%; }
+#nav ul a { 
+	display: block;
+	width: 95%;
+	background:#545151;
+	padding: 10px 0px 10px 5%;
+	color: #fff;
+	border-bottom: 1px solid #FFF;
+	zoom: 1;
+	line-height: 1;
+	text-align: left;
+	font-size: 10px;
+}
+#nav ul a.hover { background: #444; }
+
+
+
+
+#userLog {
+	display: inline-block;
+	font-size: 10px;
+	height: 50px;
+	margin-bottom: -13px;
+	vertical-align: middle;
+}
+
+#userLog li:first-child {
+	background:url(../images/user2.png);
+	background-size: 12px;
+	background-position: 0px;
+	background-repeat: no-repeat;
+	padding-left: 22px;
+}
+#userLog li input[type="text"] {
+	width:150px;
+	margin-right: 10px;
+	padding: 2px;
+}
+#userLog li input[type="button"] {
+	width:80px;
+	height: inherit;
+	padding: 2px;
+}
+
+#userLog li:nth-of-type(2) {
+	text-align: right;
+	font-size:10px;
+}
+
+
+
+div#HeaderWrapper div {
+    text-align: right;
+}
+
+div#HeaderWrapper div input[type="text"] {
+	width:200px;
+	margin-right: 10px;
+	padding: 2px;
+}
+div#HeaderWrapper div input[type="button"] {
+	width:80px;
+	height: inherit;
+	padding: 2px;
+}
+
+

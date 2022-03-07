@@ -1,0 +1,296 @@
+﻿/* File Created: September 23, 2014 */
+
+@charset "utf-8";
+
+
+.f_btn {
+	width: 100%;
+	margin: 10px auto 0px auto;
+}
+.f_btn input[type="button"] {
+	width: 100px;
+	height: 30px;
+}
+table.tableSet th {
+	background: #f2f2f2;
+	background: -moz-linear-gradient(top,  #f2f2f2 0%, #e8e8e8 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2f2f2), color-stop(100%,#e8e8e8));
+	background: -webkit-linear-gradient(top,  #f2f2f2 0%,#e8e8e8 100%);
+	background: -o-linear-gradient(top,  #f2f2f2 0%,#e8e8e8 100%);
+	background: -ms-linear-gradient(top,  #f2f2f2 0%,#e8e8e8 100%);
+	background: linear-gradient(to bottom,  #f2f2f2 0%,#e8e8e8 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', endColorstr='#e8e8e8',GradientType=0 );
+	height:	30px;
+	white-space: pre;
+}
+table.tableSet tr:nth-of-type(2n) {
+	background: #f9f9f9;
+}
+table,table th,table td {
+	border: 1px solid #b5b5b5;
+}
+
+/*--- Pagenation ------------*/
+nav#ListPaging {
+	display: block;
+	width:490px;
+	margin: 30px auto 0px auto;
+}
+nav#ListPaging, x:-moz-any-link, x:default { width:480px; }
+
+nav#ListPaging ul {
+	width: 440px;
+	display: inline-block;
+}
+	
+nav#ListPaging li {
+	background: #fff;
+	border: 1px solid #Ddd;
+	width: 30px;
+	height: 30px;
+	margin: 0px 5px;
+	text-align: center;
+}
+nav#ListPaging li a {
+	display: table-cell;
+	vertical-align: middle;
+	height: 30px;
+	text-align: center;
+	width: 30px;
+}
+nav#ListPaging li a:hover {
+	background: #ddd;
+}
+
+nav#ListPaging li:first-child,nav#ListPaging li:last-child,
+nav#ListPaging li:first-child a,nav#ListPaging li:last-child a {
+	width:100px;
+}
+
+
+
+/*--------------------------------------------------------------------------------------
+  soryo
+--------------------------------------------------------------------------------------*/
+/*--- SETTING -----------------------------------*/
+.soryoSet .soryoBox {
+	width: 765px;
+	margin: 10px  auto 20px auto;
+}
+.soryoSet dl {
+	margin-bottom: 5px;
+}
+.soryoSet dt {
+	width: 100px;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	margin-bottom: 10px;
+}
+/*.soryoSet dd {
+	text-align: left;
+}
+*/.soryoSet dd:first-of-type {
+	width: 200px;
+}
+
+.soryoSet dd:last-of-type input {
+	margin: 0px 20px;
+	width: 100px;
+	font-size: 10px;
+	padding: 2px;
+	height: 20px;
+}
+.soryoSet dd select {
+	font-size: 12px;
+	font-family: "ＭＳ ゴシック", "MS Gothic", "Osaka－等幅", Osaka-mono, monospace;
+}
+
+/*--- Confirmation -----------------------------------*/
+.soryoConf dd:last-of-type p {
+	margin: 0px 20px;
+	font-weight: bold;
+	width: 60px;
+}
+
+
+/*--------------------------------------------------------------------------------------
+  order
+--------------------------------------------------------------------------------------*/
+/*--- LIST -----------------------------------*/
+.orderSet table td {
+	text-align: center;
+}
+
+/*--- Detail -----------------------------------*/
+#CmnContents .oDetailSet h2 {
+	font-size: 13px;
+	margin: 10px 0px 5px 0px;
+	font-weight:bold;
+	padding: 0px;
+	border-bottom: 1px solid #f39800;
+}
+#CmnContents .oDetailSet h2 span {
+	display: block;
+	background: #ffeac4;
+	border: 1px solid #f39800;
+	border-bottom: none;
+	width: 111px;
+	text-align: center;
+	border-radius: 5px 5px 0px 0px;
+	padding: 3px 0px;
+}
+
+
+.oDetailSet dl dd {
+}
+
+
+/*--- blockCmn ---*/
+.oDetailSet .blockCmn {
+	width: 1000px;
+	margin-bottom: 10px;
+}
+.oDetailSet .blockCmn dl {
+	text-align: left;
+	width: 1000px;
+	margin-bottom: 10px;
+	font-size: 11px;
+}
+.oDetailSet .blockCmn dt {
+	background: #e0fcef;
+	border: 1px solid #32a064;
+	font-weight:bold;
+	width: 100px;
+	margin-bottom: 5px;
+	padding: 7px 5px;
+}
+.oDetailSet .blockCmn dd {
+	width: 200px;
+	text-align: left;
+	margin-right: 10px;
+	border-bottom: 1px solid #fff;
+	margin-bottom: 5px;
+	padding: 7px 5px;
+}
+
+.oDetailSet .blockCmn dl.address dd:first-of-type {
+	width: 800px;
+}
+
+
+.oDetailSet .personal.blockCmn table td {
+	border: 1px solid #32a064;
+}
+.oDetailSet .personal.blockCmn table td:first-of-type {
+	width: 100px;
+	background: #e0fcef;
+	color: #000;
+	border: 1px solid #32a064;
+	font-weight: bold;
+}
+
+/*--- ItemDetail ---*/
+.oDetailSet table th:first-of-type {
+	width: 225px;
+}
+.oDetailSet table th:nth-of-type(2) {
+}
+.oDetailSet table th:nth-of-type(3) {
+	width: 30px;
+}
+.oDetailSet table th:nth-of-type(4) {
+	width: 60px;
+}
+.oDetailSet table th:last-of-type {
+	width: 250px;
+}
+.oDetailSet table td {
+	height: 25px;
+}
+.oDetailSet table td div {
+	overflow: auto;
+	height: 45px;
+	line-height: 1.3em;
+}
+.oDetailSet table td:nth-of-type(2),
+.oDetailSet table td:last-of-type {
+	text-align: left;
+}
+
+/*--- block1 ---*/
+.oDetailSet .block1.blockCmn {
+	width: 480px;
+	display: inline-block;
+	margin-right: 33px;
+}
+.oDetailSet .block1.blockCmn table {
+	width: 450px;
+}
+
+
+/*--- block2 ---*/
+.oDetailSet .block2.blockCmn {
+	width: 480px;
+	display: inline-block;
+}
+
+/*--- block3 ---*/
+.oDetailSet .block3.blockCmn dl,.oDetailSet .block3.blockCmn dt,.oDetailSet .block3.blockCmn dd {
+	line-height: 1.3em;
+}
+.oDetailSet .block3.blockCmn dd {
+	width: 150px;
+}
+.oDetailSet .block3.blockCmn dl.oDcomment dt {
+	height: 50px;
+	vertical-align: top;
+}
+.oDetailSet .block3.blockCmn dl.oDcomment dd {
+	width: 800px;
+	overflow: auto;
+	height: 50px;
+}
+.oDetailSet .block3.blockCmn dl.oDcomment dt span {
+	display: table-cell;
+	width: 100px;
+	height: 50px;
+	vertical-align: middle;
+}
+
+.oDetailSet .block3.blockCmn dl.kingaku dd {
+	width: 100px;
+}
+
+/*--- DownLoad -----------------------------------*/
+.orderDL {
+	width: 800px;
+	margin: 0px auto;
+}
+.orderDL input {
+	font-size: 11px;
+}
+.orderDL input[type="button"] {
+	margin-left: 10px;
+}
+.orderDL input[type="datetime-local"] {
+	padding: 5px;
+}
+
+.orderDL p {
+	margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

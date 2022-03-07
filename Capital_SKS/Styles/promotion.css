@@ -1,0 +1,1340 @@
+﻿@charset "utf-8";
+
+/*------------------------------------------------------------
+ I make a user page with basics.
+ It is the CSS of the management page.
+ Please refer to [common.css] for the basic setting.
+-------------------------------------------------------------*/
+
+
+
+
+.prmCmnSet.searchBox dl dt {
+    width: initial;
+}
+.prmCmnSet.searchBox dl dd input,
+.prmCmnSet.searchBox dl dd textarea {
+    width: 100%;
+    box-sizing: border-box;
+}
+.prmCmnSet.searchBox dl dd input[type="radio"] {
+    width: initial;
+}
+
+.cmnEdit dl {
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+.prmCmnSet.prmEntry div dl:last-of-type {
+	margin-right: 0px;
+}
+
+.cmnEdit dl dd {
+	width: 100%;
+	text-align: left;
+	padding-left: 20px;
+	padding-right: 10px;
+	box-sizing: border-box;
+	margin: 0px;
+}
+.prmCmnSet.cmnEdit div dl input[type="text"] {
+	width: 100%;
+	box-sizing: border-box;
+}
+.prmCmnSet.cmnEdit div.dlInline {
+}
+
+/*--------------------------------------------------------------------------------------
+  2.1_campaign_list
+--------------------------------------------------------------------------------------*/
+
+/* search ---------------------------------*/
+/*.prmCmnSet.searchBox dl {
+	width: 960px;
+	display: block;
+}*/
+/* block1 ---------------------------------*/
+.prmCmnSet.prmCamList.searchBox div,
+.prmCmnSet.prmCamList.searchBox #hideBlock div#hideBox {
+	width: 960px;
+	margin: 0px auto;
+}
+.prmCmnSet.prmCamList.searchBox  dl dd {
+	margin-right: 10px;
+}
+.prmCmnSet.prmCamList.searchBox .block1 dl dt,
+.prmCmnSet.prmCamList.searchBox .block1 dl dd {
+	vertical-align: top;
+}
+.prmCmnSet.prmCamList.searchBox .block1 dl:first-of-type {
+	display: block;
+	width: 100%;
+}
+.prmCmnSet.prmCamList.searchBox .block1 dl dd:first-of-type {
+    width: 235px;
+}
+.prmCmnSet.prmCamList.searchBox .block1 dl dd:nth-of-type(2) {
+    width: 375px;
+    margin-right: 120px;
+}
+.prmCmnSet.prmCamList.searchBox .block1 dl dd:nth-of-type(3) {
+    width: 295px;
+}
+.prmCmnSet.prmCamList.searchBox .block1 dl dd:nth-of-type(3) input {
+    width: 130px;
+}
+.prmCmnSet.prmCamList.searchBox .block1 dl dd:nth-of-type(4),
+.prmCmnSet.prmCamList.searchBox .block1 dl dd:nth-of-type(5) {
+	width: 150px;
+}
+.prmCmnSet.prmCamList dl dd select[multiple] {
+	width: 150px;
+	height: 83px;
+}
+
+
+
+div#hideBlock {
+    width: 100%;
+}
+div#hideBox {
+	display: none;
+	padding-top: 10px;
+}
+.prmCmnSet.prmCamList.searchBox #hideBox dl dd {
+	width: 300px;
+}
+.prmCmnSet.prmCamList.searchBox #hideBox dl dt:nth-of-type(2) {
+	vertical-align: top;
+}
+.prmCmnSet.prmCamList.searchBox #hideBox dl dd:nth-of-type(2) {
+	margin-right:200px;
+	vertical-align: top;
+}
+.prmCmnSet.prmCamList.searchBox #hideBox dl dd:nth-of-type(3) {
+	width: 300px;
+}
+.prmCmnSet.prmCamList.searchBox #hideBox dl dd:nth-of-type(4) {
+	width: 160px;
+}
+.prmCmnSet.prmCamList.searchBox #hideBox dl dd:nth-of-type(5) {
+	width: 160px;
+	margin-right: 110px;
+}
+.prmCmnSet.prmCamList.searchBox #hideBox dl dd:nth-of-type(5) select {
+	width: 80px;
+}
+.prmCmnSet.prmCamList.searchBox #hideBox dl dt:nth-of-type(6) {
+	vertical-align: top;
+}
+.prmCmnSet.prmCamList.searchBox #hideBox dl dd:last-of-type input {
+	width: initial;
+}
+
+
+
+.prmCmnSet.listBox {
+	padding-left: 2px;
+	box-sizing: border-box;
+}
+.prmCmnSet.listBox table.managementList {
+	font-size: 10px;
+	line-height: 1.3em;
+	min-width: 1000px;
+}
+.prmCmnSet table.prmCamList td:first-of-type input {
+	display: block;
+	margin: 2px 0px;
+	
+}
+
+
+/*--------------------------------------------------------------------------------------
+  2.2_entry/2.3_edit/2.6_search(popup)
+--------------------------------------------------------------------------------------*/
+/* block1 ---------------------------------*/
+.prmCmnSet.prmEntry .block1 {
+	width: 740px;
+	display: inline-block;
+    
+	/* margin-right: 20px; */
+}
+.prmCmnSet.prmEntry .block1 dl:nth-of-type(2n) {
+	margin-right: 0px;
+}
+/*キャンペーンID*/
+.prmCmnSet.prmEntry .block1 dl:first-of-type {
+    width: 350px;
+    display: inline-block;
+}
+/*.prmCmnSet.prmEntry .block1 dl:first-of-type dd input {
+	width: 360px;
+}
+*/
+/*キャンペーン名*/
+.prmCmnSet.prmEntry .block1 dl:nth-of-type(2) {
+    width: 350px;
+    margin-right: 20px;
+}
+/*キャンペーンURL*/
+.prmCmnSet.prmEntry .block1 dl:nth-of-type(3) {
+    width: 360px;
+}
+.prmCmnSet.prmEntry .block1 dl:nth-of-type(3) dd {
+	text-align: right;
+}
+.prmCmnSet.prmEntry .block1 dl:nth-of-type(3) input {
+	width: 80%;
+	margin-bottom: 4px;
+	margin-left: 4px;
+}
+
+/*キャンペーン内容*/
+.prmCmnSet.prmEntry .block1 dl:nth-of-type(4) {
+    width: 360px;
+}
+.prmCmnSet.prmEntry .block1 dl:nth-of-type(4) textarea {
+	width: 100%;
+	box-sizing: border-box;
+}
+
+/*メールマガジンイベントバナー*/
+.prmCmnSet.prmEntry .block1 dl:last-of-type {
+    width: 740px;
+	text-align: left;
+}
+.prmCmnSet.prmEntry .block1 dl:last-of-type dt {
+	display: inline-block;
+	width: 210px;
+}
+.prmCmnSet.prmEntry .block1 dl:last-of-type dd {
+	display: inline-block;
+	width: 524px;
+	padding: 2px;
+	text-align: center;
+}
+.prmCmnSet.prmEntry .block1 dl:last-of-type dd input {
+    width: 160px;
+}
+.prmCmnSet.prmEntry .block1 dl:last-of-type dd input:nth-of-type(2) {
+    margin: 0px 5px;
+}
+
+/* block2 ---------------------------------*/
+.prmCmnSet.prmEntry .block2 {
+	width: 200px;
+	display: inline-block;
+	vertical-align: top;
+}
+.prmCmnSet.prmEntry .block2 select {
+	height: 170px;
+}
+
+/* block3 ---------------------------------*/
+/*開催期間*/
+.prmCmnSet.prmEntry .block3 dl:first-of-type {
+    width: 410px;
+    margin-right: 20px;
+}
+.prmCmnSet.prmEntry .block3 dl:first-of-type dd {
+    text-align: right;
+}
+.prmCmnSet.prmEntry .block3 dl:first-of-type dd p:first-of-type {
+	margin-bottom: 2px
+}
+/*ステータス*/
+.prmCmnSet.prmEntry .block3 dl:nth-of-type(2) {
+    width: 310px;
+    margin-right: 20px;
+}
+.prmCmnSet.prmEntry .block3 dl:nth-of-type(2) dd {
+}
+.prmCmnSet.prmEntry .block3 dl:nth-of-type(2) dd p {
+	display: inline-block;
+}
+/*強制終了*/
+.prmCmnSet.prmEntry .block3 dl:last-of-type {
+    width: 200px;
+}
+
+
+/* block4 ---------------------------------*/
+
+.prmCmnSet.prmEntry .block4 dl {
+	width: 307px;
+}
+.prmCmnSet.prmEntry .block4 dl:nth-of-type(3n) {
+	margin-right: 0px;
+}
+
+.prmCmnSet.prmEntry .block4 dl dd textarea {
+	width: 100%;
+	box-sizing: border-box;
+}
+
+
+.prmCmnSet.prmEntry .block4_1 dl {
+	width: 285px;
+}
+.prmCmnSet.prmEntry .block4_1 dl:last-of-type {
+	width: 350px;
+}
+.prmCmnSet.prmEntry .block4_1 dl:last-of-type dd p {
+	width: 58px;
+	height: 58px;
+	background: #dddddd url(../images/not-img.png) no-repeat center;
+	float: left;
+	margin-right: 2px;
+}
+.prmCmnSet.prmEntry .block4_1 dl:last-of-type dd p img {
+	width: 100%;
+}
+
+/* block5 ---------------------------------*/
+.prmCmnSet.prmEntry .block5 dl {
+	width: 225px;
+}
+.prmCmnSet.prmEntry .block5 dl dd input {
+	width: 180px;
+}
+
+
+/* block6 ---------------------------------*/
+.prmCmnSet.prmEntry .block6 dl dt {
+	width: 136px;
+	display: inline-block;
+	text-align: left;
+	vertical-align: top;
+	height: 70px;
+}
+.prmCmnSet.prmEntry .block6 dl dd {
+	width: 810px;
+	display: inline-block;
+}
+.prmCmnSet.prmEntry .block6 dl dd p {
+	width: 100%;
+	text-align: left;
+	margin-bottom: 2px;
+}
+.prmCmnSet.prmEntry .block6 dl dd p:last-of-type {
+	margin: 0px;
+}
+
+.prmCmnSet.prmEntry .block6 dl dd p input {
+	margin-left: 5px;
+	margin-right: 10px;
+	width: 300px;
+}
+
+
+
+/* block7 ---------------------------------*/
+.prmCmnSet.prmEntry .block7 dl {
+	width: 470px;
+}
+.prmCmnSet.prmEntry .block7 dl:nth-of-type(2n) {
+	margin-right: 0px;
+}
+
+
+/* block8 ---------------------------------*/
+/*block4を使用*/
+
+/* block9 ---------------------------------*/
+.prmCmnSet.prmEntry .block9 dl:first-of-type {
+    width: 105px;
+}
+.prmCmnSet.prmEntry .block9 dl:nth-of-type(2) {
+    width: 105px;
+}
+.prmCmnSet.prmEntry .block9 dl:nth-of-type(3) {
+    width: 165px;
+}
+.prmCmnSet.prmEntry .block9 dl:nth-of-type(4) {
+    width: 165px;
+}
+.prmCmnSet.prmEntry .block9 dl:last-of-type {
+    width: 80px;
+}
+
+
+/* popup ---------------------------------*/
+
+#PopContents {
+	width: 1000px;
+	margin: 10px auto 0px auto;
+}
+#PopContents h2 {
+    letter-spacing: 0.1em;
+    font-size: 15px;
+	padding-left: 10px;
+}
+#PopContents dl {
+	width: 960px;
+	display: block;
+}
+#PopContents dl dt {
+    vertical-align: top;
+}
+#PopContents dl dd {
+    width: 84px;
+    vertical-align: top;
+	margin-right: 10px;
+}
+#PopContents dl dd:first-of-type {
+    width: 235px;
+}
+#PopContents dl dd:nth-of-type(2) {
+	width: 335px;
+	vertical-align: top;
+}
+#PopContents dl dd:nth-of-type(3) {
+    width: 80px;
+}
+#PopContents dl dd:nth-of-type(3) select {
+    width: 100%;
+}
+#PopContents dl dd:nth-of-type(4) {
+    width: 250px;
+}
+#PopContents dl dd:nth-of-type(5) {
+    width: 190px;
+	margin-right: 320px;
+}
+
+
+
+/*--------------------------------------------------------------------------------------
+  2.2.1_conf/2.3.1_conf
+--------------------------------------------------------------------------------------*/
+
+.confBox .prmCmnSet.prmEntry.cmnEdit dl dd {
+	height: 55px;
+	overflow: auto;
+	text-align: left;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit dl dd.preBox {
+	white-space: pre-line;
+	height: 70px;
+}
+
+/* block1 ---------------------------------*/
+.confBox .prmCmnSet.prmEntry.cmnEdit .block1 {
+    width: 100%;
+    display: block;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block1 dl:last-of-type {
+    width: 220px;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block1 dl:last-of-type dt {
+    width: 100%;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block1 dl:last-of-type dd {
+	  width: 100%;
+}
+
+/* block2 ---------------------------------*/
+.confBox .prmCmnSet.prmEntry.cmnEdit .block2 {
+    width: 100%;
+    display: block;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block2 dl:first-of-type {
+	width: 100%;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block2 dl:first-of-type dd {
+	height: inherit;
+	overflow: hidden;
+}
+
+.confBox .prmCmnSet.prmEntry.cmnEdit .block2 dl li {
+    display: inline-block;
+	text-align: left;
+	margin-bottom: 5px;
+    width: 160px;
+	text-align: right;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block2 dl li:nth-of-type(2n) {
+	width: 760px;
+	text-align: left;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block2 dl li a {
+	display: inline-block;
+	width: 80px;
+	padding: 2px 5px;
+	margin: 0px 5px;
+	text-align: center;
+	border: 1px solid #333;
+	text-decoration: none;
+	background: #CCC;
+	transition: 0.4s;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block2 dl li a:hover {
+	color: #000;
+	background: #fff;
+}
+
+.confBox .prmCmnSet.prmEntry.cmnEdit .block2 dl:nth-of-type(2) {
+	width: 600px;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block2 dl:nth-of-type(2) dd {
+	height: 90px;
+/*	line-height: 1.3em;*/
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block2 dl:last-of-type {
+	width: 340px;
+	margin-right: 0px;
+}
+
+/* block3 ---------------------------------*/
+.confBox .prmCmnSet.prmEntry.cmnEdit .block3 dl dd {
+	height: 20px;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block3 dl:first-of-type {
+	width: 500px;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block3 dl:nth-of-type(2) {
+    width: 220px;
+}
+
+/* block4 ---------------------------------*/
+.confBox .prmCmnSet.prmEntry.cmnEdit .block4 dl dd.l10 {
+	height: 180px;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block4 dl dd.l5 {
+	height: 90px;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block4 dl dd.bw {
+	word-wrap:break-word;
+}
+
+/* block5 ---------------------------------*/
+.confBox .prmCmnSet.prmEntry.cmnEdit .block5 dl dd {
+	height: 75px;
+}
+
+/* block6 ---------------------------------*/
+.confBox .prmCmnSet.prmEntry.cmnEdit .block6 dl dd {
+	height: 70px;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block6 dl dd p {
+	margin-bottom: 5px;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block6 dl dd p b {
+	background: #73c5ff;
+	padding: 0px 5px;
+}
+.confBox .prmCmnSet.prmEntry.cmnEdit .block6 dl dd p span {
+	padding: 0px 5px;
+}
+
+
+
+/* block7 ---------------------------------*/
+.confBox .prmCmnSet.prmEntry.cmnEdit .block7 dl dd.l5 {
+	height: 90px;
+}
+
+/*--------------------------------------------------------------------------------------
+  2.4_search&entdy
+--------------------------------------------------------------------------------------*/
+
+.prmCmnSet.prmPoint.searchBox div {
+	display: inline-block;
+}
+.prmCmnSet.prmPoint div.ptSarOpen,
+.prmCmnSet.prmPoint div.prmPointSet {
+	display: block;
+}
+
+#CmnContents .prmCmnSet.prmPoint.searchBox h2 {
+	background-image: url(../images/btn_on-off.gif);
+	background-position: 10px -23px;
+	background-repeat: no-repeat;
+	padding-left: 30px;
+	border: none;
+}
+#CmnContents .prmCmnSet.prmPoint.searchBox h2.active {
+    background-position: 10px 6px;
+    border-bottom: 1px dashed #333;
+	margin-bottom: 10px;
+}
+#CmnContents .prmCmnSet.prmPoint.searchBox .ptSetOpen {
+    display:none;
+}
+
+.prmCmnSet.prmPoint.searchBox div dl {
+	width: 100%;
+}
+
+
+
+/* block1 ---------------------------------*/
+.prmCmnSet.prmPoint.searchBox .block1 {
+	width: 680px;
+	margin-left: 20px;
+}
+.prmCmnSet.prmPoint.searchBox .block1 dl dt:first-of-type,
+.prmCmnSet.prmPoint.searchBox .block1 dl dt:nth-of-type(2) {
+	vertical-align: top;
+}
+
+.prmCmnSet.prmPoint.searchBox .block1 dl dd:first-of-type {
+    width: 235px;
+}
+.prmCmnSet.prmPoint.searchBox .block1 dl dd:nth-of-type(2) {
+	width: 315px;
+	vertical-align: top;
+}
+.prmCmnSet.prmPoint.searchBox .block1 dl dd:nth-of-type(3) {
+    width: 80px;
+}
+.prmCmnSet.prmPoint.searchBox .block1 dl dd:nth-of-type(3) select {
+    width: 100%;
+}
+.prmCmnSet.prmPoint.searchBox .block1 dl dd:nth-of-type(4) {
+    width: 250px;
+}
+
+/* block2 ---------------------------------*/
+.prmCmnSet.prmPoint.searchBox .block2 {
+	width: 265px;
+	margin-right: 20px;
+}
+.prmCmnSet.prmPoint.searchBox .block2 dl dt {
+	vertical-align: top;
+}
+.prmCmnSet.prmPoint.searchBox .block2 dl dd select[multiple] {
+	width: 180px;
+	height: 70px;
+}
+
+/* block3 ---------------------------------*/
+.prmCmnSet.prmPoint.searchBox .block3 {
+	width: 280px;
+	margin-left: 20px;
+}
+.prmCmnSet.prmPoint.searchBox .block3 dl {
+
+	text-align: right;
+}
+
+/* block4 ---------------------------------*/
+.prmCmnSet.prmPoint.searchBox .block4 {
+	width: 405px;
+}
+.prmCmnSet.prmPoint.searchBox .block4 dl {
+	text-align: right;
+}
+.prmCmnSet.prmPoint.searchBox .block4 dd {
+	width: auto;
+}
+.prmCmnSet.prmPoint.searchBox .block4 dd input {
+	width: 89px;
+}
+
+/* block5 ---------------------------------*/
+.prmCmnSet.prmPoint.searchBox .block5 {
+	width: 263px;
+	margin-right: 20px;
+}
+.prmCmnSet.prmPoint.searchBox .block5 dd {
+    width: 84px;
+}
+.prmCmnSet.prmPoint.searchBox .block5 dd:last-of-type {
+    width: 190px;
+}
+
+
+/* prmPointSet ---------------------------------*/
+.prmCmnSet.prmPoint.searchBox .prmPointSet .block4 {
+	width: 650px;
+}
+.prmPointSet .block4 select {
+	width: 50px;
+}
+
+
+/* prmPointList ---------------------------------*/
+.prmCamList.prmPointList td {
+	text-align: left;
+}
+.prmCamList.prmPointList td:nth-of-type(4),
+.prmCamList.prmPointList td:nth-of-type(5),
+.prmCamList.prmPointList td:nth-of-type(6),
+.prmCamList.prmPointList td:nth-of-type(10),
+.prmCamList.prmPointList td:last-of-type {
+	text-align: center;
+}
+
+
+/*--------------------------------------------------------------------------------------
+  2.5_search&entdy(Same Day) & 2.5.1_conf
+--------------------------------------------------------------------------------------*/
+.prmCmnSet.prmSameday div {
+	display: inline-block;
+	margin-left: 20px;
+}
+.prmCmnSet.prmSameday div dl {
+	width: 100%;
+}
+/* block1 ---------------------------------*/
+.prmCmnSet.prmSameday .block1 {
+	width: 690px;
+}
+.prmCmnSet.prmSameday .block1 dl dt:first-of-type,
+.prmCmnSet.prmSameday .block1 dl dt:nth-of-type(2) {
+	vertical-align: top;
+}
+
+.prmCmnSet.prmSameday .block1 dl dd:first-of-type {
+    width: 235px;
+}
+.prmCmnSet.prmSameday .block1 dl dd:nth-of-type(2) {
+	width: 340px;
+	vertical-align: top;
+}
+.prmCmnSet.prmSameday .block1 dl dd:nth-of-type(3) {
+    width: 255px;
+}
+.prmCmnSet.prmSameday .block1 dl dt:nth-of-type(4) {
+	margin-left: 10px;
+}
+.prmCmnSet.prmSameday .block1 dl dd:nth-of-type(4) {
+    width: 150px;
+}
+
+/* block2 ---------------------------------*/
+.prmCmnSet.prmSameday .block2 {
+	width: 265px;
+	margin: 0px;
+	vertical-align: top;
+}
+.prmCmnSet.prmSameday .block2 dl dt {
+	vertical-align: top;
+}
+.prmCmnSet.prmSameday .block2 dl dd select[multiple] {
+	width: 180px;
+	height: 70px;
+}
+
+/* prmPointSet ---------------------------------*/
+.prmCmnSet.prmSameday .prmSamedaySet {
+	margin: 0px auto;
+	display: block;
+}
+.prmCmnSet.prmSameday .prmSamedaySet .block3 {
+	display: block;
+}
+.prmCmnSet.prmSameday .prmSamedaySet .block3 dl dd {
+	width: 110px;
+}
+.prmCmnSet.prmSameday .prmSamedaySet .block3 dl dd:last-of-type {
+	width: 666px;
+}
+.prmCmnSet.prmSameday .prmSamedaySet .block3 dl dd:last-of-type input {
+    width: 150px;
+}
+.prmCmnSet.prmSameday .prmSamedaySet .block3 dl dd:last-of-type select {
+    width: 60px;
+}
+
+
+
+/* prmSamedayList ---------------------------------*/
+.prmCamList.prmSamedayList td {
+	text-align: left;
+}
+.prmCamList.prmSamedayList td:nth-of-type(4),
+.prmCamList.prmSamedayList td:nth-of-type(5),
+.prmCamList.prmSamedayList td:nth-of-type(7),
+.prmCamList.prmSamedayList td:last-of-type {
+	text-align: center;
+}
+
+/*--------------------------------------------------------------------------------------
+  2.5.1_Conf(Same Day)
+--------------------------------------------------------------------------------------*/
+.prmCmnSet.prmSamedayList td {
+	text-align: left;
+}
+
+/*--------------------------------------------------------------------------------------
+  2.7_mailmagazine_list
+--------------------------------------------------------------------------------------*/
+
+.prmCmnSet.prmMail div dl {
+	width: 100%;
+}
+.prmCmnSet.prmMail .block1 {
+	display: inline-block;
+	width: 690px;
+	margin-left: 20px;
+}
+.prmCmnSet.prmMail .block1 dl dd:nth-of-type(2),
+.prmCmnSet.prmMail .block1 dl dd:last-of-type {
+	width: 270px;
+	margin-right: 0px;
+}
+
+.prmCmnSet.prmMail .block2 {
+	display: inline-block;
+	width: 250px;
+	vertical-align: top;
+}
+.prmCmnSet.prmMail .block2 dd select {
+	width: 150px;
+	height: 70px;
+	vertical-align: top;
+}
+
+.prmCmnSet table.prmMailList td:first-of-type { width: 50px; }
+.prmCmnSet table.prmMailList td:nth-of-type(2) { width: 100px; }
+.prmCmnSet table.prmMailList td:nth-of-type(3) { width: 215px; text-align: left; }
+.prmCmnSet table.prmMailList td:nth-of-type(4) { width: 150px; }
+.prmCmnSet table.prmMailList td:nth-of-type(5) { width: 120px; }
+.prmCmnSet table.prmMailList td:last-of-type { width: 315px; text-align: left; }
+ 
+.prmCmnSet table.prmMailList th:first-of-type input {
+	display: block;
+	margin: 2px 0px;
+	
+}
+
+
+/*--------------------------------------------------------------------------------------
+  2.8_Entry & 2.9_Edit
+--------------------------------------------------------------------------------------*/
+.prmCmnSet.prmMailEntry .hideBox dl dt {
+	background-image: url(../images/btn_on-off.gif);
+	background-position: 11px 9px;
+	background-repeat: no-repeat;
+	padding-left: 30px;
+}
+.prmCmnSet.prmMailEntry .hideBox dl dt.active {
+    background-position: 11px -20px;
+}
+.prmCmnSet.prmMailEntry .hideBox dl dd:last-of-type {
+    display:none;
+}
+
+/* hint */
+.prmCmnSet.prmMailEntry a.hint {
+	position: relative;
+	vertical-align: sub;
+}
+.prmCmnSet.prmMailEntry a.hint span {
+	display: none;
+}
+.prmCmnSet.prmMailEntry a.hint:hover span {
+	display: inline;
+	position: absolute;
+	width: 150px;
+	bottom: 31px;
+	left: -45px;
+	font-size: 10px;
+	line-height: 1.3em;
+	color: #FFF;
+	border: 2px solid #ff0000;
+	background: #ffc9c9;
+	border-radius: 4px;
+	padding: 5px;
+	text-align: left;
+	color: #333;
+	font-weight: normal;
+}
+.prmCmnSet.prmMailEntry a.hint:hover span:after {
+	content: "";
+	display: block;
+	width: 0;
+	height: 0;
+	border-top: 8px solid #ff0000;
+	border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+	position: absolute;
+	left: 44px;
+	bottom: -8px;
+}
+.prmCmnSet.prmMailEntry a.exc.hint:hover span {
+	border: 2px solid #ffb400;
+	background: #ffd15b;
+	width: 200px;
+}
+.prmCmnSet.prmMailEntry a.exc.hint:hover span:after {
+	border-top: 8px solid #ffb400;
+}
+
+
+/* block1 ---------------------------------*/
+.prmCmnSet.prmMailEntry .block1 {
+	width: 720px;
+	display: inline-block;
+	margin-right: 20px;
+}
+.prmCmnSet.prmMailEntry .block1 dl:first-of-type {
+    width: 260px;
+}
+.prmCmnSet.prmMailEntry .block1 dl:nth-of-type(2) {
+    width: 315px;
+}
+.prmCmnSet.prmMailEntry .block1 dl:nth-of-type(3) {
+    width: 720px;
+	margin-right: 0px;
+}
+
+/* block2 ---------------------------------*/
+.prmCmnSet.prmMailEntry .block2 {
+	width: 220px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0px;
+}
+.prmCmnSet.prmMailEntry .block2 select {
+	width: 100%;
+	height: 106px;
+}
+
+/* block3 ---------------------------------*/
+.prmCmnSet.prmMailEntry .block3 {
+	margin: 0px;
+}
+.prmCmnSet.prmMailEntry .block3 dt input {
+	margin-left: 10px;
+}
+.prmCmnSet.prmMailEntry .block3.hideBox dd:nth-of-type(2) {
+    display: none;
+}
+.prmCmnSet.prmMailEntry .block3 dd ul {
+	display: inline-block;
+	width: 450px;
+	padding: 7px 7px 7px 20px;
+	box-sizing: border-box;
+	border-right: 1px solid #Ddd;
+	border-bottom: 1px solid #Ddd;
+}
+.prmCmnSet.prmMailEntry .block3 dd ul:nth-of-type(2n) {
+	padding-left: 20px;
+}
+
+.prmCmnSet.prmMailEntry .block3 dd ul li {
+	display: block;
+	text-align: left;
+	margin-bottom: 2px;
+}
+.prmCmnSet.prmMailEntry .block3 dd ul li:first-of-type {
+    width: 230px;
+}
+.prmCmnSet.prmMailEntry .block3 dd ul li:nth-of-type(3) input {
+    width: 100px;
+	display: inline-block;
+}
+.prmCmnSet.prmMailEntry .block3 dd ul li:nth-of-type(3) input:nth-of-type(2) {
+	margin: 0px 4px;
+}
+.prmCmnSet.prmMailEntry .block3.hideBox dd:last-of-type {
+	width: 100%;
+	text-align: center;
+    display: block;
+	margin-top: 10px;
+}
+.prmCmnSet.prmMailEntry .block3 dd input[value*="反映"] {
+	width: 200px;
+}
+
+/* block4 & block5 ---------------------------------*/
+.prmCmnSet.prmMailEntry .itemSet dl dt,
+.prmCmnSet.prmMailEntry .itemSet dl dd {
+	display: block;
+}
+.prmCmnSet.prmMailEntry .itemSet dl dd textarea,
+.prmCmnSet.prmMailEntry .itemSet dl dd select {
+	height: initial;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+.prmCmnSet.prmMailEntry ::-webkit-input-placeholder {
+	font-size: 10px;
+}
+.prmCmnSet.prmMailEntry :-moz-placeholder {
+	font-size: 10px;
+}
+
+/* pickup Box */
+.prmCmnSet.prmMailEntry .itemSet dd div {
+    width: 915px;
+    margin-left: 15px;
+    /* border: 1px solid #73c5ff; */    
+    padding: 0px 0px 10px 0px;
+    margin-bottom: 10px;
+}
+/*.prmCmnSet.prmMailEntry .block4 dd div:first-of-type {
+	border: none;
+}*/
+
+.prmCmnSet.prmMailEntry .itemSet dd div > p {
+	font-weight: bold;
+	background: #d6efff;
+	width: 100%;
+	text-align: left;
+	box-sizing: border-box;
+	padding: 2px 0px 2px 5px;
+	margin-bottom: 5px;
+}
+.prmCmnSet.prmMailEntry .itemSet dd ul {
+    margin-left: 10px;
+    width: 900px;
+    margin: 0px auto;
+}
+.prmCmnSet.prmMailEntry .itemSet dd li {
+	text-align: left;
+	margin-bottom: 2px;
+	width: 100%;
+}
+
+/* URL作成 */
+.prmCmnSet.prmMailEntry .itemSet dd ol {
+    border: 1px solid #ddd;
+    padding: 5px;
+    box-sizing: border-box;
+    margin: 5px 0px;
+    background: #F2F2F2;
+}
+.prmCmnSet.prmMailEntry .itemSet dd ol li {
+	display: block;
+	margin-bottom: 2px;
+}
+.prmCmnSet.prmMailEntry .itemSet dd ol input[type="text"] {
+	width: 500px;
+}
+.prmCmnSet.prmMailEntry .itemSet dd ol li:nth-of-type(2) a.hint:hover span {
+	width: 320px;
+}
+.prmCmnSet.prmMailEntry .itemSet dd ol input[value="URLの作成"] {
+	margin-right: 5px;
+	padding: 1px 7px;
+	background: #B5B5B5;
+	color: #333;
+	border: 1px solid #7D7D7D;
+}
+
+/* URL */
+.prmCmnSet.prmMailEntry .itemSet dd ul > li:last-of-type input {
+	width: 445px;
+	margin-right: 10px;
+}
+.prmCmnSet.prmMailEntry .itemSet dd ul > li:last-of-type input:last-of-type {
+	margin-right: 0px;
+}
+
+/* block4 */
+.prmCmnSet.prmMailEntry .block4 dd:first-of-type{
+	vertical-align: top;
+	margin-bottom: 10px;
+}
+.prmCmnSet.prmMailEntry .block4 dd:first-of-type textarea {
+	vertical-align: top;
+	margin-left: 5px;
+}
+.prmCmnSet.prmMailEntry .block4 dd li input[placeholder*="タイトル"] {
+	width: 400px;
+	margin-right: 10px;
+	vertical-align: top;
+}
+.prmCmnSet.prmMailEntry .block4 dd li textarea[placeholder="販売価格"] {
+	width: 480px;
+}
+.prmCmnSet.prmMailEntry .block4 dd ul > li:nth-of-type(3) input {
+	width: 445px;
+	margin-right: 10px;
+}
+.prmCmnSet.prmMailEntry .block4 dd ul > li:nth-of-type(3) input:last-of-type {
+	margin-right: 0px;
+}
+.prmCmnSet.prmMailEntry .block4 dd ul > li:last-of-type {
+	margin-top: 10px;
+}
+.prmCmnSet.prmMailEntry .block4 dd ul > li:last-of-type textarea {
+	width: 890px;
+}
+
+
+/* block5 */
+.prmCmnSet.prmMailEntry .block5 dd li input[placeholder="商品"]  {
+	width: 300px;
+	margin-right: 10px;
+}
+.prmCmnSet.prmMailEntry .block5 dd li input[placeholder="商品情報"]  {
+	width: 590px;
+}
+.prmCmnSet.prmMailEntry .block5 dd li input[placeholder="販売価格"] {
+	width: 100px;
+	margin-right: 2px;
+}
+
+
+/* block6 */
+.prmCmnSet.prmMailEntry .block6 dl dt  {
+	width: 260px;
+	display: inline-block;
+}
+.prmCmnSet.prmMailEntry .block6 dl dd  {
+	width: 690px;
+}
+
+
+
+
+
+
+/*--------------------------------------------------------------------------------------
+  2.7.1_Order
+--------------------------------------------------------------------------------------*/
+.prmCmnSet.prmMailOrder .hideBox dl dt {
+	background-position: 11px -20px;
+}
+.prmCmnSet.prmMailOrder .hideBox dl dt.active {
+    background-position: 11px 9px;
+}
+.prmCmnSet.prmMailOrder .hideBox dl dd:last-of-type {
+	display: block;
+}
+/* block1 ---------------------------------*/
+
+/* block2 ---------------------------------*/
+
+/* block3 ---------------------------------*/
+.prmCmnSet.prmMailOrder .block3 dd ul {
+	display: block;
+	width: 100%;
+	padding: 7px 7px 7px 20px;
+	box-sizing: border-box;
+	border-right: none;
+	border-bottom: 1px solid #Ddd;
+}
+.prmCmnSet.prmMailOrder .block3 dd ul li {
+	display: table;
+	margin-bottom: 5px;
+}
+.prmCmnSet.prmMailOrder .block3 dd ul li:first-of-type {
+	font-size: 10px;
+	display: block;
+}
+.prmCmnSet.prmMailOrder.prmMailEntry .block3 dd ul li p {
+	display: table-cell;
+	width: 100px;
+	text-align: right;
+	padding-right: 10px;
+}
+.prmCmnSet.prmMailOrder.prmMailEntry .block3 dd ul li input {
+	width: 790px;
+	display: table-cell;
+}
+.prmCmnSet.prmMailOrder.prmMailEntry .block3 dd ul li > img {
+	width: 200px;
+	vertical-align: bottom;
+}
+.prmCmnSet.prmMailOrder.prmMailEntry .block3 dd ul li:last-of-type input {
+	width: 500px;
+	margin-right: 10px;
+}
+
+
+/* block4 & block5 ---------------------------------*/
+.prmCmnSet.prmMailOrder .itemSet .orderBox dl {
+	width: 100%;
+	margin: 0 0 2px 0;
+	border-bottom: 1px solid #ddd;
+	padding: 2px 0px;
+
+}
+.prmCmnSet.prmMailOrder .itemSet .orderBox dt {
+	background: none;
+	border: none;
+	width: 160px;
+	padding: 0 0 0 5px;
+	text-align: left;
+	font-weight: normal;
+}
+.prmCmnSet.prmMailOrder .itemSet .orderBox dt span {
+	font-size: 10px;
+}
+
+.prmCmnSet.prmMailOrder .itemSet .orderBox dt,
+.prmCmnSet.prmMailOrder .itemSet .orderBox dd {
+	display: inline-block !important;
+}
+.prmCmnSet.prmMailOrder .itemSet .orderBox dd {
+	width: 745px;
+	padding: 2px 0px;
+	margin: 0;
+}
+.prmCmnSet.prmMailOrder .itemSet .orderBox dd input,
+.prmCmnSet.prmMailOrder .itemSet .orderBox dd textarea {
+	width: 100%;
+	box-sizing: border-box;
+	margin: 0;
+}
+
+/* block4 ---------------------------------*/
+.prmCmnSet.prmMailOrder .block4 dd p {
+	margin-bottom: 10px;
+}
+.prmCmnSet.prmMailOrder .block4 dd p textarea {
+	width: 870px;
+	box-sizing: border-box;
+}
+
+/* block5 ---------------------------------*/
+.prmCmnSet.prmMailOrder .block5 .orderBox dl:nth-of-type(3) dd p {
+	display: inline-block;
+	margin-right: 5px;
+	border-bottom: 1px solid #6CF;
+	height: 22px;
+	padding-right: 5px;
+}
+.prmCmnSet.prmMailOrder .block5 .orderBox dl:nth-of-type(3) dd p span {
+	background: #6CF;
+	margin-right: 5px;
+	padding: 5px 4px;
+	font-size: 10px;
+	letter-spacing: initial;
+	color: #fff;
+}
+.prmCmnSet.prmMailOrder .block5 .orderBox dl:nth-of-type(3) dd:first-of-type input {
+    width: 80px;
+    margin-right: 2px;
+    height: 20px;
+}
+
+/* block6 ---------------------------------*/
+.prmCmnSet.prmMailOrder .block6 dt {
+	vertical-align: top;
+}
+.prmCmnSet.prmMailOrder .block6 dd {
+	word-break: break-all;
+	white-space: pre-line;
+}
+
+
+
+
+
+
+/*--------------------------------------------------------------------------------------
+  2.8.1_conf/2.9.1_conf
+--------------------------------------------------------------------------------------*/
+.prmCmnSet.prmMailOrder.confBox a.checkUrl {
+	display: inline-block;
+	width: 80px;
+	padding: 2px 5px;
+	text-align: center;
+	border: 1px solid #333;
+	text-decoration: none;
+	background: #CCC;
+	transition: 0.4s;
+}
+.prmCmnSet.prmMailOrder.confBox a.checkUrl:hover {
+	background: #fff;
+}
+
+
+/* block3 ---------------------------------*/
+.prmCmnSet.prmMailOrder.confBox .block3 dd ul {
+	border-bottom: none;
+	margin-bottom: 5px;
+}
+.prmCmnSet.prmMailOrder.confBox .block3 dd ul li {
+	border-bottom: 1px solid #ddd;
+	padding: 4px 0px;
+	width: 100%;
+	margin-bottom: 0px;
+}
+.prmCmnSet.prmMailEntry.confBox .block3 dd ul li span {
+    border-left: 1px solid #Ddd;
+    display: inline-block;
+    padding-left: 10px;
+}
+.prmCmnSet.prmMailOrder.confBox .block3 dd ul li:first-of-type {
+	font-size: 12px;
+	width: initial;
+	display: table;
+	background: #ddd;
+	padding: 2px;
+	font-weight: bold;
+}
+
+.prmCmnSet.prmMailOrder.confBox .block3 dd ul li:last-of-type input {
+	width: 200px;
+	display: table-cell;
+}
+
+/* block4 & block5 ---------------------------------*/
+.prmCmnSet.prmMailOrder.confBox .itemSet .orderBox dd {
+	padding: 2px 0px 2px 10px;
+	border-left: 1px solid #Ddd;
+}
+.prmCmnSet.prmMailOrder.confBox .itemSet .orderBox dl {
+	padding: 4px 0px;
+}
+.prmCmnSet.prmMailOrder.confBox .itemSet .orderBox dt {
+	margin-bottom: 0px;
+}
+.prmCmnSet.prmMailOrder.confBox .itemSet .orderBox dt a.checkUrl {
+	margin: 0px;
+}
+
+/* block4 ---------------------------------*/
+.prmCmnSet.prmMailOrder.confBox .block4 dl:nth-of-type(3) dd,
+.prmCmnSet.prmMailOrder.confBox .block4 dl:nth-of-type(4) dd {
+	word-break: break-all;
+}
+.prmCmnSet.prmMailOrder.confBox .block4 dl > dd:first-of-type b {
+	display: inline-block;
+	font-weight: bold;
+	padding-right: 10px;
+	vertical-align: top;
+}
+.prmCmnSet.prmMailOrder.confBox .block4 dl > dd:first-of-type p {
+	white-space: pre-line;
+	text-align: left;
+	padding-left: 10px;
+	border-left: 1px solid #ddd;
+}
+
+/* block5 ---------------------------------*/
+.prmCmnSet.prmMailOrder.confBox .block5 dl:nth-of-type(4) dd,
+.prmCmnSet.prmMailOrder.confBox .block5 dl:nth-of-type(5) dd {
+	word-break: break-all;
+}
+
+.promotionWidth{
+    width:358px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

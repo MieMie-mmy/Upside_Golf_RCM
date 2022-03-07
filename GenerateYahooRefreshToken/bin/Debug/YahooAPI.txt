@@ -1,0 +1,20 @@
+DateTime : 4/20/2020 2:11:31 PM
+Yahoo API is unauthorized error.
+System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Yahoo_API.YahooAPI.YahooAPIAuth(String Get_RefreshToken_Path) in D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\YahooAPI\YahooAPI.cs:line 77
+DateTime : 4/20/2020 2:13:44 PM
+Yahoo API is unauthorized error.
+System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Yahoo_API.YahooAPI.YahooAPIAuth(String Get_RefreshToken_Path) in D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\YahooAPI\YahooAPI.cs:line 77
+DateTime : 4/20/2020 4:20:10 PM
+Yahoo API is unauthorized error.
+System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Yahoo_API.YahooAPI.YahooAPIAuth(String Get_RefreshToken_Path) in D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\YahooAPI\YahooAPI.cs:line 77
+DateTime : 4/20/2020 4:20:23 PM
+Yahoo API is unauthorized error.
+System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Yahoo_API.YahooAPI.YahooAPIAuth(String Get_RefreshToken_Path) in D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\YahooAPI\YahooAPI.cs:line 77

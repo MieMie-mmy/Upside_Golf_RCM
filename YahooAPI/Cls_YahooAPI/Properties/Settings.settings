@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Cls_YahooAPI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">dj0zaiZpPWV4R0RaaDBhRHJEbyZzPWNvbnN1bWVyc2VjcmV0Jng9OTM-</Value>
+    </Setting>
+    <Setting Name="SecretKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">293e8f085fbbb7a6e69b255e473e5206bede97f0</Value>
+    </Setting>
+    <Setting Name="Code" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AccessToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="RefreshToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AH9N5FVRpQKBTkiNRlAyrYpgLdW2QjoD8qlkgwMSLyuZZe3o9RGGWLk-</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

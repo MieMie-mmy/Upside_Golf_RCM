@@ -1,0 +1,5 @@
+検索条件タグ1,検索条件1,検索条件タグ2,検索条件2,検索条件タグ3,検索条件3,
+sort=0,標準,window,写真モード,itemInv=true,在庫あり,
+sort=1,価格が安い,,,shippingZero=true,送料無料,
+sort=2,価格が高い,,,pointOver4=true,ポイント4%以上,
+sort=3,新着順,,,,,

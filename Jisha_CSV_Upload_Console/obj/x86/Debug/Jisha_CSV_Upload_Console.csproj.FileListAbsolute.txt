@@ -1,0 +1,15 @@
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Jisha_CSV_Upload_Console\bin\Debug\Jisha_CSV_Upload_Console.exe.config
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Jisha_CSV_Upload_Console\bin\Debug\Jisha_CSV_Upload_Console.exe
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Jisha_CSV_Upload_Console\bin\Debug\Jisha_CSV_Upload_Console.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Jisha_CSV_Upload_Console\bin\Debug\ClosedXML.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Jisha_CSV_Upload_Console\bin\Debug\DocumentFormat.OpenXml.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Jisha_CSV_Upload_Console\bin\Debug\Excel.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Jisha_CSV_Upload_Console\bin\Debug\Ftp.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Jisha_CSV_Upload_Console\bin\Debug\icsharpcode.sharpziplib.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Jisha_CSV_Upload_Console\bin\Debug\ImapLibrary.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Jisha_CSV_Upload_Console\bin\Debug\ionic.zip.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Jisha_CSV_Upload_Console\bin\Debug\Newtonsoft.Json.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Jisha_CSV_Upload_Console\bin\Debug\OpenPop.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Jisha_CSV_Upload_Console\obj\x86\Debug\Jisha_CSV_Upload_Console.csprojResolveAssemblyReference.cache
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Jisha_CSV_Upload_Console\obj\x86\Debug\Jisha_CSV_Upload_Console.exe
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Jisha_CSV_Upload_Console\obj\x86\Debug\Jisha_CSV_Upload_Console.pdb

@@ -1,0 +1,16 @@
+﻿/* File Created: December 16, 2014 */
+@charset "utf-8";
+
+.labelAsLink:hover
+{
+	text-decoration: none;
+	color:#b5b5b5;
+	width: auto;
+}
+
+.labelAsLink {
+	text-decoration:underline;
+	cursor:pointer;
+	width: auto;
+}
+

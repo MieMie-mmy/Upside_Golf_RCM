@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A89707D1-0292-4A2D-B15D-EB97FCEB6621}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ORS_RCM_DL</RootNamespace>
+    <AssemblyName>ORS_RCM_DL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Category_DL.cs" />
+    <Compile Include="Delivery_DL.cs" />
+    <Compile Include="Details_Amazone_Exhibition_DL.cs" />
+    <Compile Include="Details_of_exhibition_Tennis_DL.cs" />
+    <Compile Include="Details_of_Promotion_Yahoo_Exhibition_DL.cs" />
+    <Compile Include="Details_ORS_Exhibition_DL.cs" />
+    <Compile Include="Details_Wowma_Exhibition_DL.cs" />
+    <Compile Include="Details_Yahoo_Exhibation_DL.cs" />
+    <Compile Include="DataConfig.cs" />
+    <Compile Include="Details_Ponpare_Exhibition_DL.cs" />
+    <Compile Include="Details_Rakuten_Exhibation_DL.cs" />
+    <Compile Include="Email_ItemOrder_DL.cs" />
+    <Compile Include="Email_Magazine_DL.cs" />
+    <Compile Include="ErrorLog_DL.cs" />
+    <Compile Include="Exhibition_Error_DL.cs" />
+    <Compile Include="Exhibition_List_DL.cs" />
+    <Compile Include="GlobalData.cs" />
+    <Compile Include="Import_Item_Data_DL.cs" />
+    <Compile Include="Import_Item_DL.cs" />
+    <Compile Include="Import_ShopItem_List_Dl.cs" />
+    <Compile Include="Import_Shop_ItemDL.cs" />
+    <Compile Include="Item_Category_DL.cs" />
+    <Compile Include="Item_DL.cs" />
+    <Compile Include="Item_ExportField_DL.cs" />
+    <Compile Include="Item_ExportQ_DL.cs" />
+    <Compile Include="Item_Export_ErrorCheck_DL.cs" />
+    <Compile Include="Item_Export_QList_DL.cs" />
+    <Compile Include="Item_Export_Rakutan_Image_DL.cs" />
+    <Compile Include="Item_Image_DL.cs" />
+    <Compile Include="Item_ImportLog_DL.cs" />
+    <Compile Include="Item_Information_DL.cs" />
+    <Compile Include="Item_Master_DL.cs" />
+    <Compile Include="Item_Option_DL.cs" />
+    <Compile Include="Item_Related_Item_DL.cs" />
+    <Compile Include="Item_Shop_DL.cs" />
+    <Compile Include="Item_SKU_View_DL.cs" />
+    <Compile Include="Item_Step1_DL.cs" />
+    <Compile Include="Item_View3_DL.cs" />
+    <Compile Include="Item_YahooSpecificValue_DL.cs" />
+    <Compile Include="Jisha_Admin_LoginDL.cs" />
+    <Compile Include="Jisha_Credit_Card_Payment_DL.cs" />
+    <Compile Include="Jisha_Delivery_Charge_DL.cs" />
+    <Compile Include="Jisha_Import_DL.cs" />
+    <Compile Include="Jisha_Item_Master_DL.cs" />
+    <Compile Include="Jisha_OrderDetail_DL.cs" />
+    <Compile Include="Jisha_Order_DL.cs" />
+    <Compile Include="Jisha_Order_Download_DL.cs" />
+    <Compile Include="Jisha_Order_No_Setting_DL.cs" />
+    <Compile Include="Jisha_Tax_Setting_DL.cs" />
+    <Compile Include="LogInDL.cs" />
+    <Compile Include="Log_Exhibition_DL.cs" />
+    <Compile Include="Mall_Category_DL.cs" />
+    <Compile Include="Mall_Setting_Ponpare_Default_DL.cs" />
+    <Compile Include="Mall_Setting_Ponpare_Fixed_DL.cs" />
+    <Compile Include="Mall_Setting_Rakhutan_Default_DL.cs" />
+    <Compile Include="Mall_Setting_Rakhutan_Fixed_DL.cs" />
+    <Compile Include="Mall_Setting_Yahoo_Default_DL.cs" />
+    <Compile Include="Mall_Setting_Yahoo_Fixed_DL.cs" />
+    <Compile Include="Option_DL.cs" />
+    <Compile Include="Promotion_Attatchment_DL.cs" />
+    <Compile Include="Promotion_Delivery_DL.cs" />
+    <Compile Include="Promotion_Detail_DL.cs" />
+    <Compile Include="Promotion_DL.cs" />
+    <Compile Include="Promotion_ItemOptionDL.cs" />
+    <Compile Include="Promotion_Item_DL.cs" />
+    <Compile Include="Promotion_Point_DL.cs" />
+    <Compile Include="Promotion_Shop_DL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShopCategoryDL.cs" />
+    <Compile Include="Shop_DL.cs" />
+    <Compile Include="Shop_Template_DL.cs" />
+    <Compile Include="Smart_Template_DL.cs" />
+    <Compile Include="System_ErrorLogView_DL.cs" />
+    <Compile Include="Template_Detail_DL.cs" />
+    <Compile Include="UserRoleDL.cs" />
+    <Compile Include="User_DL.cs" />
+    <Compile Include="Yahoo_SpecName_DL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CKSKS_Common\ORS_RCM_Common.csproj">
+      <Project>{DEAE143F-C8A5-4A16-8CD8-061FDA6DDBC8}</Project>
+      <Name>ORS_RCM_Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\Selenium.Firefox.WebDriver.0.19.1\build\Selenium.Firefox.WebDriver.targets" Condition="Exists('..\packages\Selenium.Firefox.WebDriver.0.19.1\build\Selenium.Firefox.WebDriver.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Selenium.Firefox.WebDriver.0.19.1\build\Selenium.Firefox.WebDriver.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Selenium.Firefox.WebDriver.0.19.1\build\Selenium.Firefox.WebDriver.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

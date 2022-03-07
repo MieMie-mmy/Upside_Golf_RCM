@@ -1,0 +1,51 @@
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.exe.config
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.exe
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.exe
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.exe.config
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.exe
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.csprojAssemblyReference.cache
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.csproj.CoreCompileInputs.cache
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.exe
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.pdb
+D:\C# Projects\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.exe.config
+D:\C# Projects\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.exe
+D:\C# Projects\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.pdb
+D:\C# Projects\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.csprojAssemblyReference.cache
+D:\C# Projects\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.csproj.CoreCompileInputs.cache
+D:\C# Projects\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.exe
+D:\C# Projects\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.pdb
+F:\MyData\Projects\ORS\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.exe.config
+F:\MyData\Projects\ORS\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.exe
+F:\MyData\Projects\ORS\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.pdb
+F:\MyData\Projects\ORS\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.csprojAssemblyReference.cache
+F:\MyData\Projects\ORS\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.csproj.CoreCompileInputs.cache
+F:\MyData\Projects\ORS\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.exe
+F:\MyData\Projects\ORS\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.exe.config
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.exe
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.exe
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.exe.config
+D:\ORS_Data\ORS_RCM\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.pdb
+D:\MyProjects\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.exe.config
+D:\MyProjects\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.exe
+D:\MyProjects\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.pdb
+D:\MyProjects\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.csproj.AssemblyReference.cache
+D:\MyProjects\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.csproj.CoreCompileInputs.cache
+D:\MyProjects\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.exe
+D:\MyProjects\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.pdb
+D:\ORS_Data\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.exe.config
+D:\ORS_Data\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.exe
+D:\ORS_Data\ORS_RCM\Rakuten_Category_Create_API\bin\Debug\Rakuten_Category_Create_API.pdb
+D:\ORS_Data\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.exe
+D:\ORS_Data\ORS_RCM\Rakuten_Category_Create_API\obj\Debug\Rakuten_Category_Create_API.pdb

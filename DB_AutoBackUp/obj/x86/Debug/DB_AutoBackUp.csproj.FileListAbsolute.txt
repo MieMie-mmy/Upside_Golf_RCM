@@ -1,0 +1,65 @@
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.exe.config
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.exe
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.exe
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.exe.config
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.exe
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\bin\Debug\Microsoft.SqlServer.Management.Collector.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\bin\Debug\Microsoft.SqlServer.Management.CollectorEnum.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\bin\Debug\Microsoft.SqlServer.Management.Utility.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\bin\Debug\Microsoft.SqlServer.Management.UtilityEnum.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\bin\Debug\Microsoft.SqlServer.SString.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csprojAssemblyReference.cache
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.CoreCompileInputs.cache
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.CopyComplete
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.exe
+E:\ORS\ORS_RCM_GIT\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.pdb
+D:\C# Projects\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.exe.config
+D:\C# Projects\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.exe
+D:\C# Projects\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.pdb
+D:\C# Projects\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csprojAssemblyReference.cache
+D:\C# Projects\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.CoreCompileInputs.cache
+D:\C# Projects\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.CopyComplete
+D:\C# Projects\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.exe
+D:\C# Projects\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.exe.config
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.exe
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csprojAssemblyReference.cache
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.exe
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.exe.config
+D:\ORS_Data\ORS_RCM\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csprojAssemblyReference.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.pdb
+D:\MyProjects\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.exe.config
+D:\MyProjects\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.exe
+D:\MyProjects\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.pdb
+D:\MyProjects\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.AssemblyReference.cache
+D:\MyProjects\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.CoreCompileInputs.cache
+D:\MyProjects\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.exe
+D:\MyProjects\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.pdb
+D:\ORS_Data\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.exe.config
+D:\ORS_Data\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.exe
+D:\ORS_Data\ORS_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.pdb
+D:\ORS_Data\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.AssemblyReference.cache
+D:\ORS_Data\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.exe
+D:\ORS_Data\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.pdb

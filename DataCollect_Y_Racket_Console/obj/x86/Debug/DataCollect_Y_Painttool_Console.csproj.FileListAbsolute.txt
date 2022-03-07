@@ -1,0 +1,12 @@
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DataCollect_Y_Racket_Console\bin\Debug\DataCollect_Y_Painttool_Console.exe.config
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DataCollect_Y_Racket_Console\bin\Debug\DataCollect_Y_Painttool_Console.exe
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DataCollect_Y_Racket_Console\bin\Debug\DataCollect_Y_Painttool_Console.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DataCollect_Y_Racket_Console\bin\Debug\ORS_RCM_BL.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DataCollect_Y_Racket_Console\bin\Debug\ORS_RCM_DL.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DataCollect_Y_Racket_Console\bin\Debug\ORS_RCM_Common.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DataCollect_Y_Racket_Console\bin\Debug\ORS_RCM_BL.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DataCollect_Y_Racket_Console\bin\Debug\ORS_RCM_DL.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DataCollect_Y_Racket_Console\bin\Debug\ORS_RCM_Common.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DataCollect_Y_Racket_Console\obj\x86\Debug\DataCollect_Y_Painttool_Console.csprojResolveAssemblyReference.cache
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DataCollect_Y_Racket_Console\obj\x86\Debug\DataCollect_Y_Painttool_Console.exe
+C:\My Data\Projects\ORS_RCM\ORS_RCM\DataCollect_Y_Racket_Console\obj\x86\Debug\DataCollect_Y_Painttool_Console.pdb

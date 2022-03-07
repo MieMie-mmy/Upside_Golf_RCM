@@ -1,0 +1,1902 @@
+﻿@charset "utf-8";
+
+/*------------------------------------------------------------
+　This CSS is setting of the [ITEM] page.
+-------------------------------------------------------------*/
+
+
+/*--------------------------------------------------------------------------------------
+  1.2_edit
+--------------------------------------------------------------------------------------*/
+
+ .itemView
+ {
+     border: 1px solid #b5b5b5;
+    margin: 8px auto 10px auto;
+    min-width: 1000px;
+   line-height:30px;
+   font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+   }
+.itemView th,
+.itemView td
+{
+     border: 1px solid #b5b5b5;
+    text-align: center;
+}  
+ .itemView th
+ {
+     background: #f2f2f2;
+     }
+     
+  .itemView td
+  {
+     line-height:normal;
+    vertical-align: top;
+    height: inherit;
+    table-layout: fixed;
+    padding-top: 10px;
+  }
+  
+  .itemView td:nth-of-type(8) p img
+  {
+    width: 40px;
+    height: 40px;    
+  }
+    .itemView td:nth-of-type(8) {
+        width:250px;
+    }
+ .itemView td:nth-of-type(9)
+  {
+       width: 180px;
+    }
+
+  .itemView td:nth-of-type(7)
+  {
+      text-align:left;
+  }
+  .itemView td:nth-of-type(8) p
+  {
+    display: inline-block;
+	width: 40px;
+	height: 40px;
+	background: #dddddd url(../images/not-img.png) no-repeat center;
+	border: 1px solid #dddddd;    
+  }
+  .itemOption
+  {
+       width:50px;
+  }
+
+
+/*-- Item List -------------- */
+div.itemCmnSet table.listTable {
+	table-layout: fixed;
+}
+
+div.itemCmnSet table.listTable th {
+	white-space: nowrap;
+}
+div.itemCmnSet table.listTable td {
+	text-align: left;
+	vertical-align: top;
+	height: inherit;
+	table-layout: fixed;
+	padding-top: 10px;
+}
+div.itemCmnSet table.listTable td > div {
+	overflow: auto;
+	height: 300px;
+}
+/*-- form -------------- */
+div.itemCmnSet table.listTable2 td input[type="text"] {
+/*	width: 90%;*/
+	width: 85%;
+}
+div.itemCmnSet table.listTable2 td textarea {
+	width: 100%;
+	height: 95%;
+	line-height: 1.3em;
+	font-family: monospace;
+}
+
+div.itemCmnSet table.listTabl3 td input[type="text"] {
+/*	width: 90%;*/
+	width: 85%;
+}
+div.itemCmnSet table.listTable3 td textarea {
+	width: 100%;
+	height: 95%;
+	line-height: 1.3em;
+	font-family: monospace;
+}
+
+/*--------------------------------------------------------------------------------------
+  [1]Item Edit 1.2
+--------------------------------------------------------------------------------------*/
+
+ /* add */
+/*#ComBlock {
+	margin-top: 80px;
+}*/
+
+div.itemMasterEdit h1 {
+	width: 270px;
+	/* background-color: #fff; */
+	top: 60px;
+	position: fixed;
+}
+
+
+.itemCmnSet.editPage {
+	/* width: 980px; */
+	margin: 0px auto;
+}
+.itemCmnSet.editPage dl {
+    letter-spacing: -.40em;
+	margin-bottom: 0px;
+}
+.itemCmnSet.editPage dl dt {
+	letter-spacing: normal;
+	font-size: 10px;
+}
+.itemCmnSet.editPage dl dd {
+	letter-spacing: 0.05em;
+/*	width: 295px;
+*/	float: left;
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
+.itemCmnSet.editPage dl dt {
+	padding: 1px 4px;
+	margin-bottom: 5px;
+	width: auto; 
+/*	width: 66px;
+*/	float: left;
+}
+.itemCmnSet.editPage #block3 dl dt input,
+.itemCmnSet.editPage #block4 dl dt input {
+	display: block;
+	width: 100px;
+	margin-top: 5px;
+}
+.itemCmnSet.editPage dl dd p {
+	margin-bottom: 1px;
+}
+
+/* -------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+/*　Block1 ------------------------------------------------------------------------------------------------------------ */
+.itemCmnSet.editPage #block1 {
+	position: fixed;
+	background: #fff;
+	top: 129px;
+	z-index: 999;
+	width: 310px;
+}
+
+.itemCmnSet.editPage #block1 dl {
+	width: 310px;
+}
+.itemCmnSet.editPage #block1 dl dt {
+	width: 297px;
+    background: #73C5FF;
+    border-left: 3px solid #3D3A35;
+}
+.itemCmnSet.editPage #block1 dl dd {
+	display: inline-block;
+	/* margin-left: 5px; */
+	width: 305px;
+}
+
+.itemCmnSet.editPage #block1 dl.itemNo dt {
+	display: inline-block;
+	width: auto; 
+}
+.itemCmnSet.editPage #block1 dl.itemNo dd {
+	display: inline-block;
+	width: 197px;
+}
+
+.itemCmnSet.editPage #block1 dl.itemName {
+	margin-right: 0px;
+}
+.itemCmnSet.editPage #block1 dl.itemName dd {
+    overflow: auto;
+	height: 35px;
+}
+
+/*　imgEntryTechnology ------------------------------------ */
+.itemCmnSet.editPage #block1 > #imgEntryTechnology {
+	width: 100%;
+}
+.itemCmnSet.editPage #block1 #imgEntryTechnology dl dt input[type="button"] {
+	margin: 0 0 0 30px;
+}
+.itemCmnSet.editPage #block1 #imgEntryTechnology dl dd p {
+	width: 55px;
+	height: 55px;
+	background: #dddddd url(../images/not-img.png) no-repeat center;
+	float: left;
+	margin-right: 3px;
+}
+.itemCmnSet.editPage #block1 #imgEntryTechnology dl dd img {
+	width: 55px;
+	height: 55px;
+	outline: 1px solid #dddddd;
+}
+
+.itemCmnSet.editPage #block1 #imgEntryTechnology dl:last-of-type dd p {
+	width: inherit;
+	height: inherit;
+	background: none;
+	border: none;
+}
+.itemCmnSet.editPage #block1 #imgEntryTechnology dl:last-of-type dd input {
+	width: 290px;
+	display: block;
+}
+
+/*　Block1 ------------------------------------------------------------------------------------------------------------ */
+
+
+
+/* scrollArea ---------------------------------------------------------------------- */
+div#block2 {
+	width: 660px;
+}
+
+div#scrollArea.cmnEdit {
+	width: 660px;
+	margin-left: 340px;
+    margin-top: -7px;
+/*	background: #FFE8E8;
+	margin-top: 80px;*/
+}
+
+
+div#scrollArea .dlFloat:after {
+	content: "";
+	clear: both;
+	display: block;
+}
+div#scrollArea .dlFloat dl {
+	width: 660px;
+}
+
+div#scrollArea .dlFloat dt {
+	float: left;
+}
+div#scrollArea .dlFloat dd {
+    margin-left: 5px;
+	float: left;
+	margin-right: 10px;
+}
+
+.box2.inlineSet dl {
+	display: inline-block;
+	width: 325px;
+	margin-right: 10px;
+}
+.box2.inlineSet dl:nth-of-type(2n) {
+	margin-right: 0px;
+}
+.box2.inlineSet dl dt {
+	width: 312px;
+}
+.box2.inlineSet dl dd {
+	width: 315px;
+	margin-right: 5px;
+}
+
+div.dBlock {
+	display: block;
+	width: 660px;
+	margin: 0px;
+	margin-bottom: 5px;
+}
+div.dBlock dd {
+	margin-right: 5px;
+}
+
+/* SKU ------------------------------------ */
+div#hideBlock {
+    width: 660px;
+}
+#hideBlock.skuBlock {
+	margin-bottom: 10px;
+}
+#hideBlock h2,#hideBlock h3{
+    display:block;
+    text-align: left;
+    padding-left: 27px;
+    font-weight: bold;
+    border-bottom: 1px dashed #333;
+	background-image: url(../images/btn_on-off.gif);
+    background-position: 11px 5px;
+	background-repeat: no-repeat;
+	letter-spacing: 0.1em;
+}
+#hideBlock h2.active,#hideBlock h3.active {
+    background-position: 11px -24px;
+	margin-bottom: 10px;
+}
+
+.skuBlock div.skubox table {
+	letter-spacing: 0.1em;
+}
+.skuBlock div.skubox table td {
+	text-align: left;
+}
+.skuBlock div.skubox table th,
+.skuBlock div.skubox table td {
+	border: 1px solid #ddd;
+	letter-spacing: 0.1em;
+}
+.skuBlock div.skubox table caption {
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 0px;
+    text-align: center;
+	background: #ddd;
+}
+
+.skuBlock div.skubox div.sku1 {
+    width: 98%;
+    margin: 0px auto 10px auto;
+	vertical-align: top;
+	margin-bottom: 10px;
+}
+
+.skuBlock div.skubox div.sku1 table {
+	width: auto;
+}
+.skuBlock div.skubox div.sku1 table th:first-of-type {
+	width: 80px;
+}
+.skuBlock div.skubox div div {
+	width: auto;
+}
+
+
+
+#hideBlock div#hideBox2 {
+    width: 98%;
+    margin: 0px auto;
+}
+
+.skuBlock div#hideBox2.skubox {
+    width:100%;
+    display:none;
+}
+.skuBlock div.skubox div.sku2 {
+	/* width: 100%; */
+	margin: 0px 10px 10px 5px;
+	display: inline-block;
+	vertical-align: top;
+}
+.skuBlock div.skubox div.sku2 table {
+	width: auto;
+}
+.skuBlock div.skubox div.sku3 table {
+	/*margin: 0px 0px 0px auto;*/
+}
+
+/* item info ------------------------------------ */
+div#scrollArea .itemInfo dd {
+	width: 115px;
+}
+div#scrollArea .itemInfo dd:nth-of-type(2) {
+	width: 70px;
+}
+div#scrollArea .itemInfo dd:last-of-type {
+	width: 285px;
+}
+
+
+/* related product ------------------------------------  */
+div#scrollArea .relatedProduct {
+	text-align: left;
+    margin-bottom:8px;
+}
+div#scrollArea .relatedProduct dt {
+    display: inline-block;
+}
+div#scrollArea .relatedProduct dd {
+    display: inline-block;
+	
+    width: auto;
+	margin-left: 5px;
+}
+div#scrollArea .relatedProduct dd input[type="text"] {
+	width: 109px; /*113px;*/
+	margin-right: 5px;
+}
+div#scrollArea .relatedProduct dd input:last-of-type {
+	margin: 0px;
+}
+/* related product1 ------------------------------------  */
+div#scrollArea .relatedProduct1 {
+	text-align: left;
+    margin-bottom:8px;
+}
+div#scrollArea .relatedProduct1 dt {
+    display: inline-block;
+}
+div#scrollArea .relatedProduct1 dd {
+    display: inline-block;
+    width: auto;
+	margin-left: 5px;
+}
+div#scrollArea .relatedProduct1 dd input[type="text"] {
+	width: 113px;
+	margin-right: 5px;
+}
+div#scrollArea .relatedProduct dd input:last-of-type {
+	margin: 0px;
+}
+/* productInfo ------------------------------------  */
+div#scrollArea .productInfo dl dt {
+/*	width: 287px; */
+	background-image: url(../images/btn_on-off.gif);
+	background-position: 11px 4px;
+	background-repeat: no-repeat;
+	padding-left: 30px;
+}
+div#scrollArea .productInfo dl dt.active {
+    background-position: 11px -25px;
+}
+div#scrollArea .productInfo dl dt,div#scrollArea .productInfo dl dd {
+	display: block;
+}
+div#scrollArea .productInfo dl dd:last-of-type {
+    display:none;
+}
+
+div#scrollArea .productInfo dl dd p {
+	vertical-align: top;
+}
+div#scrollArea .productInfo dl dd input {
+	width: 105px;
+	margin-right: 5px;
+	vertical-align: top;
+}
+div#scrollArea .productInfo dl dd textarea {
+	width: 190px;
+	height: 56px;
+}
+/*
+div#scrollArea .productInfo dl#pb-Info2 dd p input:last-of-type {
+	width: 180px;
+	margin-right: 5px;
+}
+*/
+
+
+/* txtDescription ------------------------------------  */
+div#scrollArea .txtDescription dl dd textarea {
+	width: 305px;
+	height: 38px;
+}
+
+/* option ------------------------------------  */
+div#scrollArea dl.itemOption dt {
+    height: 68px;
+}
+div#scrollArea dl.itemOption dt input[type="button"] {
+	margin-top: 5px;
+}
+div#scrollArea dl.itemOption dd {
+    width: 587px;
+}
+div#scrollArea dl.itemOption dd p:nth-of-type(2n) {
+	margin-left: 5px;
+}
+div#scrollArea dl.itemOption dd p input {
+    width: 143px;
+}
+div#scrollArea dl.itemOption dd p:nth-of-type(2n) input {
+    width: 352px;
+}
+
+/* campaign ------------------------------------  */
+div#scrollArea dl.itemCampaign dt {
+	padding: 6px 5px 5px 5px;
+}
+div#scrollArea dl.itemCampaign dd {
+	margin-left: 5px;
+}
+div#scrollArea dl.itemCampaign dd input {
+	width: 305px;
+}
+
+/* shopCategory ------------------------------------  */
+div#scrollArea dl.shopCategory dt input[type="button"] {
+	margin-left: 5px;
+}
+div#scrollArea dl.shopCategory dd input {
+	width: 305px;
+}
+
+/* itemCategory ------------------------------------  */
+
+div#scrollArea div.itemCategory dl {
+}
+div#scrollArea div.itemCategory dl dt {
+    height: 100px;
+}
+div#scrollArea div.itemCategory dl dd {
+	width: 563px;
+}
+div#scrollArea div.itemCategory dl p {
+	width: 100%;
+	text-align: right;
+}
+
+div#scrollArea div.itemCategory dl dd p:last-of-type input[type="text"] {
+	width: 70px;
+	margin: 0px 1px;
+}
+div#scrollArea div.itemCategory p input[type="button"] {
+	margin-left: 5px;
+}
+
+
+	
+/* Exhibit ------------------------------------  */
+div#scrollArea div.Exhibit dl {
+	text-align: left;
+}
+div#scrollArea div.Exhibit dl dt {
+    display: inline-block;
+    height: 62px;
+}
+div#scrollArea div.Exhibit dl b {
+	display: inline-block;
+	width: 130px;
+}
+div#scrollArea div.Exhibit dl dd {
+	width: 556px;
+	border-bottom: 1px solid #ddd;
+	margin-bottom: 3px;
+}
+div#scrollArea div.Exhibit dl dd input[type="text"] {
+	width: 114px;
+	margin-right: 5px;
+}
+div#scrollArea div.Exhibit dl dd input[type="checkbox"] {
+	margin-right: 2px;
+}
+div#scrollArea div.Exhibit dl:last-of-type dd div {
+	padding: 5px 0px 2px 0px;
+	font-weight: bold;
+	border-bottom: 1px solid #ddd;
+	width: 100%;
+	margin-bottom: 5px;
+}
+div#scrollArea div.Exhibit p {
+	padding-left: 10px;
+}
+
+	
+/* Price Flag ------------------------------------  */
+div#scrollArea div.itemPriceFlag dl dt {
+	width: auto;
+	padding: 1px 5px;
+}
+div#scrollArea div.itemPriceFlag dl dd {
+	width: auto;
+}
+div#scrollArea div.itemPriceFlag dl dd input {
+	/*width: 250px;*/
+}
+div#scrollArea div.itemPriceFlag dl dd:nth-of-type(3) input,
+div#scrollArea div.itemPriceFlag dl dd:last-of-type input {
+	/*width: 80px;*/
+width:13px;
+}
+
+	
+/* FreeSpace ------------------------------------  */
+div#scrollArea div.itemSpace dl {
+	margin: 0px;
+}
+div#scrollArea div.itemSpace dl dt {
+	width: 647px;
+}
+div#scrollArea div.itemSpace dl dd {
+    width: 654px;
+}
+div#scrollArea div.itemSpace dl dd textarea {
+	width: 640px;
+}
+
+
+
+
+/*　Btn */
+div.setListBox .itemCmnSet.editPage .btn p {
+	width: 695px;
+	margin: 0px auto;
+}
+
+div.setListBox .itemCmnSet.editPage .btn input {
+	display: inline-block;
+	margin-right: 20px;
+}
+div.setListBox .itemCmnSet.editPage .btn input:last-of-type {
+	margin: 0px;
+}
+
+/*--------------------------------------------------------------------------------------
+  [1]Item Edit 1.2 - popup
+--------------------------------------------------------------------------------------*/
+body.clNon:before {
+	content:"";
+	background: none;
+}
+
+/* common */
+#PopContents div.btn {
+	width: 100%;
+	margin-top: 20px;
+}
+#PopContents div.btn input[type="button"],
+#PopContents div.btn input[type="submit"]{
+	width: 150px;
+	margin: 0px auto;
+	display: block;
+}
+/*#PopContents div.btn {
+	width: 100%;
+	margin-top: 20px;
+	position: fixed;
+	bottom: 0px;
+	padding: 10px 0px;
+	background: rgba(0,0,0,0.5);
+	left: 0;
+}*/
+
+
+#PopContents dl {
+	display: block;
+	text-align: left;
+
+}
+#PopContents dt,#PopContents dd {
+	text-align: left;
+	font-weight: bold;
+}
+.popSearch dt {
+	font-size: 15px;
+}
+.popSearch dt span {
+    font-size: 10px;
+    font-weight: normal;
+    padding-left: 10px;
+}
+ dl.popSearch input[type="text"] {
+    width: 400px;
+    margin-right: 10px;
+}
+dl.popSearch input[type="button"] {
+    width: 100px;
+}
+
+#PopContents table th,
+#PopContents table td{
+	border: 1px solid #ddd;
+}
+
+
+/* pop1_Img */
+.pop1_Img dl {
+	margin-bottom: 10px;
+}
+
+#PopContent.pop1_Img > dl dd {
+	font-weight: normal;
+}
+.pop1_Img dl dt,
+.pop1_Img dl dd:first-of-type {
+	margin-right: 10px;
+}
+
+/* pop2_Option */
+#PopContents.pop2_Option dl {
+	border-left: 5px solid #73c5ff;
+	margin-bottom: 10px;
+	margin-left: 32px;
+}
+#PopContents.pop2_Option dt {
+	width: 60px;
+	text-align: right;
+	margin-right: 10px;
+}
+.pop2_Option dd {
+	width: 465px;
+}
+.pop2_Option dd input {
+	width: 150px;
+}
+.pop2_Option dd:last-of-type input {
+	width: 450px;
+}
+#PopContents.pop2_Option dl:first-of-type {
+	border: none;
+	margin-left: 0px;
+}
+
+#PopContents.pop2_Option dl:first-of-type dt {
+	padding-left: 10px;
+	width: 90px;
+}
+#PopContents.pop2_Option dl:first-of-type dd {
+	width: 450px;
+}
+.pop2_Option dl:first-of-type dd input {
+	width: 150px;
+}
+.OptionBlock {
+	border-bottom: 1px solid #3d3a35;
+	display: table;
+	padding: 8px 0px;
+}
+
+.OptionBlock p {
+	display: table-cell;
+}
+.OptionBlock div {
+	display: table-cell;
+}
+#PopContents.pop2_Option .OptionBlock div dl {
+	margin-left: 0px;
+}
+#PopContents.pop2_Option .OptionBlock div dd {
+	vertical-align: top;
+	font-weight: normal;
+}
+#PopContents.pop2_Option .OptionBlock div dl:first-of-type {
+	font-size: 15px;
+}
+#PopContents.pop2_Option .OptionBlock div dl:first-of-type dt {
+	text-align: left;
+	width: 95px;
+	margin-right: 0px;
+	padding: 0px;
+}
+#PopContents.pop2_Option .OptionBlock div dl:first-of-type dd {
+	width: 340px;
+}
+
+
+
+.OptionBlock:last-child {
+	display: block;
+	border: none;
+}
+
+
+/* pop3_Scate */
+#cateArea {
+	overflow: auto;
+	height: 200px;
+	margin: 10px auto;
+}
+#PopContents #cateArea table th,
+#PopContents #cateArea  table td{
+	border: none;
+}
+#PopContents #cateArea div.btn input[type="submit"]{
+	width: 150px;
+	margin: 0px auto;
+	display: initial;
+}
+
+
+
+/* pop4_Mcate */
+.pop4_Mcate div {
+	margin-top: 10px;
+}
+.pop4_Mcate div p {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.pop4_Mcate div table th,
+.pop4_Mcate div table td{
+	border: 1px solid #ddd;
+}
+.pop4_Mcate div table th:first-of-type {
+	width: 20px;
+	text-align:center;
+}
+.pop4_Mcate div table th:nth-of-type(2) {
+	width: 150px;
+}
+
+#PopContents.pop4_Mcate div table tr:last-of-type table {
+	background: #ddd;
+}
+
+#PopContents.pop4_Mcate div table tr:last-of-type table td {
+    border: 1px solid #fff;
+    padding: 0;
+    text-align: center;
+    height: initial;
+}
+#PopContents.pop4_Mcate div table tr:last-of-type table td a,
+#PopContents.pop4_Mcate div table tr:last-of-type table td span {
+	display: block;
+	padding: 6px 2px;
+}
+
+
+
+
+
+/* pop5_Spec */
+.pop5_Spec table {
+	width:550px;
+	margin: 0px auto;
+}
+.pop5_Spec table th:first-of-type {
+	width: 150px;
+}
+.pop5_Spec table th:last-of-type {
+	text-align: left;
+}
+
+.pop5_Spec table th,
+.pop5_Spec table td {
+	padding: 0px 20px;
+	height: 40px;
+}
+#PopContents.pop5_Spec div.btn input[type="submit"]{
+	width: 150px;
+	margin: 0px auto;
+	display: initial;
+}
+
+/*--------------------------------------------------------------------------------------
+  [1]Item 1.3
+--------------------------------------------------------------------------------------*/
+#ComBlock2 { width: inherit; }
+.itemCmnSetKnr.itemCmnSet.editBtn {
+    width: 100%;
+}
+/*.itemCmnSetKnr.editBtn p:nth-of-type(2) {
+	margin-left: 20px;
+}*/
+.itemCmnSetKnr.editBtn p:last-of-type {
+	right: 1%;
+}
+.setListBox .stSet.sksST.shopST {
+	letter-spacing: 0.1em;
+	margin-top: -25px;
+	font-size: 10px;
+	text-align: right;
+}
+
+.setListBox .ptSet.sksST.shopST {
+    letter-spacing: 0.1em;
+    margin-top: -91px;
+    font-size: 10px;
+    margin-left: 267px;
+    padding: 3px 3px 35px 14px;
+}
+
+
+/*-- SEARCH -------------- */
+div.itemCmnSetKnr.searchBox dl dd input[type="datetime-local"] {
+	width: 167px;
+}
+
+
+div.itemCmnSetKnr.searchBox div#hideBlock {
+	width: 100%;
+}
+div.itemCmnSetKnr.searchBox div > dl {
+	font-size: 10px;
+
+}
+div.itemCmnSetKnr.searchBox div > dl dt {
+    width: 110px;
+}
+div.itemCmnSetKnr.searchBox div > dl dd {
+    width: 110px;
+}
+
+div.itemCmnSetKnr.searchBox div > dl dd input {
+    width: 100px;
+}
+div.itemCmnSetKnr.searchBox div > dl dd select {
+    font-size: 10px;
+    width: 110px;
+}
+div.searchBox dl dd select,
+div.searchBox dl dd input[type="text"] {
+	height: 22px;
+}
+
+/*div.itemCmnSetKnr.searchBox .hideBox dl dt:nth-of-type(2),
+div.itemCmnSetKnr.searchBox .hideBox dl dt:nth-of-type(20) {
+	line-height: 11px;
+	height: 14px;
+	vertical-align: middle;
+}*/
+div.itemCmnSetKnr.searchBox dl:first-of-type dd:nth-of-type(6) {
+	width: 550px;
+}
+div.itemCmnSetKnr.searchBox div > dl:first-of-type dd:nth-of-type(6),
+div.itemCmnSetKnr.searchBox div > dl:first-of-type dd:nth-of-type(7) {
+	width: initial;
+}
+
+div.itemCmnSetKnr.searchBox div > dl:first-of-type dt:nth-of-type(2),
+div.itemCmnSetKnr.searchBox div > dl:first-of-type dt:nth-of-type(10) {
+	line-height: 11px;
+	height: 14px;
+	vertical-align: middle;
+}
+
+.iconEx.editBtn div p:last-of-type {
+	position: static;
+}
+
+
+div.itemCmnSetKnr.editBox {
+	margin-left: 2px;
+}
+div.itemCmnSetKnr.editBox table.managementList {
+	font-size: 10px;
+	line-height: 1.3em;
+	width: 2004px;
+}
+
+/*-- th -------------- */
+div.itemCmnSetKnr.editBox table.managementList th {
+    /*white-space: pre;*/
+	padding: 0px 2px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:first-of-type { /*対象*/
+	 width: 25px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(2) { /*SKS ST*/
+	 width: 26px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(3) { /*ショップST*/
+	 width: 35px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(4) { /*M ST*/
+	 width: 40px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(5) { /*商品画像*/
+    width: 66px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(6) { /*商品番号*/
+	 width: 140px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(7) { /*商品名*/
+	 width: 340px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(8) { /*定価*/
+	 width: 45px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(9) { /*販売価格*/
+	 width: 45px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(10) { /*原価*/
+	 width: 45px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(11) { /*送料*/
+	 width: 35px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(12) { /*SKU*/
+    width: 50px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(13) { /*ショップページ*/
+    width: 108px;
+}
+    div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(14) { /*ブランド*/
+        /*width: 114px;*/
+        width: 90px;
+    }
+    div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(15) { /*仕入先*/
+        width: 90px;
+        /*width: 170px;*/
+    }
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(16) { /*年度*/
+    width: 40px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(17) { /*シーズン*/
+    width: 46px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(18) { /*割引率*/
+    width: 35px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(19) { /*原価率*/
+    width: 35px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(20) { /*カタログ*/
+	 width: 180px;
+}
+    div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(21) { /*競技*/
+        /*width: 120px;*/
+        width: 90px;
+    }
+    div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(22) { /*分類名*/
+        /*width: 165px;*/
+        width: 90px;
+    }
+
+/*-- td -------------- */
+div.itemCmnSetKnr.editBox table.managementList td {
+    text-align: left;
+	padding: 2px;
+}
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(2),
+div.itemCmnSetKnr.editBox table.managementList th:nth-of-type(3) {
+    text-align: center;
+}
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(14),
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(15) {
+    /*white-space: pre;*/
+	text-align: center;
+}
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(16),
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(17) {
+	text-align: center;
+}
+
+/*商品画像*/
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(4) img {
+	width: 64px;
+}
+/*商品名*/
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(6) {
+	text-align:left;
+}
+/*送料*/
+    div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(10) {
+        /*white-space: pre;*/
+    }
+/*SKU*/
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(11) input {
+	font-size: 10px;
+}
+/*ショップページ*/
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(12) select {
+	font-size: 10px;
+}
+/*カタログ*/
+div.itemCmnSetKnr.editBox table.managementList td:nth-of-type(19) div {
+    overflow: auto;
+    height: 60px;
+	word-break: break-all;
+}
+
+
+/*--------------------------------------------------------------------------------------
+  [1]Item 1.3.1 SKU
+--------------------------------------------------------------------------------------*/
+
+.itemSKU table.listTable {
+	/*width: 1000px;*/
+	max-width: 100%;
+	min-width: 500px;
+	font-size: 10px;
+}
+
+.itemSKU table.listTable th {
+	/*width: 50px;*/
+	max-width: 220px;
+	min-width: 50px;
+}
+
+.itemSKU table.listTable th:first-of-type {
+	/*width: 110px;*/
+	min-width: 110px;
+}
+.itemSKU table.listTable td {
+	font-weight: bold;
+	padding: 0px 2px;
+}
+
+.itemSKU table.listTable th span,
+.itemSKU table.listTable td span {
+	display: block;
+	font-weight: normal;
+	border-top: 1px solid #ddd;
+	margin-top: 2px;
+}
+
+div#PopWrapperWide table.listTable {
+  margin: 0px;
+}
+div#PopWrapperWide .itemSKU table.listTable th,
+div#PopWrapperWide .itemSKU table.listTable td {
+    border: 1px solid #b5b5b5;
+}
+
+
+
+/*--------------------------------------------------------------------------------------
+  1.4 ITEM LIST
+--------------------------------------------------------------------------------------*/
+/*-- search -------------- */
+div.itemInfo.searchBox dl dt:nth-of-type(12) {
+	line-height: 11px;
+	/*height: 14px;*/
+	vertical-align: middle;
+}
+
+
+
+/*-- th -------------- */
+div.itemCmnSet.itemInfo table.listTable2 th:first-of-type { /*行*/
+	width: 20px;
+}
+div.itemCmnSet.itemInfo table.listTable2 th:nth-of-type(2) { /*対象*/
+	 width: 20px;
+}
+div.itemCmnSet.itemInfo table.listTable2 th:nth-of-type(3) { /*SKS ST*/
+	 width: 20px;
+}
+div.itemCmnSet.itemInfo table.listTable2 th:nth-of-type(4) { /*ショップST*/
+	 width: 20px;
+}
+div.itemCmnSet.itemInfo table.listTable2 th:nth-of-type(5) { /*M ST*/
+	 width: 20px;
+}
+div.itemCmnSet.itemInfo table.listTable2 th:nth-of-type(6) { /*商品番号*/
+    width: 70px;
+}
+div.itemCmnSet.itemInfo table.listTable2 th:nth-of-type(7) { /*商品名*/
+    width: 168px;
+}
+div.itemCmnSet.itemInfo table.listTable2 th:nth-of-type(8) { /*商品画像*/
+    width: 140px;
+}
+div.itemCmnSet.itemInfo table.listTable2 th:nth-of-type(9) { /*SKUショッププレビュー*/
+	width: 116px;
+	letter-spacing: -0.01em;
+}
+div.itemCmnSet.itemInfo table.listTable3 th:first-of-type { /*行*/
+	width: 10px;
+}
+div.itemCmnSet.itemInfo table.listTable3 th:nth-of-type(2) { /*対象*/
+	 width: 15px;
+}
+div.itemCmnSet.itemInfo table.listTable3 th:nth-of-type(3) { /*SKS ST*/
+	 width: 20px;
+}
+div.itemCmnSet.itemInfo table.listTable3 th:nth-of-type(4) { /*ショップST*/
+	 width: 20px;
+}
+div.itemCmnSet.itemInfo table.listTable3 th:nth-of-type(5) { /*商品番号*/
+    width: 60px;
+}
+div.itemCmnSet.itemInfo table.listTable3 th:nth-of-type(6) { /*商品名*/
+    width: 168px;
+}
+div.itemCmnSet.itemInfo table.listTable3 th:nth-of-type(7) { /*商品画像*/
+    width: 130px;
+}
+div.itemCmnSet.itemInfo table.listTable3 th:nth-of-type(8) { /*SKUショッププレビュー*/
+	width: 106px;
+	letter-spacing: -0.01em;
+}
+/*-- td -------------- */
+div.itemCmnSet.itemInfo table.listTable2 td:nth-of-type(1),
+div.itemCmnSet.itemInfo table.listTable2 td:nth-of-type(2){
+	text-align: center;
+}
+/*商品画像*/
+div.itemCmnSet.itemInfo table.listTable2 td:nth-of-type(5) li {
+	background-image: url(../images/arrow2.gif);
+	background-repeat: no-repeat;
+	background-position: 0px 5px;
+	padding-left: 10px;
+	margin-bottom: 5px;
+	text-align: left;
+}
+div.itemCmnSet.itemInfo table.listTable2 td:nth-of-type(6) li a {
+	display: block;
+	font-weight: bold;
+}
+div.itemCmnSet.itemInfo.editBox table.listTable2 td:nth-of-type(6) li:last-child {
+	background: none;
+}
+div.itemCmnSet.itemInfo table.listTable2 td:nth-of-type(8) p {
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background: #dddddd url(../images/not-img.png) no-repeat center;
+	border: 1px solid #dddddd;
+}
+div.itemCmnSet.itemInfo table.listTable2 td:nth-of-type(8) p img {
+	width: 40px;
+	height: 40px;
+}
+div.itemCmnSet.itemInfo table.listTable2 td:nth-of-type(9) {
+	text-align: center;
+}
+div.itemCmnSet.itemInfo table.listTable2 td:nth-of-type(9) p {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px dashed #999;
+}
+div.itemCmnSet.itemInfo table.listTable2 td:nth-of-type(9) p:last-of-type {
+	border: none;
+	margin-bottom: 0px;
+}
+div.itemCmnSet.itemInfo table.listTable3 td:nth-of-type(7) p {
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	background: #dddddd url(../images/not-img.png) no-repeat center;
+	border: 1px solid #dddddd;
+}
+div.itemCmnSet.itemInfo table.listTable3 td:nth-of-type(7) p img {
+	width: 40px;
+	height: 40px;
+}
+div.itemCmnSet.itemInfo table.listTable3 td:nth-of-type(8) {
+	text-align: center;
+}
+div.itemCmnSet.itemInfo table.listTable3 td:nth-of-type(8) p {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px dashed #999;
+}
+div.itemCmnSet.itemInfo table.listTable3 td:nth-of-type(8) p:last-of-type {
+	border: none;
+	margin-bottom: 0px;
+}
+/*--------------------------------------------------------------------------------------
+  1.4.1_quickedit
+--------------------------------------------------------------------------------------*/
+table.quickEdit.listTable tr:hover {
+	background: none;
+}
+/*-- SEARCH ----------------*/
+div.quickEdit.searchBox dl:last-of-type dt:nth-of-type(8) {
+	line-height: 11px;
+	height: 14px;
+	vertical-align: middle;
+}
+
+
+/*-- th[quickEdit] -------------- */
+div.itemCmnSet table.quickEdit th:first-of-type { /*行*/
+	width: 20px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(2) { /*対象*/
+	width: 30px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(3) { /*SKS ST*/
+	width: 30px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(4) { /*ショップST*/
+	width: 40px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(5) { /*商品番号等*/
+    width: 325px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(6) { /*SKU*/
+    width: 150px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(7) { /*ライブラリ画像*/
+    width: 150px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(8) { /*販売説明文*/
+    width: 280px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(9) { /*商品説明文*/
+    width: 130px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(10) { /*オプション*/
+    width: 150px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(11) { /*ショップカテゴリー*/
+    width: 200px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(12) { /*スペックID*/
+    width: 100px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(13) { /*関連商品*/
+    width: 100px;
+}
+div.itemCmnSet table.quickEdit th:nth-of-type(14) { /*ショップ*/
+    width: 119px;
+}
+
+/*-- form -------------- */
+div.itemCmnSet table.quickEdit td input[type="text"] {
+	width: 85%;
+}
+
+div.itemCmnSet table.quickEdit td textarea {
+	width: 95%;
+	height: 300px;
+	line-height: 1.3em;
+	font-family: monospace;
+}
+div.itemCmnSet table.quickEdit td input[type="button"] {
+	width: 85%;
+	margin-bottom: 5px;
+}
+
+
+
+/*-- td -------------- */
+div.itemCmnSet table.quickEdit td:first-of-type { /*行*/
+	font-size: 15px;
+	font-weight: bold;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(14) {
+	text-align: center;
+}
+div.itemCmnSet table.quickEdit td p {
+	width: 100%;
+	text-align: center;
+}
+
+/*商品名等*/
+div.itemCmnSet table.quickEdit td:nth-of-type(5) li {
+	padding: 5px 0px;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(5) li a {
+	display: block;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(5) div {
+	margin-bottom: 10px;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(5) input[type="button"] {
+	width: inherit;
+}
+
+div.itemCmnSet.editBox table.quickEdit td:nth-of-type(5) p {
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background: #dddddd url(../images/not-img.png) no-repeat center;
+	border: 1px solid #dddddd;
+}
+div.itemCmnSet.editBox table.quickEdit td:nth-of-type(5) p img {
+	width: 100px;
+}
+
+/*オプション*/
+div.itemCmnSet table.quickEdit td:nth-of-type(8) span,
+div.itemCmnSet table.quickEdit td:nth-of-type(9) span {
+	font-size: 10px;
+}
+
+/*オプション*/
+div.itemCmnSet table.quickEdit td:nth-of-type(10) dl {
+	margin-bottom: 10px;
+	text-align: center;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(10) dd:nth-of-type(2n) {
+	margin-bottom: 10px;
+}
+
+/*カテゴリ*/
+div.itemCmnSet table.quickEdit td:nth-of-type(11) dl {
+	margin-bottom: 10px;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(11) dt {
+	width: 95px;
+	margin-right: 5px;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(11) li {
+	font-weight: bold;
+	text-align: left;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(11) li span {
+    display: inline-block;
+    width: 53px;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(11) li input[type="text"] {
+	width: 85px;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(11) p:nth-of-type(2) input[type="button"] {
+	width: 50%;
+	margin-right: 5%;
+}
+div.itemCmnSet table.quickEdit td:nth-of-type(11) li input[type="button"] {
+	width: inherit;
+}
+
+/*関連商品*/
+div.itemCmnSet table.quickEdit td:nth-of-type(13) p:last-of-type {
+	margin-top: 5px;
+	text-align: right;
+}
+
+
+/*操作*//*ショップ*//*プレビュー*/
+div.itemCmnSet table.quickEdit td:nth-of-type(14) input,
+div.itemCmnSet table.quickEdit td:nth-of-type(14) select { /*ショップ*/
+	font-size: 10px;
+}
+div.itemCmnSet.editBox table.quickEdit td:nth-of-type(14) p {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px dashed #999;
+}
+div.itemCmnSet.editBox table.quickEdit td:nth-of-type(14) p:last-of-type {
+	border: none;
+	margin-bottom: 0px;
+}
+
+
+/*--------------------------------------------------------------------------------------
+  [1] 1.5 - smarttemplate
+--------------------------------------------------------------------------------------*/
+#CmnContents .smartTmp.entryBox h2 {
+    padding-left: 10px;
+	border-left: 5px solid #73c5ff;
+	border-bottom: 1px solid #73c5ff;
+}
+
+.smartTmp.entryBox {
+	letter-spacing: 0.1em;
+	width: 950px;
+	margin: 0px auto;
+	text-align: left;
+}
+.smartTmp.entryBox div {
+	margin-bottom: 20px;
+}
+.smartTmp.entryBox th {
+	width: 150px;
+}
+.smartTmp.entryBox tr:last-of-type th {
+	vertical-align: top;
+}
+.smartTmp.entryBox textarea {
+	width: 600px;
+	height: 80px;
+}
+
+.smartTmp.entryBox.confBox tr:last-of-type th {
+	vertical-align: middle;
+}
+/*追加 15.03.24*/
+#CmnContents .smartTmp.entryBox .resetValue h2 {
+    padding-left: 0px;
+	border: none;
+}
+#CmnContents .smartTmp.entryBox table {
+	width:98%;
+	margin: 0px auto;
+}
+#CmnContents .smartTmp.entryBox .iconList.h2 {
+	margin: 0px 0px 10px 0px;
+}
+#CmnContents .smartTmp.entryBox .iconList.h2 h2 {
+    padding-left: 0px;
+	border-bottom: 1px solid #dddddd;
+	border-left: none
+}
+
+
+/*--------------------------------------------------------------------------------------
+  [1] 1.6 - Option Edit
+--------------------------------------------------------------------------------------*/
+#PopContents.OptionBlock2.pop2_Option .OptionBlock {
+	/*padding-right: 380px;*/
+}
+
+/*#PopContents.OptionBlock2.pop2_Option .btn {
+	margin-bottom: 22px;
+}*/
+#PopContents.OptionBlock2.pop2_Option .btn {
+	width: 100%;
+	margin: 20px auto 0px auto;
+	position: fixed;
+	/*bottom: 22px;*/
+	bottom: 0px;
+	background: rgba(61,58,53,1);
+	left: 0px;
+	/*padding: 4px 0px;*/
+	padding: 7px 0px;
+}
+#PopContents.OptionBlock2.pop2_Option dt {
+	padding: 2px 0px;
+	width: 63px;
+}
+#PopContents.OptionBlock2.pop2_Option dd {
+	font-weight: normal;
+	padding: 2px 0px;
+}
+
+#PopContents.OptionBlock2.pop2_Option dl:first-of-type {
+	font-size: 15px;
+}
+#PopContents.OptionBlock2.pop2_Option dl:first-of-type dt {
+	width: 100px;
+}
+#PopContents.OptionBlock2.pop2_Option dl:first-of-type dd {
+	font-weight: bold;
+}
+
+/*追加 15.03.24*/
+#PopContents.OptionBlock2.pop2_Option .OptionBlock.resetValue {
+	border: none;
+	display: block;
+}
+#PopContents.OptionBlock2.pop2_Option .OptionBlock.resetValue h2 {
+	margin-bottom: 5px;
+}
+#PopContents.OptionBlock2.pop2_Option dl {
+	width: 585px;
+}
+
+/*追加 15.03.26*/
+
+/*#PopContents.OptionBlock2.pop2_Option .OptionBlock.resetValue dl {
+	margin-bottom: 2px;
+}*/
+
+/*--------------------------------------------------------------------------------------
+  [1] 1.7 - Export
+--------------------------------------------------------------------------------------*/
+.exportBox.entryBox {
+	letter-spacing: 0.1em;
+	width: 950px;
+	margin: 0px auto;
+	text-align: left;
+}
+.exportBox.entryBox th {
+	width: 120px;
+}
+.exportBox.entryBox tr:nth-of-type(2) th {
+	vertical-align: top;
+}
+
+.exportBox.entryBox textarea {
+	width: 600px;
+	height: 80px;
+}
+.exportBox.entryBox div {
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #73c5ff;
+}
+.exportBox.entryBox div.btn {
+	border-bottom: none;
+}
+
+/*追加 15.03.24*/
+.exportBox.entryBox table {
+	width: 98%;
+	margin: 0px auto;
+}
+.exportBox.entryBox .resetValue {
+	border-bottom: none;
+}
+.exportBox.entryBox div.iconList.h2 {
+	margin-bottom: 3px;
+	padding: 0;
+	border-bottom: 1px solid #DDDDDD;
+}
+.exportBox.entryBox .resetValue table tr:last-of-type {
+    display: none;
+}
+/*--------------------------------------------------------------------------------------
+  1.8_conf.html
+--------------------------------------------------------------------------------------*/
+.itemExb table.listTable td {
+	height: 20px;
+	text-align: left;
+	padding: 2px 5px;
+	font-size: 10px;
+}
+
+.itemExb table.listTable th:first-of-type {
+	min-height: 130px;
+}
+.itemExb table.listTable th:nth-of-type(2) {
+	min-height: 400px;
+}
+.itemExb table.listTable th:nth-of-type(3) {
+	min-height: 110px;
+}
+.itemExb table.listTable th:nth-of-type(4) {
+	min-height: 115px;
+}
+.itemExb table.listTable th:last-of-type {
+	min-height: 130px;
+}
+
+.ddlgp_dd
+{
+   /*border: 3px solid rgb(239, 209, 54);*/
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    width: 1085px;
+    margin:auto;
+   padding: 10px 0px 10px 10px;
+   /*height:85px;*/
+   background-color: #73C5FF;
+    }
+
+.ddlgroup tr td:nth-of-type(odd) span
+{
+    display: inline-block;
+    margin-right: 5px;
+    /*min-width: 77px;*/
+    margin-bottom:10px;
+    width:95px;
+    }
+
+.ddlgroup tr td:nth-of-type(even) select
+{
+    width:127px;
+    margin-right: 37px;
+    margin-bottom:10px;
+    }
+
+.btn_chk
+{
+    /*width:1166px;*/
+    width:1097px;
+    margin:15px auto;
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    }
+    
+.gdvDetailSKU_tb
+{  
+    margin-right: 10px;
+    display: inline-block;
+    border: none;
+}
+    
+
+.gdvDetailSKU_tb th:nth-of-type(1),
+.gdvDetailSKU_tb td:nth-of-type(1)
+{
+    padding:5px;
+    width: 20px;
+    }
+
+.gdvDetailSKU_tb th,.gdvDetailSKU_tb td
+{
+    padding:5px 10px;
+     font-size:11px;
+     font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+     word-wrap:break-word;
+     white-space: nowrap;
+     
+    }
+    
+.gdvDetailSKU_tb th
+{
+    background-color:#73C5FF;
+   /* background-color:#C3C0BB;*/
+    }
+
+.tb_gdvDetDv
+{
+        margin: auto;
+        width: 1097px;
+    }
+
+.btn_gdvDetDv
+{
+    /*width: 1140px;*/
+    width: 1085px;
+    margin: auto;
+    padding: 10px 0px 10px 10px;
+    text-align: right;
+   font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+   padding-top: 10px;
+    }
+.ddlgroup tr td:nth-of-type(odd)
+{
+    font-size: 12px;
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    }
+    
+.tag_listHD
+{
+   font-size: 15px;
+    /*background-color: #73C5FF;*/
+    padding: 7px;
+    display:inline-block;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+     /*font-family: ＭＳ Ｐゴシック;*/
+     font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+     width:250px;
+    }
+
+.ddlgroup
+{
+    padding-left: 5px;
+}
+.gdvDetailSKU_tb tr td:nth-of-type(2),
+.gdvDetailSKU_tb tr td:nth-of-type(3)
+{
+    /*background-color:#EEEEEE;*/
+    background-color:#d6efff;
+    font-size: 12px;
+    }
+    
+  .gdvSKU 
+  {
+       min-width:1065px;
+      }  
+.gdvSKU th
+{
+    background-color:#73C5FF;
+    font-family:  "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+    font-size:12px;
+}
+  .nav {
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+}
+.nav-tabs {
+    /*border-bottom: 1px solid black;*/
+}
+.nav-tabs > li
+{
+    float: left;
+    margin-bottom: -1px;
+}
+.nav-tabs > li > a {
+    margin-right: 2px;
+    line-height: 1.428571429;
+    border: 1px solid transparent;
+    border-radius: 4px 4px 0 0;
+}
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+    /* color: #8e8e93; */
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    /* border-bottom-color: transparent; */
+    /* cursor: default; */
+}
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+a, a:hover, a:focus {
+    text-decoration: none;
+    outline: none;
+    outline: 0;
+}
+a {
+    color:#3D3A35;
+    /*color: #007aff;*/
+    text-decoration: none;
+}
+.nav:before, .nav:after {
+    content: " ";
+    display: table;
+}
+.nav:before, .nav:after {
+    content: " ";
+    display: table;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.brandsetting
+{
+    border: 1px solid #b5b5b5;
+    margin: 8px auto 10px auto;
+    line-height: 30px;
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+    .brandsetting th,
+    .brandsetting td
+    {
+        border: 1px solid #b5b5b5;
+        text-align: center;
+    }
+    .brandsetting th
+    {
+        background: #f2f2f2;
+    }
+    .brandsetting td
+    {
+        line-height: normal;
+        vertical-align: top;
+        height: inherit;
+        table-layout: fixed;
+        padding-top: 10px;
+    }
+    .brandsetting td:nth-of-type(1)
+    {
+        width: 20px;
+    }
+    .brandsetting td:nth-of-type(2)
+    {
+        width: 150px;
+    }
+    .brandsetting td:nth-of-type(3)
+    {
+        width: 300px;
+    }
+    .brandsetting td:nth-of-type(4)
+    {
+        width: 300px;
+    }
+    .deliverysetting
+{
+    border: 1px solid #b5b5b5;
+    margin: 8px auto 10px auto;
+    line-height: 30px;
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+    .deliverysetting th,
+    .deliverysetting td
+    {
+        border: 1px solid #b5b5b5;
+        text-align: center;
+    }
+    .deliverysetting th
+    {
+        background: #f2f2f2;
+    }
+    .deliverysetting td
+    {
+        line-height: normal;
+        vertical-align: top;
+        height: inherit;
+        table-layout: fixed;
+        padding-top: 10px;
+    }
+    .deliverysetting td:nth-of-type(1)
+    {
+        width: 450px;
+    }
+    .deliverysetting td:nth-of-type(2)
+    {
+        width: 150px;
+    }
+    .deliverysetting td:nth-of-type(3)
+    {
+        width: 150px;
+    }
+    .gdvInnerSetting
+{
+    border: 1px solid #b5b5b5;
+    margin: 8px auto 10px auto;
+    line-height: 30px;
+    text-align:center;
+    font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+    .gdvInnerSetting th,
+    .gdvInnerSetting td
+    {
+        border: 1px solid #b5b5b5;
+        text-align: center;
+    }
+    .gdvInnerSetting th
+    {
+        background: #f2f2f2;
+    }
+    .gdvInnerSetting td
+    {
+        line-height: normal;
+        vertical-align: top;
+        height: inherit;
+        /*table-layout: fixed;*/
+        padding-top: 10px;
+    }

@@ -1,0 +1,159 @@
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe.config
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.exe
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\Newtonsoft.Json.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csprojResolveAssemblyReference.cache
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.exe
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe.config
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.exe
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\bin\Debug\Newtonsoft.Json.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.exe.config
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csprojAssemblyReference.cache
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.CoreCompileInputs.cache
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.CopyComplete
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.exe
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.pdb
+F:\MyData\Projects\ORS\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe.config
+F:\MyData\Projects\ORS\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe
+F:\MyData\Projects\ORS\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.pdb
+F:\MyData\Projects\ORS\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.dll
+F:\MyData\Projects\ORS\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.dll
+F:\MyData\Projects\ORS\Inventory_Update_Console\bin\Debug\Yahoo_API.exe
+F:\MyData\Projects\ORS\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.dll
+F:\MyData\Projects\ORS\Inventory_Update_Console\bin\Debug\Newtonsoft.Json.dll
+F:\MyData\Projects\ORS\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.pdb
+F:\MyData\Projects\ORS\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.pdb
+F:\MyData\Projects\ORS\Inventory_Update_Console\bin\Debug\Yahoo_API.pdb
+F:\MyData\Projects\ORS\Inventory_Update_Console\bin\Debug\Yahoo_API.exe.config
+F:\MyData\Projects\ORS\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.pdb
+F:\MyData\Projects\ORS\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csprojAssemblyReference.cache
+F:\MyData\Projects\ORS\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.CoreCompileInputs.cache
+F:\MyData\Projects\ORS\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.CopyComplete
+F:\MyData\Projects\ORS\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.exe
+F:\MyData\Projects\ORS\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe.config
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.exe
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\bin\Debug\Newtonsoft.Json.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.exe.config
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csprojAssemblyReference.cache
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.exe
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.pdb
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe.config
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.pdb
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.dll
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.dll
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.exe
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.dll
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\bin\Debug\Newtonsoft.Json.dll
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.pdb
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.pdb
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.pdb
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.exe.config
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.pdb
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csprojAssemblyReference.cache
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.CoreCompileInputs.cache
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.CopyComplete
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.exe
+D:\C# Projects\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.pdb
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe.config
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.pdb
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.dll
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.dll
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\bin\Debug\Yahoo_API.exe
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.dll
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\bin\Debug\Newtonsoft.Json.dll
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.pdb
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.pdb
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\bin\Debug\Yahoo_API.pdb
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\bin\Debug\Yahoo_API.exe.config
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.pdb
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csprojAssemblyReference.cache
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.CoreCompileInputs.cache
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.CopyComplete
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.exe
+C:\My Data\Projects\ORS_RCM_Git\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe.config
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\Newtonsoft.Json.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.exe.config
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csprojAssemblyReference.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.pdb
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe.config
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.pdb
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.dll
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.dll
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.exe
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.dll
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\bin\Debug\Newtonsoft.Json.dll
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.pdb
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.pdb
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.pdb
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.exe.config
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.pdb
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.AssemblyReference.cache
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.CoreCompileInputs.cache
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.CopyComplete
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.exe
+D:\MyProjects\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.pdb
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe.config
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.exe
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\bin\Debug\Inventory_Update_Console.pdb
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.dll
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.dll
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.exe
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.dll
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\bin\Debug\Newtonsoft.Json.dll
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_BL.pdb
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_Common.pdb
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.pdb
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\bin\Debug\Yahoo_API.exe.config
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\bin\Debug\ORS_RCM_DL.pdb
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.AssemblyReference.cache
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.exe
+D:\ORS_Data\ORS_RCM\Inventory_Update_Console\obj\Debug\Inventory_Update_Console.pdb

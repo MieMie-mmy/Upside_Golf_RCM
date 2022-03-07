@@ -1,0 +1,38 @@
+D:\C# Projects\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.csprojAssemblyReference.cache
+D:\C# Projects\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.csproj.CoreCompileInputs.cache
+D:\C# Projects\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\TennisClassic_Upload_Console.exe.config
+D:\C# Projects\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\TennisClassic_Upload_Console.exe
+D:\C# Projects\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\TennisClassic_Upload_Console.pdb
+D:\C# Projects\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\ionic.zip.dll
+D:\C# Projects\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\WinSCPnet.dll
+D:\C# Projects\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.csproj.CopyComplete
+D:\C# Projects\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.exe
+D:\C# Projects\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\TennisClassic_Upload_Console.exe.config
+D:\ORS_Data\ORS_RCM\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\TennisClassic_Upload_Console.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\TennisClassic_Upload_Console.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\ionic.zip.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.csprojAssemblyReference.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.pdb
+D:\MyProjects\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\TennisClassic_Upload_Console.exe.config
+D:\MyProjects\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\TennisClassic_Upload_Console.exe
+D:\MyProjects\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\TennisClassic_Upload_Console.pdb
+D:\MyProjects\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\ionic.zip.dll
+D:\MyProjects\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\WinSCPnet.dll
+D:\MyProjects\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.csproj.AssemblyReference.cache
+D:\MyProjects\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.csproj.CoreCompileInputs.cache
+D:\MyProjects\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.csproj.CopyComplete
+D:\MyProjects\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.exe
+D:\MyProjects\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.pdb
+D:\ORS_Data\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\TennisClassic_Upload_Console.exe.config
+D:\ORS_Data\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\TennisClassic_Upload_Console.exe
+D:\ORS_Data\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\TennisClassic_Upload_Console.pdb
+D:\ORS_Data\ORS_RCM\TennisClassic_Upload_Console\bin\Debug\ionic.zip.dll
+D:\ORS_Data\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.csproj.AssemblyReference.cache
+D:\ORS_Data\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.exe
+D:\ORS_Data\ORS_RCM\TennisClassic_Upload_Console\obj\Debug\TennisClassic_Upload_Console.pdb

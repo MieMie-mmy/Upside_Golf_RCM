@@ -1,0 +1,49 @@
+﻿@charset "utf-8";
+
+/*--------------------------------------------------------------------------------------
+  6 LIST
+--------------------------------------------------------------------------------------*/
+/*--- CategoryID List Page ------------*/
+div.setListBox div.entryBox p input[type="file"] {
+	width: 350px;
+	margin-right: 5px;
+}
+div.setListBox div.entryBox p:first-of-type input[type="button"] {
+	width: 150px;
+}
+div.setListBox div.entryBox p:first-of-type {
+	margin-right: 30px;
+}
+
+div.setListBox div.mallCate table.listTable th:first-of-type {
+	width: 200px;
+}
+
+div.setListBox div.mallCate table.listTable td:last-of-type {
+	text-align: left;
+	padding: 0px 5px;
+}
+
+div.setDetailBox.mallCate .listTable th:first-of-type {
+	width: 50px;
+}
+div.setDetailBox.mallCate .listTable th:nth-of-type(2),
+div.setDetailBox.mallCate .listTable th:nth-of-type(4){
+	width: 80px;
+}
+div.setDetailBox.mallCate .listTable td:nth-of-type(3),
+div.setDetailBox.mallCate .listTable td:nth-of-type(5){
+	text-align: left;
+	padding: 0px 5px;
+}
+
+
+/*--- Confirmation ------------*/
+.setDetailBox.mallCate table.listTable {
+	font-size: 10px;
+}
+.setDetailBox.mallCate table.listTable td {
+	height: 20px;
+}
+
+

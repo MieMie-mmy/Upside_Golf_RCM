@@ -1,0 +1,115 @@
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.exe.config
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.exe
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Common.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Imap4.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Mail.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Excel.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Ftp.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\icsharpcode.sharpziplib.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ImapLibrary.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ionic.zip.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\OpenPop.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\Capital_SKS_Email_Reader.exe
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\Capital_SKS_Email_Reader.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.exe.config
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.exe
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Common.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Imap4.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Mail.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Excel.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Ftp.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\icsharpcode.sharpziplib.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ImapLibrary.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ionic.zip.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\OpenPop.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csprojAssemblyReference.cache
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csproj.CoreCompileInputs.cache
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csproj.CopyComplete
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\Capital_SKS_Email_Reader.exe
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\Capital_SKS_Email_Reader.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.exe.config
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.exe
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Common.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Imap4.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Mail.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Excel.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Ftp.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\icsharpcode.sharpziplib.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ImapLibrary.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ionic.zip.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\OpenPop.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csprojAssemblyReference.cache
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\Capital_SKS_Email_Reader.exe
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\Capital_SKS_Email_Reader.pdb
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.exe.config
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.exe
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.pdb
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Common.dll
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Imap4.dll
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Mail.dll
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Excel.dll
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Ftp.dll
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\icsharpcode.sharpziplib.dll
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ImapLibrary.dll
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ionic.zip.dll
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\OpenPop.dll
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csprojAssemblyReference.cache
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csproj.CoreCompileInputs.cache
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csproj.CopyComplete
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\Capital_SKS_Email_Reader.exe
+D:\C# Projects\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\Capital_SKS_Email_Reader.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.exe.config
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Common.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Imap4.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Mail.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Excel.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Ftp.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\icsharpcode.sharpziplib.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ImapLibrary.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ionic.zip.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\OpenPop.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csprojAssemblyReference.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\Capital_SKS_Email_Reader.exe
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\Capital_SKS_Email_Reader.pdb
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.exe.config
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.exe
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.pdb
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Common.dll
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Imap4.dll
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Mail.dll
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Excel.dll
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Ftp.dll
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\icsharpcode.sharpziplib.dll
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ImapLibrary.dll
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ionic.zip.dll
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\OpenPop.dll
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csproj.AssemblyReference.cache
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csproj.CoreCompileInputs.cache
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csproj.CopyComplete
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\Capital_SKS_Email_Reader.exe
+D:\MyProjects\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\Capital_SKS_Email_Reader.pdb
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.exe.config
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.exe
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Capital_SKS_Email_Reader.pdb
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Common.dll
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Imap4.dll
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ActiveUp.Net.Mail.dll
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Excel.dll
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\Ftp.dll
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\icsharpcode.sharpziplib.dll
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ImapLibrary.dll
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\ionic.zip.dll
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Reader\bin\Debug\OpenPop.dll
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\ORS_RCM_Email_Reader.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\Capital_SKS_Email_Reader.exe
+D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Reader\obj\x86\Debug\Capital_SKS_Email_Reader.pdb

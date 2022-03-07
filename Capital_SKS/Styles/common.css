@@ -1,0 +1,489 @@
+﻿@charset "utf-8";
+
+/*-- styleSet --------------------------------------------*/
+.inlineSet {
+	letter-spacing: -.40em;
+}
+.inlineSet li,
+.inlineSet dl,
+.inlineSet dt,
+.inlineSet dd,
+.inlineSet p{
+	display: inline-block;
+	*display: inline;
+	*zoom: 1;
+	letter-spacing: 0.1em;
+	text-align: center;
+}
+
+/*-- reset --------------------------------------------*/
+.resetValue {
+	letter-spacing: 0.1em;
+}
+.resetValue:first-of-type {
+	background: #ddd;
+	padding: 10px 0px;
+	margin-bottom: 30px;
+}
+/*-- CmnContents --------------------------------------------*/
+#CmnContents {
+	width: 1000px;
+	margin: 0px auto;
+	margin-top: -100px;
+	padding-top: 85px;
+}
+#ComBlock {
+	margin-top: 60px;
+}
+
+#CmnContents2 {
+    position: relative;
+    width: 100%;
+    min-width: 1000px;
+    padding: 0;
+}
+#ComBlock2 {
+	width: 98%;
+	margin: 0px auto;
+}
+
+
+div#PopWrapper {
+    width: 600px;
+    margin: 0px auto;
+}
+#PopWrapper section {
+	width: 98%;
+	margin: 15px auto 5px auto;
+}
+#PopWrapper #PopContents {
+	width: 98%;
+	margin: 20px auto 5px auto;
+}
+
+
+div#ComBlock form {
+    display: block;
+    /*width: 98%;*/
+    
+	width: 100%;
+    margin: 0px auto;
+}
+
+#CmnContents h1 span {
+    font-size: 12px;
+    color: #ff0000;
+    text-align: right;
+    display: inline-block;
+	margin-left: 50px;
+/*    width: 78%;*/
+}
+#CmnContents h2 {
+    letter-spacing: 0.1em;
+    font-size: 15px;
+	padding-left: 10px;
+}
+
+h1 {
+	letter-spacing: 0.1em;
+	border-bottom: 1px solid #3d3a35;
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+/*-- toTop
+p#toTop {
+    position: fixed;
+    bottom: 27px;
+    right: 5%;
+    background: #fff;
+    width: 90px;
+    height: 40px;
+    z-index: 9999;
+    border-radius: 3px;
+}
+p#toTop a {
+    display: table-cell;
+    height: 40px;
+    vertical-align: middle;
+    text-align: center;
+    width: 100px;
+}
+ --------------------------------------------*/
+/*-- toTop --------------------------------------------*/
+p#toTop {
+    display:block;
+    list-style:none;
+    margin: 0 0 0 0;
+    position: fixed;
+    bottom: 20px;
+    right: 40px;
+    z-index: 99998;
+    opacity: 0.9; 
+    text-decoration: none;
+    overflow: hidden;   
+    background: #fff;
+    text-align: center;
+    border-radius: 4px;
+	border: 1px solid #3D3A35;
+}   
+p#toTop a {
+    display: block;
+    padding: 5px 2px;
+    width: 80px;
+}
+ 
+   
+/*p#toTop a:hover {
+    margin: 0 0 0px -80px;
+}*/
+/*--------------------------------------------------------------------------------------
+  Index
+--------------------------------------------------------------------------------------*/
+
+/*-- お知らせ --------------------------------*/
+#messageBox {
+	overflow: auto;
+	height: 280px;
+	width: 1000px;
+	display: block;
+}
+#messageBox table {
+	letter-spacing: 0.1em;
+	width: 900px;
+}
+#messageBox table th:first-of-type {
+	width:150px;
+}
+#messageBox table th,
+#messageBox table td {
+	height: 20px;
+	border: 1px solid #ddd;
+}
+#messageBox table th {
+	background: #ddd;
+}
+#messageBox table td:first-of-type {
+	text-align: center;
+}
+.exhibitInfo
+{
+    overflow:auto;
+    height: 280px;
+	width:1350px;
+	display: block;
+ }
+ .exhibitInfo table {
+	letter-spacing: 0.1em;
+	 width:1000px;
+	 text-align: center;
+}
+.exhibitInfo table th,
+.exhibitInfo table td {
+	height: 20px;
+	border: 1px solid #ddd;
+}
+.exhibitInfo table th {
+	background: #ddd;
+}
+.exhibitInfo {
+   margin-top:20px;
+   margin-right:20px;
+}
+.exhibitInfo table th:first-of-type {
+	width:215px;
+}
+
+/*--------------------------------------------------------------------------------------
+  copylight
+--------------------------------------------------------------------------------------*/
+
+/* コピーライトあり
+body:before {
+	content:"Copyright Capital Knowledge. All Rights Reserved.";
+	text-align: center;
+	font-size: 10px;
+	font-weight: normal;
+	font-family: inherit;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	padding: 5px 0px;
+	background: #3d3a35;
+	color: #fff;
+	z-index: 9999;
+}
+*/
+
+
+
+/*--------------------------------------------------------------------------------------
+  Header
+--------------------------------------------------------------------------------------*/
+/*-- Setting -----------------------------------*/
+header {
+	display: block;
+	background-color:#3d3a35;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	z-index: 99999;
+	padding: 5px 0px 0px 0px;
+	color: #fff;
+}
+header a {
+	color: #fff;
+	text-decoration: none;
+}
+header nav {
+	background: #3d3a35;
+	background: -moz-linear-gradient(top,  #827c7c 0%, #545151 51%, #2b2b2b 51%, #3d3a35 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#827c7c), color-stop(51%,#545151), color-stop(51%,#2b2b2b), color-stop(100%,#3d3a35));
+	background: -webkit-linear-gradient(top,  #827c7c 0%,#545151 51%,#2b2b2b 51%,#3d3a35 100%);
+	background: -o-linear-gradient(top,  #827c7c 0%,#545151 51%,#2b2b2b 51%,#3d3a35 100%);
+	background: -ms-linear-gradient(top,  #827c7c 0%,#545151 51%,#2b2b2b 51%,#3d3a35 100%);
+	background: linear-gradient(to bottom,  #827c7c 0%,#545151 51%,#2b2b2b 51%,#3d3a35 100%);
+	display: table;
+	width: 100%;
+	height: 30px;
+}
+
+/*-- logo -----------------------------------*/
+nav p.logo {
+    width: 60px;
+	text-align: center;
+	display: table-cell;
+    height: 30px;
+    vertical-align: middle;
+    line-height:1em;
+}
+nav p.logo img {
+	width: 50px;
+}
+
+
+/*-- MENU -----------------------------------*/
+nav ul#nav {
+	display: table-cell;
+	width: 660px;
+	height: 30px;
+}
+nav ul#nav li {
+    display: table-cell;
+	color: #fff;
+    border-left: 1px solid #545151;
+	height: 30px;
+	width: 101px;
+	position: relative;
+    box-sizing: border-box;
+}
+nav ul#nav li:last-of-type {
+    border-right: 1px solid #545151;
+}
+
+nav ul#nav li a {
+    display: table-cell;
+    width: 101px;
+    height: 30px;
+    vertical-align: middle;
+	font-size: 10px;
+	transition: initial;
+	text-align: center;
+}
+/*nav ul#nav li a:hover {
+	background-color: #3d3a35;
+	background-position: 97% 12px;
+}*/
+nav ul#nav li.menu a {
+	background-image: url(../images/h_arrow.png);
+	background-repeat:no-repeat;
+	background-position: 4px 12px;
+    padding-left: 15px;
+	text-align: left;
+}
+nav ul#nav li a:hover {
+	background-color: #3d3a35;
+	background-position: 4px -32px;
+}
+
+/*子要素*/
+nav ul#nav li > ul {
+	display: block;
+	width: 140px;
+	position: absolute;
+	top: 30px;
+	left: 0px;
+	z-index: 100;
+}
+nav ul#nav li > ul li {
+	display: block;
+	padding-left: 0px;
+	visibility: hidden;
+	overflow: hidden;
+	width: 140px;
+	height: 0;
+	background-size: 5px;
+	font-size: 10px;
+	font-weight: normal;
+	border-bottom: 1px #3d3a35 solid;
+	box-sizing: border-box;
+}
+nav ul#nav li > ul li:last-of-type {
+	border-bottom: none;
+}
+
+nav ul#nav li > ul li {
+	background: #545151;
+	width: 140px;
+/*	transition: initial;
+*/}
+/*nav ul#nav li > ul li a {
+	background: url(../images/h_arrow.png) 95% -87% no-repeat;
+	box-sizing: border-box;
+	width: 140px;
+	padding: 0px 7px;
+	transition: initial;
+}*/
+nav ul#nav li.menu > ul li a {
+	background: none;
+	padding-left: 5px;
+	width: 140px;
+}
+nav ul#nav li.menu > ul li a:hover {
+	background: none;
+}
+
+nav ul#nav li > ul li:hover, nav ul#nav li > ul li a:hover {
+	background-image: none;
+	background-color: #BABABA;
+	color: #222;
+	height: 35px;
+}
+nav ul#nav li:hover ul li, nav ul#nav li a:hover ul li{
+	visibility: visible;
+	overflow: visible;
+	height: 35px;
+	z-index: 10;
+}
+
+
+
+
+nav ul#nav * {
+	-webkit-transition: 0.3s;
+	-moz-transition: 0.3s;
+	-ms-transition: 0.3s;
+	-o-transition: 0.3s;
+	transition: 0.3s;
+}
+
+
+
+
+
+/*-- ユーザ ---------------------------------*/
+nav ul#userBlock {
+    width: 400px;
+	position: relative;
+	line-height: 1;
+	text-align: left;
+	/*position: absolute;*/
+	right: 0px;
+	display: table-cell;
+}
+nav ul#userBlock li {
+    display: table-cell;
+	vertical-align: initial;
+}
+
+nav ul#userBlock li:first-child {
+	width: 200px;
+	background:url(../images/search.png);
+	background-size: 17px;
+	background-position: 0px;
+	background-repeat: no-repeat;
+	padding-left: 22px;
+    /*padding-right:15px;*/
+}
+nav ul#userBlock li input[type="text"] {
+	width:100px;
+	margin-right: 5px;
+	padding: 2px;
+	height: 10px;
+	font-size: 10px;
+}
+nav ul#userBlock li input[type="button"] {
+	width: 40px;
+	height: inherit;
+	padding: 0px;
+	height: 23px;
+	margin-top: 3px;
+	font-size: 10px;
+}
+    nav ul#userBlock li:nth-of-type(2) {
+        background: url(../images/user2.png);
+        background-size: 17px;
+        background-repeat: no-repeat;
+        background-position: left;
+        padding-left: 20px;
+        font-size: 12px;
+        width: 100px;
+        text-wrap: none;
+    }
+nav ul#userBlock li:last-of-type {
+	width: 100px;
+	text-align: left;
+}
+
+/*--------------------------------------------------------------------------------------
+  Login
+--------------------------------------------------------------------------------------*/
+#loginBox {
+	width: 400px;
+	margin: 220px auto 0px auto;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size: 12px;
+}
+#loginBox p {
+	font-weight: bold;
+	border: 1px solid #73c5ff;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 10px;
+	background: #73c5ff;
+	color: #3d3a35;
+}
+#loginBox div ul {
+	border: 1px solid #73c5ff;
+	padding: 10px;
+}
+#loginBox dt,#loginBox dd {
+	display: inline-block;
+}
+#loginBox dl {
+	margin: 0px auto;
+	margin-bottom: 5px;
+	width: 300px;
+}
+#loginBox dt {
+	width: 130px;
+}
+#loginBox dt span {
+	color: #ff0000;
+}
+
+#loginBox div p {
+	border: none;
+	padding: initial;
+	background: none;
+	margin-left:128px;
+	margin-top: 20px;
+}
+
+.navAlignment {
+    position: absolute !important;
+}
+
+
+

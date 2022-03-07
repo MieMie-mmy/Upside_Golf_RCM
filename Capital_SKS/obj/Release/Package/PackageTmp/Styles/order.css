@@ -1,0 +1,40 @@
+﻿@charset "utf-8";
+
+/*--------------------------------------------------------------------------------------
+  [8]Order
+--------------------------------------------------------------------------------------*/
+.ordCmnSet.searchBox dl dd:last-of-type {
+	width: 390px;
+}
+.ordCmnSet.searchBox dl dd:first-of-type select {
+	width: 150px;
+}
+.ordCmnSet.searchBox dl dd:last-of-type input {
+	width: 150px;
+}
+
+
+.listTableOver {
+	overflow: auto;
+	width: 100%;
+	margin: 0px auto 10px auto;
+}
+.ordCmnSet.editBox table.listTable {
+	width: 2000px;
+/*	width: auto;*/
+}
+.ordCmnSet.editBox table.listTable tr th,
+.ordCmnSet.editBox table.listTable tr td {
+	padding: 5px;
+}
+
+.ordCmnSet.editBox table.listTable tr th:nth-of-type(4) { /*商品名*/
+	width: 300px;
+}
+.ordCmnSet.editBox table.listTable tr th:nth-of-type(7) { /*ショップ*/
+    width: 200px;
+}
+.ordCmnSet.editBox table.listTable tr td:nth-of-type(4),
+.ordCmnSet.editBox table.listTable tr td:nth-of-type(7){
+	text-align: left;
+}

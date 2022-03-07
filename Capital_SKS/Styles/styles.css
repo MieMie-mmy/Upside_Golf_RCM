@@ -1,0 +1,145 @@
+﻿/* DEFAULTS
+----------------------------------------------------------*/
+
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    color: #1b335c;
+    text-decoration: none;
+    text-align: left;
+    margin-top: 0px;
+}
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    color: #1b335c;
+    text-decoration: none;
+    text-align: left;
+    background-color: #FFFFFF;
+}
+a:link, a:visited
+{
+    color: #034af3;
+}
+
+a:hover
+{
+    color: #1d60ff;
+    text-decoration: underline;
+}
+
+a:active
+{
+    color: #034af3;
+}
+#outlinebox
+{
+    position: relative;
+    width: 600px;
+    margin: auto;
+    background-color: #FFFFFF;
+}
+#header
+{
+    width: 100%;
+    color: White;
+    text-align: center;
+    padding-top:0px;
+}
+.header
+{
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    color: #1b335c;
+    font-size: 18px;
+    font-weight: bold;
+    padding-top:10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#content
+{
+    width: 100%;
+}
+#footer
+{
+    width: 100%;
+    text-align: right;
+}
+.bold-text
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #1b335c;
+}
+.note-text
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #800000;
+    font-style: italic;
+}
+.error-text
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #FF0000;
+    text-align: center;
+}
+.heading {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #1b335c;
+}
+.heading a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #0000CC;
+}
+.standard-text
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    color: #1b335c;
+    text-decoration: none;
+    text-align: left;
+}
+.bold-text
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #1b335c;
+}
+.button
+{
+    border: 1px solid #D5D291;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #0099FF;
+    text-align: center;
+    width:100px;
+    padding: 2px;
+}
+.star
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #FF0000;
+}
+.cvv-text
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: #0033CC;
+}

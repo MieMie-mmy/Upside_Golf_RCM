@@ -1,0 +1,17 @@
+﻿@charset "utf-8";
+
+/*--------------------------------------------------------------------------------------
+  [3]User
+--------------------------------------------------------------------------------------*/
+div.setDetailBox table.userCmnSet.editTable {
+	width: 98%;
+	margin: 0px auto;
+}
+
+div.userCmnSet.searchBox input[type="radio"] {
+	width: 16px;
+}
+
+div.userCmnSet.searchBox dd:last-of-type {
+	width: 200px;
+}

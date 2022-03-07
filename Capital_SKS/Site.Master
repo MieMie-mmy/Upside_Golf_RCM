@@ -1,0 +1,164 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ORS_RCM.SiteMaster" %>
+<!DOCTYPE html>
+<html>
+<head id="Head1" runat="server">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="icon" href="images/logo.jpg">
+<title>商品管理システム＜データベース一覧＞</title>
+<link rel="stylesheet" href="Styles/base.css" />
+<link rel="stylesheet" href="Styles/common.css"  />
+<link rel="stylesheet" href="Styles/common1.css" />
+<link rel="stylesheet" href="Styles/manager-style.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=1.8.3"></script>
+<script type="text/javascript">
+    function Search() {
+        var key = document.getElementById("<%=txtKeySearch.ClientID%>").value;
+        var url = "WebForms/Item/Item_View.aspx?SearchKey=" + key;
+        window.location = '<%= ResolveUrl("' + url + '") %>';
+    }
+</script>
+
+<asp:ContentPlaceHolder ID="HeadContent" runat="server">
+</asp:ContentPlaceHolder>
+</head>
+<body>
+<form id="Form2" runat="server">
+<div id="CmnWrapper">
+<!-- HEADER -->
+	<header>
+<!-- menu -->
+	<!-- menu -->
+		<nav>
+            <p class="logo navSet" id="p1" runat="server" style="display:normal;width:80px;height:40px;cursor:pointer;" onclick="Img1_onclick()">
+                <img src="~/images/ORS_Logo.jpg" id="Img1" alt="テスト用1" style="border-radius: 4px;" runat="server" onclick="Img1_onclick()"/>
+                <img src="~/images/logo1.jpg" id="Img2" alt="テスト用1" runat="server"/></p>
+            <p class="logo navSet" id="p2" runat="server" style="display:none;width:50px;height:40px;cursor:pointer;" onclick="Img1_onclick()">
+                <img src="~/images/logo2.png" id="Img3" alt="テスト用" style="border-radius: 4px;" runat="server" onclick="Img1_onclick()"/>
+                <img src="~/images/logo1.jpg" id="Img4" alt="テスト用1" runat="server"/>
+            </p>
+
+			<ul id="nav" class="navSet">
+				<li class="menu"><a href="#">商品管理</a>
+					<ul id="menu01-sub" class="subMenu">
+                        <%--<li><a href="~/WebForms/Item/Item_Master_New.aspx" runat="server">商品情報追加する</a></li>--%>
+                        <li><a href="WebForms/Item/New_ItemData_Create.aspx" runat="server">商品情報追加する</a></li>
+						<li><a href="~/WebForms/Item/Item_View.aspx" runat="server">商品情報一覧<br>(ページ制作)</a></li>
+						<li><a href="~/WebForms/Item/Item_View2.aspx" runat="server">商品情報一覧<br>(商品管理)</a></li>
+						<li><a href="~/WebForms/Item/Monotaro_Item_View.aspx" runat="server">商品情報一覧<br>(ものたろう)</a></li>
+                        <li><a id="A11" href="~/WebForms/Item/Item_Status_Change.aspx" runat="server">ステータス変更</a></li>
+						<li><a href="~/WebForms/Item_Exhibition/Exhibition_List_Log.aspx" runat="server">出品一覧</a></li>    
+						<li><a href="~/WebForms/Item_Exhibition/Item_ExportQList.aspx" runat="server">出品期日待ち一覧</a></li>    				        
+						<li><a href="~/WebForms/Inventory/Item_Stock_View.aspx" runat="server">在庫一覧</a></li>    
+						<li><a href="~/WebForms/Inventory/Email_ItemOrder_View.aspx" runat="server">注文一覧</a></li>  
+                        <li><a id="A2" href="~/WebForms/Sale_List_Screen.aspx" runat="server">ショップ別売上一覧画面</a></li>
+                        <li><a id="A3"  href="~/WebForms/ItemSeparated_OrderList.aspx" runat="server">商品別注文一覧画面</a></li>
+                        <li><a id="A10"  href="~/WebForms/SKUSeparated_OrderList.aspx" runat="server">SKU別注文一覧画面</a></li>
+					</ul>
+				</li>
+				
+				<!-- Promotion -->
+					<li class="menu"><a id="A1" href="~/WebForms/Promotion/Promotion_View.aspx" runat="server">プロモーション</a>
+						<ul id="menu06-sub" class="subMenu">
+                            <li><a id="A15" href="~/WebForms/Promotion/Campaign_promotion_View.aspx" runat="server">キャンペーン一覧</a></li>
+							<li><a id="A4" href="~/WebForms/Promotion/Promotion_Point_Entry.aspx" runat="server">商品別ポイント登録</a></li>
+						</ul>
+					</li>
+
+					<!-- Category -->
+				<li class="menu"><a href="#">カテゴリ</a>
+					<ul id="menu02-sub" class="subMenu">		
+						<li><a id="A16" href="~/WebForms/Category/Category_View.aspx" runat="server">ショップカテゴリ一覧</a></li>		
+						<li><a id="A19" href="~/WebForms/Category/Mall_Category.aspx?Mall=1" runat="server">楽天カテゴリ一覧</a></li>
+						<li><a id="A20" href="~/WebForms/Category/Mall_Category.aspx?Mall=2" runat="server">ヤフーカテゴリ一覧</a></li>
+                        <li><a id="A30" href="~/WebForms/Category/Mall_Category.aspx?Mall=4" runat="server">Wowmaカテゴリ一覧</a></li>
+                        <li><a id="A9" href="~/WebForms/Category/Mall_Category.aspx?Mall=7" runat="server">ORSディレクトリID一覧</a></li>
+					</ul> 
+				</li>
+
+					<!-- Import -->
+				<li class="menu"><a id="A21" href="~/WebForms/Item/Item_ImportLog_View.aspx" runat="server">データベース</a>
+				</li>
+
+					<!-- User -->
+				<li><a id="A22" href="~/User_View.aspx" runat="server">ユーザー</a></li>
+				
+					<!-- Shop -->
+				<li class="menu"><a>ショップ管理</a>  
+					<ul id="menu03-sub" class="subMenu">		
+						<li><a id="A5" href="~/WebForms/Mall/Shop_View.aspx" runat="server">ショップ一覧</a></li>		
+						<li><a id="A6" href="~/WebForms/Mall/Smart_Template_View.aspx" runat="server">スマート<br>テンプレート一覧</a></li>
+						<li><a id="A12" href="~/WebForms/Item/Option_Entry.aspx" runat="server">オプション<br>テンプレート編集</a></li>
+						<li><a id="A13" href="~/WebForms/Item/Item_ExportField.aspx" runat="server">商品情報<br>エクスポート定義</a></li>
+						<li><a id="A14" href="~/WebForms/Mall/Smart_Template_ExportField.aspx" runat="server">説明文<br>エクスポート定義</a></li>
+					</ul> 
+				</li>
+                 <li class="menu"><a>発送日</a>  
+					<ul id="menu05-sub" class="subMenu">
+						<li><a id="A17" href="~/WebForms/Delivery/Delivery_Entry.aspx" runat="server">発送番号登録</a></li>
+						<li><a id="A18" href="~/WebForms/Delivery/Item_SKU_Setting.aspx" runat="server">商品個別発送設定</a></li>
+					</ul> 
+				</li>
+				<li id="liAdmin" class="menu" style="display:none;" runat="server" ><a href="#">Admin</a>
+					<ul id="menu04-sub" class="subMenu">
+						<li><a id="A7" href="~/WebForms/Item/System_ErrorLog_View.aspx" runat="server">Error Log View</a></li>
+						<li><a id="A8" href="~/WebForms/SKS_DB_Backup.aspx" runat="server">DB Backup</a></li>
+						<%--<li><a id="A9" href="~/WebForms/MallData_Import.aspx" runat="server">Mall Data Download</a></li>--%>
+                        <li><a id="A23" href="~/Admin/Log_Data_Delete.aspx" runat="server">Log Data Delete</a></li>
+                        <li><a id="A24" runat="server" href="~/Admin/Exhibition_Flag_Change.aspx">Exhibition Flag Change</a></li>
+                        <li><a id="A25" runat="server" href="~/Admin/Exhibition_Backup.aspx">Exhibition_Backup</a></li>
+                        <li><a id="A26" runat="server" href="~/Admin/Query_Search.aspx">Query_Search</a></li>
+					</ul>
+				</li>
+			</ul>
+				<ul id="userBlock" class="navSet navAlignment" >
+
+					<li><input type="text" runat="server" id="txtKeySearch" style="height:15px;"/><input type="button" runat="server" id="btnKeySearch" onclick="Search();" value="検 索" /></li>
+					<li><asp:Label ID="lblUser" runat="server" Text="Label"></asp:Label></li>	
+			       <li><asp:HyperLink ID="logout" runat="server" NavigateUrl="~/LogIn.aspx">ログアウト</asp:HyperLink></li>
+				</ul>
+		</nav>
+	</header>
+<!-- /HEADER -->
+<p id="toTop"><a href="#CmnContents">▲TOP</a></p>
+<script type="text/javascript">
+    $(function () {
+        var showFlag = false;
+        var sideDock = $('#toTop');
+        sideDock.css('bottom', '-300px');
+        var showFlag = false;
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 300) {
+                if (showFlag == false) {
+                    showFlag = true;
+                    sideDock.stop().animate({ 'bottom': '5px' }, 200);
+                }
+            } else {
+                if (showFlag) {
+                    showFlag = false;
+                    sideDock.stop().animate({ 'bottom': '-300px' }, 200);
+                }
+            }
+        });
+    });
+    function Img1_onclick() {
+        window.location = getRootWebSitePath() + 'admin/index';
+    }
+    function getRootWebSitePath() {
+        var _location = document.location.toString();
+        var applicationNameIndex = _location.indexOf('/', _location.indexOf('://') + 3);
+        var applicationName = _location.substring(0, applicationNameIndex) + '/';
+        return applicationName;
+    }
+</script>
+<asp:ScriptManager ID="ScriptManager1" runat="server">
+</asp:ScriptManager>
+<asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+<div id="progressDialog" title="Welcome to Cloudshop !" style="display:none;">
+<p>Please wait..</p>
+</div>
+<asp:HiddenField ID="hdfUserID" runat="server" />
+</form>
+</div><!--CmnWrapper-->
+</body>
+</html>

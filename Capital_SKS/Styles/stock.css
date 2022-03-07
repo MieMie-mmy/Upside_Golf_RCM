@@ -1,0 +1,81 @@
+﻿@charset "utf-8";
+
+/*--------------------------------------------------------------------------------------
+  [9]stock
+--------------------------------------------------------------------------------------*/
+/*--- Search -------------*/
+div.searchBox.stcCmnSet p {
+	width: 100%;
+	margin: 10px auto 0px auto;
+}
+div.stcCmnSet.searchBox dl dt:nth-of-type(2) {
+	line-height: 11px;
+	vertical-align: middle;
+}
+
+div.stcCmnSet table.listTable tr td:nth-of-type(8) input {
+	/*width: 40px;*/
+	text-align:center;
+}
+div.stcCmnSet table.listTable tr td:last-of-type {
+	width: 130px;
+}
+
+#CmnContents2 .itemPage {
+	margin: 0 0 0 auto;
+	width: 60px;
+}
+#CmnContents2 .stcCmnSet.ordCmnSet.editBox.iconSet2 {
+    margin-left: 2px;
+    margin-top: 10px;
+}
+
+#CmnContents2 .ordCmnSet table.listTable td {
+}
+
+#CmnContents2 .ordCmnSet table.listTable th:first-of-type {
+}
+#CmnContents2 .ordCmnSet table.listTable th:nth-of-type(2) {
+	min-width: 100px;
+}
+#CmnContents2 .ordCmnSet table.listTable th:nth-of-type(3) {
+	width: 80px;
+}
+#CmnContents2 .ordCmnSet table.listTable th:nth-of-type(4) {
+	width: 80px;
+}
+#CmnContents2 .ordCmnSet table.listTable th:nth-of-type(5) {
+	min-width: 300px;
+}
+#CmnContents2 .ordCmnSet table.listTable th:nth-of-type(6) {
+	min-width: 60px;
+}
+#CmnContents2 .ordCmnSet table.listTable th:nth-of-type(7) {
+	min-width: 60px;
+}
+#CmnContents2 .ordCmnSet table.listTable th:nth-of-type(8) {
+    min-width: 60px;
+}
+#CmnContents2 .ordCmnSet table.listTable th:nth-of-type(9) {
+	min-width: 60px;
+}
+#CmnContents2 .ordCmnSet table.listTable th:nth-of-type(10) {
+	min-width: 60px;
+}
+#CmnContents2 .ordCmnSet table.listTable th:nth-of-type(11) {
+	min-width: 60px;
+}
+#CmnContents2 .ordCmnSet table.listTable th:nth-of-type(12) {
+	min-width: 60px;
+}
+#CmnContents2 .ordCmnSet table.listTable th:nth-of-type(13) {
+    /*min-width: 150px;*/
+    min-width: 60px;
+}
+
+
+
+
+
+
+

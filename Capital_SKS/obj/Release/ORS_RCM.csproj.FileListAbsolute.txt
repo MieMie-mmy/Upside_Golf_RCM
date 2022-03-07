@@ -1,0 +1,121 @@
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\ClosedXML.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\DocumentFormat.OpenXml.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\Ftp.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\ionic.zip.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\Newtonsoft.Json.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\OpenPop.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM_BL.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM_Common.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\System.Transactions.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\WebDriver.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM_DL.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM_BL.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM_Common.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\WebDriver.xml
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM_DL.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csprojResolveAssemblyReference.cache
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csproj.ResolveComReference.cache
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\ORS_RCM.dll.config
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\ORS_RCM.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\ORS_RCM.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\ClosedXML.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\DocumentFormat.OpenXml.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\Excel.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\Ftp.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\ionic.zip.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\Newtonsoft.Json.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\OpenPop.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\ORS_RCM_BL.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\ORS_RCM_Common.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\System.Transactions.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\WebDriver.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\ORS_RCM_DL.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\ORS_RCM_BL.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\ORS_RCM_Common.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\WebDriver.xml
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\bin\ORS_RCM_DL.pdb
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csprojAssemblyReference.cache
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csproj.ResolveComReference.cache
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csproj.CoreCompileInputs.cache
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csproj.CopyComplete
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.dll
+E:\ORS\ORS_RCM_GIT\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\ORS_RCM.dll.config
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\ORS_RCM.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\ORS_RCM.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\ClosedXML.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\DocumentFormat.OpenXml.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\Excel.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\Ftp.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\ionic.zip.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\Newtonsoft.Json.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\OpenPop.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\ORS_RCM_BL.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\ORS_RCM_Common.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\System.Transactions.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\WebDriver.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\ORS_RCM_DL.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\ORS_RCM_BL.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\ORS_RCM_Common.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\WebDriver.xml
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\bin\ORS_RCM_DL.pdb
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csprojAssemblyReference.cache
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csproj.ResolveComReference.cache
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.dll
+D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM.dll.config
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\ClosedXML.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\DocumentFormat.OpenXml.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\Excel.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\Ftp.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\ionic.zip.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\Newtonsoft.Json.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\OpenPop.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM_BL.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM_Common.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\System.Transactions.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\WebDriver.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM_DL.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM_BL.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM_Common.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\WebDriver.xml
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\bin\ORS_RCM_DL.pdb
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csprojAssemblyReference.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csproj.ResolveComReference.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csproj.CoreCompileInputs.cache
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csproj.CopyComplete
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.dll
+D:\ORS_Data\ORS_RCM\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.pdb
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\ORS_RCM.dll.config
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\ORS_RCM.dll
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\ORS_RCM.pdb
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\ClosedXML.dll
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\DocumentFormat.OpenXml.dll
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\Excel.dll
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\Ftp.dll
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\ionic.zip.dll
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\Newtonsoft.Json.dll
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\OpenPop.dll
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\ORS_RCM_BL.dll
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\ORS_RCM_Common.dll
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\System.Transactions.dll
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\WebDriver.dll
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\ORS_RCM_DL.dll
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\ORS_RCM_BL.pdb
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\ORS_RCM_Common.pdb
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\WebDriver.xml
+D:\MyProjects\ORS_RCM\Capital_SKS\bin\ORS_RCM_DL.pdb
+D:\MyProjects\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csproj.AssemblyReference.cache
+D:\MyProjects\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csproj.ResolveComReference.cache
+D:\MyProjects\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csproj.CoreCompileInputs.cache
+D:\MyProjects\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.csproj.CopyComplete
+D:\MyProjects\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.dll
+D:\MyProjects\ORS_RCM\Capital_SKS\obj\Release\ORS_RCM.pdb

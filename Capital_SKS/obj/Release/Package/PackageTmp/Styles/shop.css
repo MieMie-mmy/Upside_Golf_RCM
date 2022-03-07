@@ -1,0 +1,29 @@
+﻿@charset "utf-8";
+
+/*--------------------------------------------------------------------------------------
+  5.List
+--------------------------------------------------------------------------------------*/
+.shopCmnSet.editBox table.listTable th:first-of-type {
+	width: 280px;
+}
+
+/*--------------------------------------------------------------------------------------
+  5.Entry/Edit/Conf
+--------------------------------------------------------------------------------------*/
+
+/*--- SHOP ENTRY & confirmation ------------*/
+div.setDetailBox .shopCmnSet.editTable {
+	width: 98%;
+	margin: 0px auto;
+}
+
+
+/*--- Default Value ------------*/
+div.setDetailBox.defaultSet table th {
+	width: 210px;
+}
+div.setDetailBox.defaultSet table th span {
+	display: block;
+}
+
+

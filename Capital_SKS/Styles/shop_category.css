@@ -1,0 +1,93 @@
+﻿@charset "utf-8";
+
+/*--------------------------------------------------------------------------------------
+  [4]Shop Category Search
+--------------------------------------------------------------------------------------*/
+/*--- operationBtn ------------*/
+.shopCate.operationBtn input {
+	margin-right: 20px;
+}
+
+/*--- Menu Tree Set ------------*/
+div.shopCate.resetValue {
+    border: 1px solid #3D3A35;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+div#ComBlock div.shopCate.resetValue form {
+	width: 950px;
+}
+
+div.shopCate.resetValue p.cateTop {
+	font-size: 15px;
+	font-weight: bold;
+    border-left: 10px solid #3D3A35;
+	padding-left: 3px;
+}
+div.shopCate ul#menuTree > li {
+	background: #fff;
+}
+div.shopCate ul#menuTree li {
+    display: block;
+    text-align: left;
+	padding: 5px 0px;
+}
+div.shopCate li.class1st {
+    font-weight: bold;
+}
+
+div.shopCate ul#menuTree li {
+	background-image: url(../images/tree_line.png);
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	padding: 0px 0px 4px 27px;
+}
+div.shopCate ul#menuTree li:first-child {
+	background-position: 0px 0px;
+}
+div.shopCate ul#menuTree li:last-child {
+	background-position: 0px -1764px;
+}
+
+#menuTree div.shopCateEdit {
+	background-color: #D2ECFF;
+}
+#menuTree li div {
+	padding: 2px 0px 2px 5px;
+}
+
+
+
+div.shopCate div.shopCateList {
+	width: 200px;
+	padding-left: 20px;
+	display: inline-block;
+	vertical-align: top;
+}
+div.shopCate .shopCateDate {
+	display: inline-block;
+	vertical-align: top;
+}
+div.shopCate .shopCateBtn {
+	margin: 20px 0px;
+	text-align: center;
+}
+div.shopCate .shopCateBtn input {
+	width: 100px;
+	height: 30px;
+}
+
+
+
+/*---  Category Entry ------------*/
+
+div.setDetailBox.shopCate th:first-of-type {
+	width: 200px;
+}
+div.setDetailBox.shopCate table.shopCate.editTable {
+	width: 98%;
+	margin: 0px auto;
+}
+
+
+

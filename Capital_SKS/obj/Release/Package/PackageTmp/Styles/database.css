@@ -1,0 +1,176 @@
+﻿@charset "utf-8";
+
+/*--------------------------------------------------------------------------------------
+  [10]database
+--------------------------------------------------------------------------------------*/
+/*--- LIST ---------------------------*/
+div.dbCmnSet {
+	width: 1000px;
+	margin: 0px auto 20px auto;
+}
+
+.dbitem_confirm
+{
+    position: absolute;
+    left: 50px;
+    padding-bottom: 40px;
+    }
+
+div.dbCmnSet.linkList ul li {
+	padding: 10px 0px;
+	font-size: 18px;
+	list-style: url(../images/arrow.png);
+	margin-left: 27px;
+}
+
+/*--- item master Imoport/Select ---------------------------*/
+div.dbCmnSet.iptList dl {
+    width: 525px;
+	margin: 0px auto 0px 0px;
+	display: inline-block;
+}
+div.dbCmnSet.iptList dl dt {
+	font-size: 18px;
+	width: 200px;
+	text-align: left;
+	padding: 10px 0px 10px 25px;
+	background: url(../images/arrow.png) no-repeat left 12px;
+}
+div.dbCmnSet.iptList dl dd {
+    width: 290px;
+    text-align: left;
+}
+div.dbCmnSet.iptList p {
+	width: 200px;
+	margin: 20px auto 0px 40px;
+	text-align: center;
+	display: inline-block;
+	vertical-align: top;
+}
+div.dbCmnSet.iptList p input {
+	width: 200px;
+	height: 100px;
+}
+div.dbCmnSet.itemDateImp input {
+	margin: 0px 10px;
+}
+/*--- item master Imoport Comf ---------------------------*/
+.dbCmnSet.editBox table {
+	font-size: 10px;
+}
+
+#CmnContents div.setDetailBox .dbCmnSet h2 {
+	padding: 0px;
+	border-bottom: 1px solid #73c5ff;
+	margin-bottom: 5px;
+}
+
+div.setDetailBox .dbCmnSet .listTableOver {
+	width: 98%;
+	margin: 0px auto;
+	height: 600px;
+	margin-bottom: 30px;
+	display: block;
+	font-size: 10px;
+	overflow: auto;
+}
+
+div.setDetailBox .dbCmnSet .listTableOver table.listTable {
+	max-width: 2000px;
+	/*word-wrap:break-word;
+    white-space: nowrap;*/
+}
+
+div.setDetailBox .dbCmnSet .listTableOver.noWide table.listTable {
+	width: 100%;
+
+}
+
+div.setDetailBox .dbCmnSet table.listTable tr td a {
+	display: block;
+	width: 100%;
+}
+
+div.setDetailBox .dbCmnSet table.listTable.itemDb tr td span{
+	min-width: 80px;
+	text-align: left;
+}
+
+
+div.setDetailBox .dbCmnSet table.listTable.itemDb tr td:nth-of-type(2) span,
+div.setDetailBox .dbCmnSet table.listTable.itemDb tr td:nth-of-type(4) span{
+	width: 300px;
+	word-wrap:break-word;
+}
+
+div.setDetailBox .dbCmnSet table.listTable.itemDb tr td:nth-of-type(3) span{
+	min-width: 100px;
+}
+
+div.setDetailBox .dbCmnSet table.listTable.itemDb tr td:nth-of-type(5) span,
+div.setDetailBox .dbCmnSet table.listTable.itemDb tr td:nth-of-type(6) span,
+div.setDetailBox .dbCmnSet table.listTable.itemDb tr td:nth-of-type(7) span,
+div.setDetailBox .dbCmnSet table.listTable.itemDb tr td:nth-of-type(14) span{
+	min-width: 40px;
+	text-align: right;
+}
+
+div.setDetailBox .dbCmnSet table.listTable.itemDb tr td:nth-of-type(17) span{
+	min-width: 300px;
+	word-wrap:break-word;
+}
+
+
+/*--- item master Imoport Log ---------------------------*/
+.logDb td:last-of-type {
+	text-align: left;
+	width: 200px;
+}
+
+
+/*--- Item Category Imoport ---------------------------*/
+div.dbCmnSet.itemCatIpt p {
+	margin-top: 8px;
+}
+div.dbCmnSet.itemCatIpt p input {
+	height: 32px;
+}
+
+/*--- Item Category Imoport Comf ---------------------------*/
+
+table.listTable.itemCatIpt td:nth-of-type(4) {
+	width: 200px;
+	text-align: left;
+}
+div.setDetailBox table.listTable.itemCatIpt td:last-of-type {
+	width: 400px;
+}
+
+div.setDetailBox table.listTable.itemCatIpt td p {
+	text-align: left;
+	font-size: 10px;
+	font-weight: normal;
+	margin: 2px 0px;
+	padding-left: 5px;
+	color: #3d3a35;
+	border-left: 2px solid #73c5ff;
+	border-bottom: 1px solid #ddd;
+}
+div.setDetailBox table.listTable.itemCatIpt td p:last-of-type {
+	border-bottom: none;
+}
+
+
+div.setDetailBox table.listTable.itemCatLog td:last-of-type {
+	width: 150px;
+}
+
+
+/* 10.5.1_conf.html
+------------------------------------------------*/
+table.listTable.itemIfoIpt td:nth-of-type(2) {
+	width: 250px;
+	text-align: left;
+}
+
+

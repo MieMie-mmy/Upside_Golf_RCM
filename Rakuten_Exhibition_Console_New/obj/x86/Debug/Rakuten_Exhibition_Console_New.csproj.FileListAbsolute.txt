@@ -1,0 +1,13 @@
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Exhibition_Console_New\bin\Debug\Rakuten_Exhibition_Console_New.exe.config
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Exhibition_Console_New\bin\Debug\Rakuten_Exhibition_Console_New.exe
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Exhibition_Console_New\bin\Debug\Rakuten_Exhibition_Console_New.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Exhibition_Console_New\bin\Debug\ionic.zip.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Exhibition_Console_New\bin\Debug\ORS_RCM_BL.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Exhibition_Console_New\bin\Debug\ORS_RCM_Common.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Exhibition_Console_New\bin\Debug\ORS_RCM_DL.dll
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Exhibition_Console_New\bin\Debug\ORS_RCM_BL.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Exhibition_Console_New\bin\Debug\ORS_RCM_Common.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Exhibition_Console_New\bin\Debug\ORS_RCM_DL.pdb
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Exhibition_Console_New\obj\x86\Debug\Rakuten_Exhibition_Console_New.csprojResolveAssemblyReference.cache
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Exhibition_Console_New\obj\x86\Debug\Rakuten_Exhibition_Console_New.exe
+C:\My Data\Projects\ORS_RCM\ORS_RCM\Rakuten_Exhibition_Console_New\obj\x86\Debug\Rakuten_Exhibition_Console_New.pdb

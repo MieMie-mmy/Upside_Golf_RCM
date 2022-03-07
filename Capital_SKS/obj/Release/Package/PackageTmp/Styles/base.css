@@ -1,0 +1,130 @@
+﻿@charset "utf-8";
+
+body {
+	margin: 0px;
+	padding: 0px;
+	line-height: 100%;
+	font-size: 12px;
+	letter-spacing: 0.1em;
+	color: #3d3a35;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	position: relative;
+	/*padding-bottom: 90px;*/
+	padding-bottom: 30px;
+}
+input {
+		font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+ul,ol,li,dl,dt,dd,p,div,h1,h2,h3,h4,h5,h6 { margin: 0px; padding: 0px; line-height:normal; }
+ul,ol,li { list-style: none; list-style-type: none; }
+
+a { color: #3D3A35; }
+a:hover { color: #ccc; text-decoration:none; }
+
+/*-- table --------------------------------------------*/
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table th {
+	height: 30px;
+}
+table td {
+	padding: 2px 5px;
+	height:	30px;
+}
+
+/*-- form --------------------------------------------*/
+form input,form select,form textarea {
+	border: 1px solid #b5b5b5;
+	background: #fff;
+	padding: 1px 4px;
+	border-radius: 4px;
+	font-size: 12px;
+	box-sizing: border-box; 
+}
+form textarea {
+	padding: 4px;
+	width: 100%;
+}
+
+form input:focus {
+	background: #3d3a35;
+	color: #fff;
+}
+form input:focus[type="text"],
+form input:focus[type="password"]{
+	background: #ddf4ff;
+	color: #3d3a35;
+}
+input[type=radio]:checked + label {
+	font-weight: bold;
+}
+
+form input[type="file"] {
+	padding: 3px;
+	font-size: 10px;
+}
+
+form input[type="button"],form input[type="submit"] {
+	height: 25px;
+	border-radius: 2px;
+	background: #f2f2f2;
+	background: -moz-linear-gradient(top,  #f2f2f2 0%, #e8e8e8 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2f2f2), color-stop(100%,#e8e8e8));
+	background: -webkit-linear-gradient(top,  #f2f2f2 0%,#e8e8e8 100%);
+	background: -o-linear-gradient(top,  #f2f2f2 0%,#e8e8e8 100%);
+	background: -ms-linear-gradient(top,  #f2f2f2 0%,#e8e8e8 100%);
+	background: linear-gradient(to bottom,  #f2f2f2 0%,#e8e8e8 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', endColorstr='#e8e8e8',GradientType=0 );
+}
+
+form input[type="button"]:focus,form input[type="submit"]:focus {
+	background: #5b5b5b;
+	background: -moz-linear-gradient(top,  #5b5b5b 0%, #303030 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#5b5b5b), color-stop(100%,#303030));
+	background: -webkit-linear-gradient(top,  #5b5b5b 0%,#303030 100%);
+	background: -o-linear-gradient(top,  #5b5b5b 0%,#303030 100%);
+	background: -ms-linear-gradient(top,  #5b5b5b 0%,#303030 100%);
+	background: linear-gradient(to bottom,  #5b5b5b 0%,#303030 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5b5b5b', endColorstr='#303030',GradientType=0 );
+	color: #fff;
+	
+}
+
+select {
+	height: 25px;
+}
+
+
+/*-- pre --------------------------------------------*/
+pre {
+	/* Mozilla */
+	white-space: -moz-pre-wrap;
+
+	/* Opera 4-6 */
+	white-space: -pre-wrap;
+
+	/* Opera 7 */
+	white-space: -o-pre-wrap;
+
+	/* CSS3 */
+	white-space: pre-wrap;
+
+	/* IE 5.5+ */
+	word-wrap: break-word;
+}
+
+ul dl img
+{
+    width:111px;
+    float:right;
+    margin-right: -2em; 
+    }
+.searchchk
+{
+   margin-left: 740px;
+    padding: 0px;
+    line-height: normal; 
+    }

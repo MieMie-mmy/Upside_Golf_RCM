@@ -1,0 +1,228 @@
+﻿@charset "utf-8";
+
+/*------------------------------------------------------------
+　This CSS is setting of the [exhibition] page.
+-------------------------------------------------------------*/
+
+#ComBlock2 {
+	width: 100%;
+	margin: 0px auto;
+}
+
+/*--------------------------------------------------------------------------------------
+  7.1 LIST - 出品一覧 -
+--------------------------------------------------------------------------------------*/
+
+/*-- SEARCH -----------------------*/
+div.exbCmnSet.searchBox dl dd:nth-of-type(10),
+div.exbCmnSet.searchBox dl dd:nth-of-type(11){
+    width:initial;
+    text-align: left;
+}
+div.exbCmnSet.searchBox dl dd:nth-of-type(10) input:first-of-type,
+div.exbCmnSet.searchBox dl dd:nth-of-type(11) input:first-of-type {
+    /*margin-left: 0px;*/
+    width:130px;
+}
+
+/*-- LIST -----------------------*/
+.exbCmnSet.listSet table.listTable {
+	width: 100%;
+}
+
+.exbCmnSet.listSet table.listTable th {
+	white-space: pre;
+}
+.exbCmnSet.listSet table.listTable th:first-of-type {
+	width: 185px;
+}
+.exbCmnSet.listSet table.listTable th:nth-of-type(3),
+.exbCmnSet.listSet table.listTable th:nth-of-type(4) {
+	width: 140px;
+}
+.exbCmnSet.listSet table.listTable th:nth-of-type(5) {
+	min-width: 150px;
+}
+.exbCmnSet.listSet table.listTable th:nth-of-type(6) {
+	min-width: 300px;
+}
+
+.exbCmnSet.listSet table.listTable td {
+	text-align: center;
+}
+.exbCmnSet.listSet table.listTable td input {
+	margin-bottom: 5px;
+}
+
+.exbCmnSet.listSet table.listTable td:nth-of-type(5),
+.exbCmnSet.listSet table.listTable td:nth-of-type(6) {
+    text-align: left;
+}
+.exbCmnSet.listSet table.listTable td:nth-of-type(7) {
+	width: 160px;
+    text-align: left;
+}
+#CmnContents2 .itemPage {
+	margin: 0 0 0 auto;
+	width: 60px;
+}
+
+
+.stopIcon {
+	color: #ff0000;
+}
+
+/*--------------------------------------------------------------------------------------
+  7.1 LIST - 出品詳細 -
+--------------------------------------------------------------------------------------*/
+
+/* 7.2-5 DETAIL
+------------------------------------------------*/
+ul.pageLink {
+    width: 1000px;
+    margin: 10px auto 10px auto;
+    font-size: 15px;
+    font-weight: bold;
+    border-bottom: 1px dashed #666;
+    padding-bottom: 10px;
+}
+.pageLink li {
+	display: inline-block;
+	width: 218px;
+	background: url(../images/arrow.png) no-repeat 0px 0px;
+	padding-left: 25px;
+}
+.pageLink li:hover {
+	background: url(../images/arrow-down.png) no-repeat 0px 0px;
+}
+/*#error {
+    margin-top:-100px;
+    padding-top:100px;
+}*/
+
+
+#CmnContents .setDetailBox.exbCmnSet h2 {
+    font-size: 20px;
+    padding-left: 0px;
+    border-bottom: 1px solid #73c5ff;
+    margin-bottom: 10px;
+	margin-top: 30px;
+}
+table.errorBox tr {
+	height: 30px;
+}
+table.errorBox td {
+	/*width: 100px;*/
+	border: 1px solid #dddddd;
+}
+/*--- Detail ------------*/
+div.exbCmnSet table.errorBox {
+    width: 1000px;
+    margin: 10px 1% 10px 1%;
+}
+div.exbCmnSet div.textarea {
+	overflow: auto;
+	width: 600px;
+	border: 1px solid #73c5ff;
+	height: 150px;
+	padding: 5px;
+	word-wrap: break-word;
+}
+
+div.setDetailBox.exbCmnSet table {
+	width: 98%;
+	margin: 0px auto;
+}
+div.setDetailBox.exbCmnSet table td.textAreaSet textarea {
+	height: 150px;
+	width: 700px;
+}
+
+
+/*--- CSV Calum ------------*/
+.tableCsv {
+	overflow: auto;
+	width: 98%;
+	height: 290px;
+	/*padding: 5px;*/
+	margin: 0px auto 50px auto;
+}
+div.exbCmnSet div.tableCsv table {
+	width: 1000px;
+	margin-bottom: 0px;
+}
+div.exbCmnSet div.tableCsv table tr th,
+div.exbCmnSet div.tableCsv table tr td{
+    text-align: center;
+    border: 1px solid #ddd;
+	white-space:nowrap;
+    font-size: 10px;
+    padding: 0px 5px;
+}
+div.exbCmnSet div.tableCsv table tr th {
+	background: #f2f2f2;
+	background: -moz-linear-gradient(top,  #f2f2f2 0%, #e8e8e8 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2f2f2), color-stop(100%,#e8e8e8));
+	background: -webkit-linear-gradient(top,  #f2f2f2 0%,#e8e8e8 100%);
+	background: -o-linear-gradient(top,  #f2f2f2 0%,#e8e8e8 100%);
+	background: -ms-linear-gradient(top,  #f2f2f2 0%,#e8e8e8 100%);
+	background: linear-gradient(to bottom,  #f2f2f2 0%,#e8e8e8 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', endColorstr='#e8e8e8',GradientType=0 );
+}
+div.exbCmnSet div.tableCsv table tr:nth-of-type(2n) {
+	background: #f9f9f9;
+}
+div.setDetailBox.exbCmnSet table th span {
+	color: #3d3a35;
+	font-weight: normal;
+}
+div.exbCmnSet div.tableCsv.csvYahoo table {
+	width: 100%;
+}
+
+/* 7.6 Limit List
+------------------------------------------------*/
+
+/*div.exbCmnSet2.searchBox dl dd:last-of-type {
+    width: 500px;
+}*/
+/*div.exbCmnSet2.searchBox dl dd:last-of-type input {
+	width: 180px;
+}*/
+div.exbCmnSet2.searchBox dl dd:nth-of-type(6),
+div.exbCmnSet2.searchBox dl dd:nth-of-type(7){
+    width:initial;
+    text-align: left;
+}
+
+
+.exbCmnSet2.editBox table.listTable td:nth-of-type(5) {
+	width: 250px;
+	text-align: left;
+}
+.exbCmnSet2.editBox table.listTable td:nth-of-type(7) {
+	width: 150px;
+	text-align: left;
+}
+
+
+
+
+
+
+/*--- Btn ------------*/
+div.setDetailBox.exbCmnSet div p {
+    width: 80%;
+    margin: 0px auto;
+    text-align: center;
+}
+div.setDetailBox.exbCmnSet div input {
+
+	display: inline-block;
+	margin-right: 20px;
+}
+div.setDetailBox.exbCmnSet div input:last-of-type {
+    margin-right: 0px;
+}
+
+
