@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Mall_Category.aspx.cs" Inherits="ORS_RCM.Mall_Category" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Mall_Category.aspx.cs" Inherits="Upside_Golf_RCM.Mall_Category" %>
 <%@ Register Src="~/UCGrid_Paging.ascx" TagPrefix="uc" TagName="UCGrid_Paging" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 

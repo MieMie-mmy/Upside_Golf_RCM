@@ -24,10 +24,10 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Data;
 
-namespace ORS_RCM.WebForms.Import
+namespace Upside_Golf_RCM.WebForms.Import
 {
     public partial class Import_Item_Option_Log : System.Web.UI.Page
     {

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Details_of_exhibition_Ponpare.aspx.cs" Inherits="ORS_RCM.Details_of_exhibition__Ponpare_" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Details_of_exhibition_Ponpare.aspx.cs" Inherits="Upside_Golf_RCM.Details_of_exhibition__Ponpare_" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 <link href="../../Styles/base.css" rel="stylesheet" type="text/css" />
 	<link href="../../Styles/common.css" rel="stylesheet" type="text/css" />

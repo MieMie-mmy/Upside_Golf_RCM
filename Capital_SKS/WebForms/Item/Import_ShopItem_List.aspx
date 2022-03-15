@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Import_ShopItem_List.aspx.cs" Inherits="ORS_RCM.WebForms.Item.Import_ShopItem_List" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Import_ShopItem_List.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Item.Import_ShopItem_List" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
   
     

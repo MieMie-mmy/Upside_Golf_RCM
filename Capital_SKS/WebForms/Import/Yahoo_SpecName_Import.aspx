@@ -1,4 +1,4 @@
-﻿<%@ Page Title="商品管理システム＜オプションデータインポート＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Yahoo_SpecName_Import.aspx.cs" Inherits="ORS_RCM.WebForms.Import.Yahoo_SpecName_Import" %>
+﻿<%@ Page Title="商品管理システム＜オプションデータインポート＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Yahoo_SpecName_Import.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Import.Yahoo_SpecName_Import" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />

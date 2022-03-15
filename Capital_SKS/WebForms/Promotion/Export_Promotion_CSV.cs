@@ -6,10 +6,10 @@ using System.Data;
 using System.Configuration;
 using System.IO;
 using System.Text;
-using ORS_RCM_Common;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_Common;
+using Upside_Golf_RCM_BL;
 
-namespace ORS_RCM.WebForms.Promotion
+namespace Upside_Golf_RCM.WebForms.Promotion
 {
     public class Export_Promotion_CSV
     {

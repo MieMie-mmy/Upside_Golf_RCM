@@ -1,4 +1,4 @@
-﻿<%@ Page Title="商品管理システム＜商品情報一覧(ページ制作)＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Item_View.aspx.cs" Inherits="ORS_RCM.Item_View" %>
+﻿<%@ Page Title="商品管理システム＜商品情報一覧(ページ制作)＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Item_View.aspx.cs" Inherits="Upside_Golf_RCM.Item_View" %>
 <%@ Register src="../../UCGrid_Paging.ascx" tagname="UCGrid_Paging" tagprefix="uc1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 

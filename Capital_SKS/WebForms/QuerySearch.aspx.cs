@@ -8,7 +8,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Configuration;
 
-namespace ORS_RCM.WebForms
+namespace Upside_Golf_RCM.WebForms
 {
     public partial class QuerySearch : System.Web.UI.Page
     {

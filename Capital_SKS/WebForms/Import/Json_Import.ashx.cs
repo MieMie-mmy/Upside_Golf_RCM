@@ -13,9 +13,9 @@ using System.Web.Script.Serialization;
 using System.Transactions;
 using Newtonsoft.Json.Linq;
 using System.Net;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 
-namespace ORS_RCM.WebForms.Import
+namespace Upside_Golf_RCM.WebForms.Import
 {
     /// <summary>
     /// Summary description for Json_Import

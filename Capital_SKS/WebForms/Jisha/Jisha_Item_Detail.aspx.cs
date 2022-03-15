@@ -4,12 +4,12 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Data;
 using System.Web.UI.HtmlControls;
 using System.Text;
 
-namespace ORS_RCM.WebForms.Jisha
+namespace Upside_Golf_RCM.WebForms.Jisha
 {
     public partial class Jisha_Item_Detail : System.Web.UI.Page
     {

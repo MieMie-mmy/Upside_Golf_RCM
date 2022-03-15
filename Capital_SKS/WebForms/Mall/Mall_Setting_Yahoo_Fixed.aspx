@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Mall_Setting_Yahoo_Fixed.aspx.cs" Inherits="ORS_RCM.Mall_Setting_Yahoo_Fixed" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Mall_Setting_Yahoo_Fixed.aspx.cs" Inherits="Upside_Golf_RCM.Mall_Setting_Yahoo_Fixed" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
      <link href="../../Styles/style.css" rel="stylesheet" type="text/css" />
     <link href="../../Styles/base.css" rel="stylesheet" type="text/css" />

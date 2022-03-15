@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM.WebForms.Jisha_Admin {
+namespace Upside_Golf_RCM.WebForms.Jisha_Admin {
     
     
     public partial class Jisha_Admin_Login {

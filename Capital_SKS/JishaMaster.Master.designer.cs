@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM {
+namespace Upside_Golf_RCM {
     
     
     public partial class JishaMaster {
@@ -37,7 +37,7 @@ namespace ORS_RCM {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ORS_RCM.WebForms.Jisha.SearchMenu SearchMenu1;
+        protected global::Upside_Golf_RCM.WebForms.Jisha.SearchMenu SearchMenu1;
         
         /// <summary>
         /// SideMenu1 control.
@@ -46,7 +46,7 @@ namespace ORS_RCM {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ORS_RCM.WebForms.Jisha.SideMenu SideMenu1;
+        protected global::Upside_Golf_RCM.WebForms.Jisha.SideMenu SideMenu1;
         
         /// <summary>
         /// MainContent control.
@@ -64,6 +64,6 @@ namespace ORS_RCM {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ORS_RCM.WebForms.Jisha.FooterMenu FooterMenu1;
+        protected global::Upside_Golf_RCM.WebForms.Jisha.FooterMenu FooterMenu1;
     }
 }

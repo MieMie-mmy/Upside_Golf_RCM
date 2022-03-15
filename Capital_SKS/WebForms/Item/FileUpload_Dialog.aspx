@@ -1,4 +1,4 @@
-﻿<%@ Page Title="商品管理システム＜画像登録＞" Language="C#" AutoEventWireup="true" CodeBehind="FileUpload_Dialog.aspx.cs" Inherits="ORS_RCM.FileUpload_Dialog" %>
+﻿<%@ Page Title="商品管理システム＜画像登録＞" Language="C#" AutoEventWireup="true" CodeBehind="FileUpload_Dialog.aspx.cs" Inherits="Upside_Golf_RCM.FileUpload_Dialog" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 

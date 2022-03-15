@@ -1,4 +1,4 @@
-﻿<%@ Page Title="商品管理システム＜ショップカテゴリ一覧画面＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Category_View.aspx.cs" Inherits="ORS_RCM.Category_View" %>
+﻿<%@ Page Title="商品管理システム＜ショップカテゴリ一覧画面＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Category_View.aspx.cs" Inherits="Upside_Golf_RCM.Category_View" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
    
 <link rel="stylesheet" href="../../Styles/shop_category.css"  type ="text/css" />

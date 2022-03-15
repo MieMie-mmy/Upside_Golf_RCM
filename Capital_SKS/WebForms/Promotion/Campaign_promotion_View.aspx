@@ -1,5 +1,5 @@
 ﻿
-<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Campaign_promotion_View.aspx.cs" Inherits="ORS_RCM.WebForms.Promotion.Campaign_promotion_View" %>
+<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Campaign_promotion_View.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Promotion.Campaign_promotion_View" %>
 
 <%@ Register src="../../UCGrid_Paging.ascx" tagname="UCGrid_Paging" tagprefix="uc1" %>
 

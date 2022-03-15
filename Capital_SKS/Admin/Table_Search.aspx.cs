@@ -8,7 +8,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Configuration;
 
-namespace ORS_RCM.Admin
+namespace Upside_Golf_RCM.Admin
 {
     public partial class Table_Search : System.Web.UI.Page
     {

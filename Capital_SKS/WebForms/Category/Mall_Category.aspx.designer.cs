@@ -7,13 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM
-{
-
-
-    public partial class Mall_Category
-    {
-
+namespace Upside_Golf_RCM {
+    
+    
+    public partial class Mall_Category {
+        
         /// <summary>
         /// Label1 control.
         /// </summary>
@@ -22,7 +20,7 @@ namespace ORS_RCM
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label1;
-
+        
         /// <summary>
         /// Label2 control.
         /// </summary>
@@ -31,7 +29,7 @@ namespace ORS_RCM
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label2;
-
+        
         /// <summary>
         /// Label4 control.
         /// </summary>
@@ -40,7 +38,7 @@ namespace ORS_RCM
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label4;
-
+        
         /// <summary>
         /// Label5 control.
         /// </summary>
@@ -49,7 +47,7 @@ namespace ORS_RCM
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label5;
-
+        
         /// <summary>
         /// lblRk control.
         /// </summary>
@@ -58,7 +56,7 @@ namespace ORS_RCM
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblRk;
-
+        
         /// <summary>
         /// lblYh control.
         /// </summary>
@@ -67,7 +65,7 @@ namespace ORS_RCM
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblYh;
-
+        
         /// <summary>
         /// lblWowma control.
         /// </summary>
@@ -76,7 +74,7 @@ namespace ORS_RCM
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblWowma;
-
+        
         /// <summary>
         /// lblTennis control.
         /// </summary>
@@ -85,7 +83,7 @@ namespace ORS_RCM
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblTennis;
-
+        
         /// <summary>
         /// txtcname control.
         /// </summary>
@@ -94,7 +92,7 @@ namespace ORS_RCM
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtcname;
-
+        
         /// <summary>
         /// btnsearch control.
         /// </summary>
@@ -103,7 +101,7 @@ namespace ORS_RCM
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnsearch;
-
+        
         /// <summary>
         /// upl1 control.
         /// </summary>
@@ -112,7 +110,7 @@ namespace ORS_RCM
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.FileUpload upl1;
-
+        
         /// <summary>
         /// btnImport control.
         /// </summary>
@@ -121,7 +119,7 @@ namespace ORS_RCM
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnImport;
-
+        
         /// <summary>
         /// btnExport control.
         /// </summary>
@@ -130,7 +128,7 @@ namespace ORS_RCM
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnExport;
-
+        
         /// <summary>
         /// lnkdownload control.
         /// </summary>
@@ -139,7 +137,7 @@ namespace ORS_RCM
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.LinkButton lnkdownload;
-
+        
         /// <summary>
         /// UpdatePanel1 control.
         /// </summary>
@@ -148,7 +146,7 @@ namespace ORS_RCM
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.UpdatePanel UpdatePanel1;
-
+        
         /// <summary>
         /// gvmall control.
         /// </summary>
@@ -157,7 +155,7 @@ namespace ORS_RCM
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.GridView gvmall;
-
+        
         /// <summary>
         /// gp control.
         /// </summary>
@@ -165,6 +163,6 @@ namespace ORS_RCM
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ORS_RCM.UCGrid_Paging gp;
+        protected global::Upside_Golf_RCM.UCGrid_Paging gp;
     }
 }

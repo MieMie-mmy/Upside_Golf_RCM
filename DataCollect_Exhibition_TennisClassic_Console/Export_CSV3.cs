@@ -1,4 +1,4 @@
-﻿using ORS_RCM_BL;
+﻿using Upside_Golf_RCM_BL;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -2177,7 +2177,7 @@ namespace DataCollect_Exhibition_TennisClassic_Console
         }
         public DataTable GetTemplateDescription(string[] templateID, int shopID)
         {
-            shopTemplate = new ORS_RCM_BL.Shop_Template_BL();
+            shopTemplate = new Upside_Golf_RCM_BL.Shop_Template_BL();
             DataTable dt = shopTemplate.GetTemplateDescription(templateID, shopID);
             if (dt.Rows.Count > 0 && dt != null)
             {

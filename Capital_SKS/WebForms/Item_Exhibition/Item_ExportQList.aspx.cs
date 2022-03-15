@@ -6,14 +6,14 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Globalization;
 using System.Collections;
-using ORS_RCM.WebForms.Item;
+using Upside_Golf_RCM.WebForms.Item;
 using System.Configuration;
 using System.Web.UI.HtmlControls;
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
     public partial class Item_ExportQList : System.Web.UI.Page
     {

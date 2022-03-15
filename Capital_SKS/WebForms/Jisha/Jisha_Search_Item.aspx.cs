@@ -6,9 +6,9 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 
-namespace ORS_RCM.WebForms.Jisha
+namespace Upside_Golf_RCM.WebForms.Jisha
 {
     public partial class Jisha_Search_Item : System.Web.UI.Page
     {

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="UserRole.aspx.cs" Inherits="ORS_RCM.UserRole" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="UserRole.aspx.cs" Inherits="Upside_Golf_RCM.UserRole" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 	<link href="Styles/base.css" rel="stylesheet" type="text/css" />
 	<link href="Styles/common.css" rel="stylesheet" type="text/css" />
@@ -154,14 +154,14 @@
                
                 
                
-		</table>
+		</table>    
 	
 <!-- /User search -->
 
 
 
 	<div class="btn">
-       
+        
 		<asp:Button ID="btnAddRole" runat="server" Text="確認画面へ"  onclick="btnAddRole_Click"  Width="150px"  Height="30px" style="margin-bottom:30px;"/>
 	
         </div>

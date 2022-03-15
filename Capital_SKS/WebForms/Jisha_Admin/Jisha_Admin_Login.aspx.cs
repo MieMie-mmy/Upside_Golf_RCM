@@ -6,9 +6,9 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 
-namespace ORS_RCM.WebForms.Jisha_Admin
+namespace Upside_Golf_RCM.WebForms.Jisha_Admin
 {
     public partial class Jisha_Admin_Login : System.Web.UI.Page
     {

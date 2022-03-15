@@ -1,4 +1,4 @@
-﻿<%@ Page Title="商品管理システム＜商品マスタデータインポート＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Import_Shop_Item.aspx.cs" Inherits="ORS_RCM.WebForms.Import.Shop_Import" %>
+﻿<%@ Page Title="商品管理システム＜商品マスタデータインポート＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Import_Shop_Item.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Import.Shop_Import" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />

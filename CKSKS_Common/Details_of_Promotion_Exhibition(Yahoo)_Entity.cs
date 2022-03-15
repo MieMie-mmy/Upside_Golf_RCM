@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ORS_RCM_Common
+namespace Upside_Golf_RCM_Common
 {
    public class Details_of_Promotion_Exhibition_Yahoo__Entity
     {

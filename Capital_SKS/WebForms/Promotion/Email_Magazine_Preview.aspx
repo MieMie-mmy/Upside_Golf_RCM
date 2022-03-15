@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Email_Magazine_Preview.aspx.cs" Inherits="ORS_RCM.WebForms.Promotion.Email_Magazine_Preview" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Email_Magazine_Preview.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Promotion.Email_Magazine_Preview" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=1.8.3" type="text/jscript"></script>
 <script src="../../Scripts/jquery.page-scroller.js" type="text/javascript"></script>
@@ -255,7 +255,7 @@
 	<div class="block6">
 		<dl>
 			<dt>戸村さんのテニスワンポイントレッスン</dt>
-			<dd>第50回　C:\Users\racket210\Desktop\Design\Git\SKS\ORS_RCM\ORS_RCM\WebForms\html_Promotion</dd>
+			<dd>第50回　C:\Users\racket210\Desktop\Design\Git\SKS\Upside_Golf_RCM\Upside_Golf_RCM\WebForms\html_Promotion</dd>
 		</dl>
 	</div> 
 

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Popup_Option.aspx.cs" Inherits="ORS_RCM.WebForms.Item.Popup_Option" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Popup_Option.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Item.Popup_Option" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
   <link href="../../Styles/style.css" rel="stylesheet" type="text/css" />
     <link href="../../Styles/base.css" rel="stylesheet" type="text/css" />

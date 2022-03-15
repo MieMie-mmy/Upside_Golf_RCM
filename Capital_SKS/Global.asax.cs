@@ -6,10 +6,10 @@ using System.Web.Security;
 using System.Web.SessionState;
 using System.Web.Routing;
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
     public class Global : System.Web.HttpApplication
-    {
+    { 
 
         protected void Application_Start(object sender, EventArgs e)
         {
@@ -33,7 +33,7 @@ namespace ORS_RCM
         protected void Application_AuthenticateRequest(object sender, EventArgs e)
         {
 
-        }
+        } 
 
         protected void Application_Error(object sender, EventArgs e)
         {

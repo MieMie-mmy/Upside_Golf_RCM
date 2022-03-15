@@ -6,10 +6,10 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_BL;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_BL;
+using Upside_Golf_RCM_Common;
 
-namespace ORS_RCM.WebForms.Jisha
+namespace Upside_Golf_RCM.WebForms.Jisha
 {
     public partial class Jisha_COD_Charge : System.Web.UI.Page
     {

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="SKUSeparated_OrderList.aspx.cs" Inherits="ORS_RCM.SKUSeparated_OrderList" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="SKUSeparated_OrderList.aspx.cs" Inherits="Upside_Golf_RCM.SKUSeparated_OrderList" %>
 
 
 <%@ Register src="~/UCGrid_Paging.ascx" tagname="UCGrid_Paging" tagprefix="uc1" %>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="商品管理システム＜プロモーション編集＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Promotion.aspx.cs" Inherits="ORS_RCM.WebForms.Promotion.Promotion" %>
+﻿<%@ Page Title="商品管理システム＜プロモーション編集＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Promotion.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Promotion.Promotion" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
   
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />

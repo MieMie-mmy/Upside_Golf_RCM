@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" CodeBehind="Item_Import_Interface.aspx.cs" Inherits="ORS_RCM.Item_Import_Interface" %>
+﻿<%@ Page Title="" Language="C#" CodeBehind="Item_Import_Interface.aspx.cs" Inherits="Upside_Golf_RCM.Item_Import_Interface" %>
 <html  runat="server">
     <head></head>
     <body runat="server">

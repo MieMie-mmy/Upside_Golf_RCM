@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true"  CodeBehind="Item_View3.aspx.cs" Inherits="ORS_RCM.WebForms.Item.Item_View3" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true"  CodeBehind="Item_View3.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Item.Item_View3" %>
 <%@ Register Src="~/UCGrid_Paging.ascx" TagPrefix="uc" TagName="UCGrid_Paging" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     <link href="../../Styles/base.css" rel="stylesheet" type="text/css" />

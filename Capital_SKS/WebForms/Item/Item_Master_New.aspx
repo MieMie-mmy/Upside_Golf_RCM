@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Item_Master_New.aspx.cs" Inherits="ORS_RCM.WebForms.Item.Item_Master_New" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Item_Master_New.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Item.Item_Master_New" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 <link rel="stylesheet" href="../../Styles/tab-style.css" />
 <link rel="stylesheet" href="../../Styles/base.css"/>

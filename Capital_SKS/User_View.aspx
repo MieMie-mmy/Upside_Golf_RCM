@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true"
-	CodeBehind="User_View.aspx.cs" Inherits="ORS_RCM.User_View" %>
+	CodeBehind="User_View.aspx.cs" Inherits="Upside_Golf_RCM.User_View" %>
 	<%@ Register Src="~/UCGrid_Paging.ascx" TagPrefix="uc" TagName="UCGrid_Paging" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">

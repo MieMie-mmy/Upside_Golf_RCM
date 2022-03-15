@@ -4,17 +4,17 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using ORS_RCM_BL;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_BL;
+using Upside_Golf_RCM_Common;
 using System.Data;
 using System.Configuration;
 using System.Collections;
 using System.Web.UI.HtmlControls;
-using ORS_RCM.WebForms.Item;
+using Upside_Golf_RCM.WebForms.Item;
 using System.Text;
 using System.Web.Services;
 
-namespace ORS_RCM.WebForms.Item
+namespace Upside_Golf_RCM.WebForms.Item
 {
     public partial class Item_View3 : System.Web.UI.Page
     {
@@ -24,7 +24,7 @@ namespace ORS_RCM.WebForms.Item
             {
                 if (!IsPostBack)
                 {
-                    Item_ExportField_BL iebl = new ORS_RCM_BL.Item_ExportField_BL();
+                    Item_ExportField_BL iebl = new Upside_Golf_RCM_BL.Item_ExportField_BL();
                     //bind user to dropdownlist
                     ddlContactPerson.DataSource = iebl.SelectUser();
                     ddlContactPerson.DataValueField = "ID";

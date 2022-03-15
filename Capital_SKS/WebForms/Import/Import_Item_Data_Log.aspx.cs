@@ -28,9 +28,9 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 
-namespace ORS_RCM.WebForms.Import
+namespace Upside_Golf_RCM.WebForms.Import
 {
     public partial class Import_Item_Data_Log : System.Web.UI.Page
     {

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="オプション登録＜商品管理システム＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Option_Entry.aspx.cs" Inherits="ORS_RCM.WebForms.Item.Option_Entry" %>
+﻿<%@ Page Title="オプション登録＜商品管理システム＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Option_Entry.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Item.Option_Entry" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 
 

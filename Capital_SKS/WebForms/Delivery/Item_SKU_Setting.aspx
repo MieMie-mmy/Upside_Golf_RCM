@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Item_SKU_Setting.aspx.cs" Inherits="ORS_RCM.WebForms.Delivery.Item_SKU_Setting" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Item_SKU_Setting.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Delivery.Item_SKU_Setting" %>
 
 <%@ Register src="../../UCGrid_Paging.ascx" tagname="UCGrid_Paging" tagprefix="uc1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">

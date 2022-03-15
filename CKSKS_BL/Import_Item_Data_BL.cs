@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_DL;
+using Upside_Golf_RCM_DL;
 using System.Xml;
 using System.Text.RegularExpressions;
 using System.Net;
@@ -13,7 +13,7 @@ using System.Xml.Serialization;
 using System.Web;
 
 
-namespace ORS_RCM_BL
+namespace Upside_Golf_RCM_BL
 {
    public  class Import_Item_Data_BL
     {

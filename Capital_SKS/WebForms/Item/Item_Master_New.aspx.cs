@@ -4,8 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using ORS_RCM_BL;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_BL;
+using Upside_Golf_RCM_Common;
 using System.Data;
 using System.Collections;
 using System.Text;
@@ -13,7 +13,7 @@ using System.Configuration;
 using System.Web.UI.HtmlControls;
 using System.Text.RegularExpressions;
 
-namespace ORS_RCM.WebForms.Item
+namespace Upside_Golf_RCM.WebForms.Item
 {
     public partial class Item_Master_New : System.Web.UI.Page
     {

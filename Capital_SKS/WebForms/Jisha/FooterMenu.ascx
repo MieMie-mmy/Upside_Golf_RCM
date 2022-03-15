@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="FooterMenu.ascx.cs" Inherits="ORS_RCM.WebForms.Jisha.FooterMenu" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="FooterMenu.ascx.cs" Inherits="Upside_Golf_RCM.WebForms.Jisha.FooterMenu" %>
 <p class="rn_bb_sicon"><img alt="SHOPING GUIDE" src="../../images/Customer_image/f_shopingicon.gif"></p>
 <div id="rn_footerBox">
 		<dl>

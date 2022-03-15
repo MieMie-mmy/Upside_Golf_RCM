@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Delivery_Entry.aspx.cs" Inherits="ORS_RCM.WebForms.Delivery.Delivery_Entry" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Delivery_Entry.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Delivery.Delivery_Entry" %>
 
 <%@ Register src="../../UCGrid_Paging.ascx" tagname="UCGrid_Paging" tagprefix="uc1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">

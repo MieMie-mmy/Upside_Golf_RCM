@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="UCGrid_Paging.ascx.cs" Inherits="ORS_RCM.UCGrid_Paging" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="UCGrid_Paging.ascx.cs" Inherits="Upside_Golf_RCM.UCGrid_Paging" %>
 
  <link href=" ../../Styles/pagesno.css" rel="stylesheet" type="text/css" />
 

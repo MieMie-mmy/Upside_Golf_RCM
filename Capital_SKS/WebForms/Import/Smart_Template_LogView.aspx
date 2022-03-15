@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Smart_Template_LogView.aspx.cs" Inherits="ORS_RCM.Smart_Template_LogView" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Smart_Template_LogView.aspx.cs" Inherits="Upside_Golf_RCM.Smart_Template_LogView" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
  <link href="../../Styles/base.css" rel="stylesheet" type="text/css" />
 	<link href="../../Styles/common.css" rel="stylesheet" type="text/css" />

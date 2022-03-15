@@ -5,11 +5,11 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.IO;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Data;
 using System.Drawing;
 
-namespace ORS_RCM.WebForms.Promotion
+namespace Upside_Golf_RCM.WebForms.Promotion
 {
     public partial class FileUpload_Dialog_Campaign_image_ : System.Web.UI.Page
     {

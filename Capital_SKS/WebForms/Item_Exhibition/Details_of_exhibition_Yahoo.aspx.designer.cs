@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM {
+namespace Upside_Golf_RCM {
     
     
     public partial class Details_of_exhibition_Yahoo_ {

@@ -62,3 +62,14 @@ D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Del
 D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.CopyComplete
 D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.exe
 D:\ORS_Data\ORS_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.pdb
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.exe.config
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.exe
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Capital_SKS_Email_Delete\bin\Debug\Capital_SKS_Email_Delete.pdb
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Capital_SKS_Email_Delete\bin\Debug\OpenPop.dll
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csprojAssemblyReference.cache
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.Properties.Resources.resources
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.GenerateResource.cache
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.CoreCompileInputs.cache
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.csproj.CopyComplete
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.exe
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Capital_SKS_Email_Delete\obj\x86\Debug\Capital_SKS_Email_Delete.pdb

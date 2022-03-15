@@ -19,14 +19,14 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.IO;
 using System.Text;
 using System.Configuration;
 using System.Net;
 using System.Text.RegularExpressions;
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
     public partial class Category_View : System.Web.UI.Page
     {

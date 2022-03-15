@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Log_Data_Delete.aspx.cs" Inherits="ORS_RCM.Admin.Log_Data_Delete" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Log_Data_Delete.aspx.cs" Inherits="Upside_Golf_RCM.Admin.Log_Data_Delete" %>
 <asp:content id="Content1" contentplaceholderid="HeadContent" runat="server">
 <link href="../../Styles/exhibition.css" rel="stylesheet" type="text/css" />
 <script src="../../Scripts/jquery.page-scroller.js" type="text/javascript"></script>  

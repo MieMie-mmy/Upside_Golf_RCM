@@ -22,10 +22,10 @@ using System.Web.UI.WebControls;
 using System.Data;
 using System.IO;
 using System.Text;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Collections;
 
-namespace ORS_RCM.WebForms.Import
+namespace Upside_Golf_RCM.WebForms.Import
 {
     public partial class Yahoo_SpecName_Import : System.Web.UI.Page
     {

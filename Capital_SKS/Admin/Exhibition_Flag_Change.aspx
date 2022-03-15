@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Exhibition_Flag_Change.aspx.cs" Inherits="ORS_RCM.Admin.Exhibition_Flag_Change" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Exhibition_Flag_Change.aspx.cs" Inherits="Upside_Golf_RCM.Admin.Exhibition_Flag_Change" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 <link href="../../Styles/exhibition.css" rel="stylesheet" type="text/css" />
 <script src="../../Scripts/jquery.page-scroller.js" type="text/javascript"></script>  

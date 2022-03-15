@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/JishaMaster.Master" AutoEventWireup="true" CodeBehind="Jisha_Search_Item.aspx.cs" Inherits="ORS_RCM.WebForms.Jisha.Jisha_Search_Item" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/JishaMaster.Master" AutoEventWireup="true" CodeBehind="Jisha_Search_Item.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Jisha.Jisha_Search_Item" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 <style type="text/css">
 #btnDetail

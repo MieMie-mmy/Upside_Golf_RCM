@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_Common;
 
-namespace ORS_RCM_DL
+namespace Upside_Golf_RCM_DL
 {
    public class Jisha_Credit_Card_Payment_DL
     {

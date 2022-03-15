@@ -5,7 +5,7 @@ using System.Text;
 using System.Data.SqlClient;
 using System.Data;
 
-namespace ORS_RCM_DL
+namespace Upside_Golf_RCM_DL
 {
     public class System_ErrorLogView_DL
     {

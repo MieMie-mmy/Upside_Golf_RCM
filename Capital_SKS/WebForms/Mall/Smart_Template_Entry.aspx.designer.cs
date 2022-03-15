@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM {
+namespace Upside_Golf_RCM {
     
     
     public partial class Smart_Template_Entry {

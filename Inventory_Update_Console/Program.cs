@@ -9,8 +9,8 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
-using ORS_RCM_BL;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_BL;
+using Upside_Golf_RCM_Common;
 using Yahoo_API;
 
 namespace Inventory_Update_Console

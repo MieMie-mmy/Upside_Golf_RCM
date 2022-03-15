@@ -16,16 +16,16 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Collections;
 using System.Data;
 using System.IO;
 using System.Configuration;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_Common;
 using System.Globalization;
 
 
-namespace ORS_RCM.WebForms
+namespace Upside_Golf_RCM.WebForms
 {
     public partial class Sale_List_Screen : System.Web.UI.Page
     {

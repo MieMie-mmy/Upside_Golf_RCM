@@ -18,12 +18,12 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_Common;
-using ORS_RCM_BL;
-using ORS_RCM.WebForms.Item;
+using Upside_Golf_RCM_Common;
+using Upside_Golf_RCM_BL;
+using Upside_Golf_RCM.WebForms.Item;
 
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
     public partial class Details_of_exhibition__Ponpare_ : System.Web.UI.Page
     {

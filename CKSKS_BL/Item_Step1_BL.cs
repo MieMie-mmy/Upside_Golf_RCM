@@ -4,14 +4,14 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace ORS_RCM_BL
+namespace Upside_Golf_RCM_BL
 {
     using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Text;
-    using ORS_RCM_DL;
-    using ORS_RCM_Common;
+    using Upside_Golf_RCM_DL;
+    using Upside_Golf_RCM_Common;
     using System.Data;
 
     /// <summary>

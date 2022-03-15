@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM {
+namespace Upside_Golf_RCM {
     
     
     public partial class Item_ImportLog_View {
@@ -82,6 +82,6 @@ namespace ORS_RCM {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ORS_RCM.UCGrid_Paging gp;
+        protected global::Upside_Golf_RCM.UCGrid_Paging gp;
     }
 }

@@ -22,7 +22,7 @@ using System.Drawing;
 using System.Text.RegularExpressions;
 using System.Configuration;
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
     public partial class FileUpload_Dialog : System.Web.UI.Page
     {

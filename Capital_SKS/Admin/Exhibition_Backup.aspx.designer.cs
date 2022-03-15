@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM.Admin {
+namespace Upside_Golf_RCM.Admin {
     
     
     public partial class Exhibition_Backup {

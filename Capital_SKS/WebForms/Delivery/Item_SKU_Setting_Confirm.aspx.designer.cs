@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM.WebForms.Delivery {
+namespace Upside_Golf_RCM.WebForms.Delivery {
     
     
     public partial class Item_SKU_Setting_Confirm {

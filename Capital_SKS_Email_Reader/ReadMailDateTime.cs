@@ -15,7 +15,7 @@ using System.Net.Mail;
 using System.Globalization;
 
 
-namespace ORS_RCM_Email_Reader
+namespace Upside_Golf_RCM_Email_Reader
 {
 
    public  class ReadMailDateTime

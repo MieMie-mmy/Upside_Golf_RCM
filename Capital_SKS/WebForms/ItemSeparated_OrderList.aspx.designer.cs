@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM {
+namespace Upside_Golf_RCM {
     
     
     public partial class ItemSeparated_OrderList {
@@ -226,6 +226,6 @@ namespace ORS_RCM {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ORS_RCM.UCGrid_Paging gp3;
+        protected global::Upside_Golf_RCM.UCGrid_Paging gp3;
     }
 }

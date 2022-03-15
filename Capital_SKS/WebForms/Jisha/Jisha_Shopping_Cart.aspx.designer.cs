@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM.WebForms.Jisha {
+namespace Upside_Golf_RCM.WebForms.Jisha {
     
     
     public partial class Jisha_Item_OrderDetail {

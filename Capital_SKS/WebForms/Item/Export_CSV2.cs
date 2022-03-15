@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Data;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.IO;
 using System.Text;
 using System.Configuration;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_Common;
 
-namespace ORS_RCM.WebForms.Item
+namespace Upside_Golf_RCM.WebForms.Item
 {
     /// <summary>
     /// divided by type and export data file

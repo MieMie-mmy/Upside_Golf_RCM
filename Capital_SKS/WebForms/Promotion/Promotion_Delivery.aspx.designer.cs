@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM.WebForms.Promotion {
+namespace Upside_Golf_RCM.WebForms.Promotion {
     
     
     public partial class Promotion_Delivery {
@@ -292,15 +292,6 @@ namespace ORS_RCM.WebForms.Promotion {
         protected global::System.Web.UI.WebControls.DropDownList ddlpage;
         
         /// <summary>
-        /// UpdatePanel1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.UpdatePanel UpdatePanel1;
-        
-        /// <summary>
         /// gvview control.
         /// </summary>
         /// <remarks>
@@ -325,6 +316,6 @@ namespace ORS_RCM.WebForms.Promotion {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ORS_RCM.UCGrid_Paging gp;
+        protected global::Upside_Golf_RCM.UCGrid_Paging gp;
     }
 }

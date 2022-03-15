@@ -17,12 +17,12 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Data;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
     public partial class PopupCatagoryList : System.Web.UI.Page
     {

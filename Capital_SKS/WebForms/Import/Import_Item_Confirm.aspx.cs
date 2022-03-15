@@ -19,13 +19,13 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.IO;
 using System.Configuration;
 
-namespace ORS_RCM.WebForms.Import
+namespace Upside_Golf_RCM.WebForms.Import
 {
     public partial class Import_Item_Confirm : System.Web.UI.Page
     {

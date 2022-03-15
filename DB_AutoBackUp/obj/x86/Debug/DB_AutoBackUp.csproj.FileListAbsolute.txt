@@ -63,3 +63,11 @@ D:\ORS_Data\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.CoreCompile
 D:\ORS_Data\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.CopyComplete
 D:\ORS_Data\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.exe
 D:\ORS_Data\ORS_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.pdb
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.exe.config
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.exe
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\DB_AutoBackUp\bin\Debug\DB_AutoBackUp.pdb
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csprojAssemblyReference.cache
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.CoreCompileInputs.cache
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.csproj.CopyComplete
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.exe
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\DB_AutoBackUp\obj\x86\Debug\DB_AutoBackUp.pdb

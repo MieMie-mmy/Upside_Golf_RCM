@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Campaign_promotion_Confirm.aspx.cs" Inherits="ORS_RCM.Campaign_promotion_Confirm" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Campaign_promotion_Confirm.aspx.cs" Inherits="Upside_Golf_RCM.Campaign_promotion_Confirm" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 
     <!DOCTYPE html>

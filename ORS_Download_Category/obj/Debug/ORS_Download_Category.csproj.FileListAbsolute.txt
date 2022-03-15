@@ -67,3 +67,11 @@ D:\ORS_Data\ORS_RCM\ORS_Download_Category\obj\Debug\ORS_Download_Category.csproj
 D:\ORS_Data\ORS_RCM\ORS_Download_Category\obj\Debug\ORS_Download_Category.csproj.CopyComplete
 D:\ORS_Data\ORS_RCM\ORS_Download_Category\obj\Debug\ORS_Download_Category.exe
 D:\ORS_Data\ORS_RCM\ORS_Download_Category\obj\Debug\ORS_Download_Category.pdb
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\ORS_Download_Category\bin\Debug\ORS_Download_Category.exe.config
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\ORS_Download_Category\bin\Debug\ORS_Download_Category.exe
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\ORS_Download_Category\bin\Debug\ORS_Download_Category.pdb
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\ORS_Download_Category\obj\Debug\ORS_Download_Category.csprojAssemblyReference.cache
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\ORS_Download_Category\obj\Debug\ORS_Download_Category.csproj.CoreCompileInputs.cache
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\ORS_Download_Category\obj\Debug\ORS_Download_Category.csproj.CopyComplete
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\ORS_Download_Category\obj\Debug\ORS_Download_Category.exe
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\ORS_Download_Category\obj\Debug\ORS_Download_Category.pdb

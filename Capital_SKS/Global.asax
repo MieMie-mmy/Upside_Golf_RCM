@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="ORS_RCM.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="Upside_Golf_RCM.Global" Language="C#" %>

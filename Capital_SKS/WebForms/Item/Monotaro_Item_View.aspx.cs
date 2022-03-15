@@ -4,12 +4,12 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using ORS_RCM_BL;
-using ORS_RCM.WebForms.Item;
+using Upside_Golf_RCM_BL;
+using Upside_Golf_RCM.WebForms.Item;
 using System.Data.SqlClient;
 using System.Data;
 using System.Collections;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_Common;
 using System.Web.UI.HtmlControls;
 using System.Configuration;
 using System.Text;
@@ -21,7 +21,7 @@ using Excel;
 using System.Diagnostics;
 using ClosedXML.Excel;
 
-namespace ORS_RCM.WebForms.Item
+namespace Upside_Golf_RCM.WebForms.Item
 {
     public partial class Monotaro_Item_View : System.Web.UI.Page
     {

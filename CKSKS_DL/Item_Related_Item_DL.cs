@@ -17,7 +17,7 @@ using System.Text;
 using System.Data;
 using System.Data.SqlClient;
 
-namespace ORS_RCM_DL
+namespace Upside_Golf_RCM_DL
 {
     public class Item_Related_Item_DL
     {

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="MallData_Import.aspx.cs" Inherits="ORS_RCM.WebForms.MallData_Import" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="MallData_Import.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.MallData_Import" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 <script type="text/javascript">
     $(function () {

@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="JishaMaster.master.cs" Inherits="ORS_RCM.JishaMaster" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="JishaMaster.master.cs" Inherits="Upside_Golf_RCM.JishaMaster" %>
 
 <%@ Register src="WebForms/Jisha/SideMenu.ascx" tagname="SideMenu" tagprefix="uc1" %>
 

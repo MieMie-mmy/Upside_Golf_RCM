@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Data;
-using ORS_RCM_DL;
+using Upside_Golf_RCM_DL;
 
-namespace ORS_RCM_BL
+namespace Upside_Golf_RCM_BL
 {
    public  class GlobalBL
     {

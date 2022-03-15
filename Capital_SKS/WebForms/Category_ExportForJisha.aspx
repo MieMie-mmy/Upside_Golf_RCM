@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Category_ExportForJisha.aspx.cs" Inherits="ORS_RCM.Category_ExportForJisha" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Category_ExportForJisha.aspx.cs" Inherits="Upside_Golf_RCM.Category_ExportForJisha" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     <!DOCTYPE html>
 

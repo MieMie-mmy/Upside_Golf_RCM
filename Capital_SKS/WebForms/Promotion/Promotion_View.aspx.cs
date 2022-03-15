@@ -4,14 +4,14 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Collections;
 using System.Data;
 using System.IO;
 using System.Configuration;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_Common;
 
-namespace ORS_RCM.WebForms.Promotion
+namespace Upside_Golf_RCM.WebForms.Promotion
 {
     public partial class Promotion_View : System.Web.UI.Page
     {

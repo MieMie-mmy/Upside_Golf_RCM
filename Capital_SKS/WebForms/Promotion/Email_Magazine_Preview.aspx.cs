@@ -6,14 +6,14 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_Common;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_Common;
+using Upside_Golf_RCM_BL;
 using System.Configuration;
 using System.Transactions;
 using System.Globalization;
 using System.Collections;
 
-namespace ORS_RCM.WebForms.Promotion
+namespace Upside_Golf_RCM.WebForms.Promotion
 {
     public partial class Email_Magazine_Preview : System.Web.UI.Page
     {

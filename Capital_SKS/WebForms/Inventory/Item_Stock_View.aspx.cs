@@ -17,13 +17,13 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
-using ORS_RCM_BL;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_BL;
+using Upside_Golf_RCM_Common;
 using System.Web.Services;
 using System.IO;
 using System.Configuration;
 
-namespace ORS_RCM 
+namespace Upside_Golf_RCM 
 {
     public partial class Item_Search : System.Web.UI.Page
     {

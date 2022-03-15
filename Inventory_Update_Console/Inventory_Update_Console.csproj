@@ -58,13 +58,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CKSKS_BL\ORS_RCM_BL.csproj">
+    <ProjectReference Include="..\CKSKS_BL\Upside_Golf_BL.csproj">
       <Project>{f9557c2f-325e-405d-982c-ddbc893c3327}</Project>
-      <Name>ORS_RCM_BL</Name>
+      <Name>Upside_Golf_BL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CKSKS_Common\ORS_RCM_Common.csproj">
+    <ProjectReference Include="..\CKSKS_Common\Upside_Golf_Common.csproj">
       <Project>{deae143f-c8a5-4a16-8cd8-061fda6ddbc8}</Project>
-      <Name>ORS_RCM_Common</Name>
+      <Name>Upside_Golf_Common</Name>
     </ProjectReference>
     <ProjectReference Include="..\YahooAPI\Yahoo_API.csproj">
       <Project>{e896d994-939c-4063-85bb-ba759355b769}</Project>

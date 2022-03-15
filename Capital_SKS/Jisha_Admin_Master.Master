@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Jisha_Admin_Master.master.cs" Inherits="ORS_RCM.Jisha_Admin_Master" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Jisha_Admin_Master.master.cs" Inherits="Upside_Golf_RCM.Jisha_Admin_Master" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 

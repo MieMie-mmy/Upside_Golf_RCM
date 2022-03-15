@@ -23,7 +23,7 @@ using System.Net.Mail;
 using System.Globalization;
 using System.Security.Authentication;
 
-namespace ORS_RCM_Email_Reader
+namespace Upside_Golf_RCM_Email_Reader
 {
     public class Program
     {

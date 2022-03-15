@@ -5,10 +5,10 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 
 
-namespace ORS_RCM.WebForms.Jisha
+namespace Upside_Golf_RCM.WebForms.Jisha
 {
     public partial class Jisha_Item_View : System.Web.UI.Page
     {

@@ -18,9 +18,9 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_Common;
-using ORS_RCM_BL;
-namespace ORS_RCM
+using Upside_Golf_RCM_Common;
+using Upside_Golf_RCM_BL;
+namespace Upside_Golf_RCM
 {
     public partial class Smart_Template_View : System.Web.UI.Page
     {

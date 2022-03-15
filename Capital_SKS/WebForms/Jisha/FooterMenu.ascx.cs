@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace ORS_RCM.WebForms.Jisha
+namespace Upside_Golf_RCM.WebForms.Jisha
 {
     public partial class FooterMenu : System.Web.UI.UserControl
     {

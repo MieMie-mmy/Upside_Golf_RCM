@@ -5,7 +5,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 
-namespace ORS_RCM_DL
+namespace Upside_Golf_RCM_DL
 {
     public class Details_of_exhibition_Tennis_DL
     {

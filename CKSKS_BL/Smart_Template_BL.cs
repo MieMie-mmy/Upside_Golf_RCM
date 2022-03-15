@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using ORS_RCM_DL;
+using Upside_Golf_RCM_DL;
 using System.Data;
 using System.Transactions;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_Common;
 
 
-namespace ORS_RCM_BL
+namespace Upside_Golf_RCM_BL
 {
     public class Smart_Template_BL
     {

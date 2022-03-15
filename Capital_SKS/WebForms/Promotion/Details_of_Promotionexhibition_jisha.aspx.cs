@@ -6,10 +6,10 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Text.RegularExpressions;
 
-namespace ORS_RCM.WebForms.Promotion
+namespace Upside_Golf_RCM.WebForms.Promotion
 {
     public partial class Details_of_Promotionexhibition_jisha : System.Web.UI.Page
     {
@@ -1345,7 +1345,7 @@ namespace ORS_RCM.WebForms.Promotion
         {
             try
             {
-            shopTemplate = new ORS_RCM_BL.Shop_Template_BL();
+            shopTemplate = new Upside_Golf_RCM_BL.Shop_Template_BL();
             DataTable dt = shopTemplate.GetTemplateDescription(templateID, shopID);
             if (dt.Rows.Count > 0 && dt != null)
             {

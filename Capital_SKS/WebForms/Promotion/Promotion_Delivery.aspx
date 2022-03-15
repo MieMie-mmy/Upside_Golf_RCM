@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Promotion_Delivery.aspx.cs" Inherits="ORS_RCM.WebForms.Promotion.Promotion_Delivery" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Promotion_Delivery.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Promotion.Promotion_Delivery" %>
 <%@ Register src="../../UCGrid_Paging.ascx" tagname="UCGrid_Paging" tagprefix="uc1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 <link href="../../Styles/promotion_base.css" rel="stylesheet" type="text/css" />

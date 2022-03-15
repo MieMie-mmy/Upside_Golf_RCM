@@ -20,9 +20,9 @@ using System.Data;
 using System.IO;
 using System.Collections;
 using Microsoft.VisualBasic.FileIO;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
     public partial class CSV_DataImport : System.Web.UI.Page
     {

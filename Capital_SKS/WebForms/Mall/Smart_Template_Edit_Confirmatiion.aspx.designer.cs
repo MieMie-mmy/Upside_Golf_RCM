@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM.WebForms.Mall {
+namespace Upside_Golf_RCM.WebForms.Mall {
     
     
     public partial class Smart_Template_Edit_Confirmatiion {

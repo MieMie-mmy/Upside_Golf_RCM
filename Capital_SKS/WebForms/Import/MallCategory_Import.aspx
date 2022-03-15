@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="MallCategory_Import.aspx.cs" Inherits="ORS_RCM.CSV_DataImport" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="MallCategory_Import.aspx.cs" Inherits="Upside_Golf_RCM.CSV_DataImport" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     <title>商品管理システム＜ショップカテゴリCSVデータインポート＞</title>
 	<link href="../../Styles/base.css" rel="stylesheet" type="text/css" />

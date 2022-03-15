@@ -6,10 +6,10 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using Microsoft.VisualBasic.FileIO;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Collections;
 
-namespace ORS_RCM.WebForms.Import
+namespace Upside_Golf_RCM.WebForms.Import
 {
     public partial class Shop_Import : System.Web.UI.Page
     {

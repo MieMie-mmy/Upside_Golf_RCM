@@ -10,12 +10,12 @@ using System.Net;
 using System.Data;
 using System.Data.SqlClient;
 using System.Configuration;
-using ORS_RCM_BL;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_BL;
+using Upside_Golf_RCM_Common;
 using System.Threading;
 using System.Web.Services;
 
-namespace ORS_RCM.WebForms
+namespace Upside_Golf_RCM.WebForms
 {
     public partial class SKS_DB_Backup : System.Web.UI.Page
     {
@@ -29,13 +29,13 @@ namespace ORS_RCM.WebForms
 
         //protected void btnBackup_Click(object sender, EventArgs e)
         //{
-        //    //BakUp("ORS_RCM");
+        //    //BakUp("Upside_Golf_RCM");
         //}
 
         [WebMethod]
         public static string BackupSKS()
         {
-            BackUp("ORS_RCM");
+            BackUp("Upside_Golf_RCM");
             return "true";
         }
 

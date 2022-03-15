@@ -19,10 +19,10 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_BL;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_BL;
+using Upside_Golf_RCM_Common;
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
     public partial class LogIn : System.Web.UI.Page
     {

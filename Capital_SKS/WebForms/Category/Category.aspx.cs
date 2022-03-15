@@ -18,12 +18,12 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Text.RegularExpressions;
 using System.Collections;
 using System.Text;
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
     public partial class Category : System.Web.UI.Page
     {

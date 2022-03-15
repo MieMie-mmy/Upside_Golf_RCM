@@ -3,12 +3,12 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Data;
 using System.Collections;
 using System.Drawing;
 
-namespace ORS_RCM.WebForms.Item
+namespace Upside_Golf_RCM.WebForms.Item
 {
     public partial class Item_View_Quick : System.Web.UI.Page
     {

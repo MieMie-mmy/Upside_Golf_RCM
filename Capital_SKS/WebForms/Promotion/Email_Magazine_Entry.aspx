@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Email_Magazine_Entry.aspx.cs" Inherits="ORS_RCM.WebForms.Promotion.Email_Magazine_Entry" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Email_Magazine_Entry.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Promotion.Email_Magazine_Entry" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 
 <link href="../../Styles/promotion_base.css" rel="stylesheet" />
@@ -150,7 +150,8 @@ $(this).css('cursor', 'pointer');
 					<li> <asp:TextBox runat="server" ID="txtCpg1" Width="120px" placeholder="キャンペーンID"></asp:TextBox>
                         <asp:Label ID="lblCpg11" runat="server" Text=""></asp:Label>
                     </li>
-					<li><asp:TextBox ID="txtCpgURL1" runat="server" placeholder="キャンペーンURL"></asp:TextBox> 
+					<li>
+                        <asp:TextBox ID="txtCpgURL1" runat="server" placeholder="キャンペーンURL"></asp:TextBox> 
                         <asp:Label ID="lblCpgURL1" runat="server" Text=""></asp:Label>
                     </li>
 					<li> <asp:TextBox ID="txtMailMagazineEvent11" runat="server" Width="70px" ReadOnly="true"></asp:TextBox><asp:TextBox ID="txtMailMagazineEvent21" runat="server" Width="70px" ReadOnly="true"></asp:TextBox><asp:TextBox ID="txtMailMagazineEvent31" runat="server" Width="70px" ReadOnly="true"></asp:TextBox></li>
@@ -239,16 +240,19 @@ $(this).css('cursor', 'pointer');
 					<li><asp:TextBox ID="txtCpgURL8" runat="server" placeholder="キャンペーンURL"></asp:TextBox>
                         <asp:Label ID="lblCpgURL8" runat="server" Text=""></asp:Label>
                     </li>
-					<li><asp:TextBox ID="txtMailMagazineEvent18" runat="server" Width="70px" ReadOnly="true"></asp:TextBox><asp:TextBox ID="txtMailMagazineEvent28" runat="server" Width="70px" ReadOnly="true"></asp:TextBox><asp:TextBox ID="txtMailMagazineEvent38" runat="server" Width="70px" ReadOnly="true"></asp:TextBox></li>
+					<li><asp:TextBox ID="txtMailMagazineEvent18" runat="server" Width="70px" ReadOnly="true"></asp:TextBox><asp:TextBox ID="txtMailMagazineEvent28" runat="server" Width="70px" ReadOnly="true"></asp:TextBox>
+                        <asp:TextBox ID="txtMailMagazineEvent38" runat="server" Width="70px" ReadOnly="true"></asp:TextBox></li>
 					<li>
                         <asp:Label ID="lblCpg8" runat="server" Text=""></asp:Label>
                     </li>
 				</ul>
 				<ul>
-					<li> <asp:TextBox runat="server" ID="txtCpg9" Width="120px"  placeholder="キャンペーンID"></asp:TextBox>
+					<li> 
+                        <asp:TextBox runat="server" ID="txtCpg9" Width="120px"  placeholder="キャンペーンID"></asp:TextBox>
                         <asp:Label ID="lblCpg19" runat="server" Text=""></asp:Label>
                     </li>
-					<li><asp:TextBox ID="txtCpgURL9" runat="server" placeholder="キャンペーンURL"></asp:TextBox>
+					<li>
+                        <asp:TextBox ID="txtCpgURL9" runat="server" placeholder="キャンペーンURL"></asp:TextBox>
                         <asp:Label ID="lblCpgURL9" runat="server" Text=""></asp:Label>
          
                     </li>

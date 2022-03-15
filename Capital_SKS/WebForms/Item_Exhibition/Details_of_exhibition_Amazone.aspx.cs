@@ -6,9 +6,9 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 
-namespace ORS_RCM.WebForms.Item_Exhibition
+namespace Upside_Golf_RCM.WebForms.Item_Exhibition
 {
     public partial class Details_of_exhibition_Amazone_ : System.Web.UI.Page
     {

@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="SearchMenu.ascx.cs" Inherits="ORS_RCM.WebForms.Jisha.SearchMenu" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="SearchMenu.ascx.cs" Inherits="Upside_Golf_RCM.WebForms.Jisha.SearchMenu" %>
 
 <style type="text/css">
 .check

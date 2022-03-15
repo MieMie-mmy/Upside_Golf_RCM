@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="System_ErrorLog_View.aspx.cs" Inherits="ORS_RCM.WebForms.Item.System_ErrorLog_View" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="System_ErrorLog_View.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Item.System_ErrorLog_View" %>
 <%@ Register src="../../UCGrid_Paging.ascx" tagname="UCGrid_Paging" tagprefix="uc1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     <link href="../../Styles/database.css" rel="stylesheet" type="text/css" />

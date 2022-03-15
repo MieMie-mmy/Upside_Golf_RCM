@@ -1,5 +1,5 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="OrderDetail.aspx.cs" Inherits="ORS_RCM.WebForms.Item_Exhibition.OrderDetail" %>
-<%--<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="OrderDetail.aspx.cs" Inherits="ORS_RCM.WebForms.Item_Exhibition.OrderDetail" %>--%>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="OrderDetail.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Item_Exhibition.OrderDetail" %>
+<%--<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="OrderDetail.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Item_Exhibition.OrderDetail" %>--%>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 

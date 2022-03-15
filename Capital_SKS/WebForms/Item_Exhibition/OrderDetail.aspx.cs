@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace ORS_RCM.WebForms.Item_Exhibition
+namespace Upside_Golf_RCM.WebForms.Item_Exhibition
 {
     public partial class OrderDetail : System.Web.UI.Page
     {

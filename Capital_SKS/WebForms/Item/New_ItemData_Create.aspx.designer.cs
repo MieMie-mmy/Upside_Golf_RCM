@@ -73,6 +73,6 @@ namespace Capital_SKS.WebForms.Item {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ORS_RCM.UCGrid_Paging gp;
+        protected global::Upside_Golf_RCM.UCGrid_Paging gp;
     }
 }

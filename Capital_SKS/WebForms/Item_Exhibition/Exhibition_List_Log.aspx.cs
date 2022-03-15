@@ -6,8 +6,8 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_BL;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_BL;
+using Upside_Golf_RCM_Common;
 using System.Globalization;
 using System.Web.UI.HtmlControls;
 using System.Configuration;
@@ -19,9 +19,9 @@ using Excel;
 using System.Diagnostics;
 using Ionic.Zip;
 using ClosedXML.Excel;
-using ORS_RCM;
+using Upside_Golf_RCM;
 
-namespace ORS_RCM.WebForms.Item_Exhibition
+namespace Upside_Golf_RCM.WebForms.Item_Exhibition
 {
     public partial class Exhibition_List_Log : System.Web.UI.Page
     {

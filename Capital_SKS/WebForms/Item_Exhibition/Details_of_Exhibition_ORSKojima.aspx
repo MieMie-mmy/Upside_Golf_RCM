@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Details_of_Exhibition_ORSKojima.aspx.cs" Inherits="ORS_RCM.WebForms.Item_Exhibition.Details_of_Exhibition_ORSKojima" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Details_of_Exhibition_ORSKojima.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Item_Exhibition.Details_of_Exhibition_ORSKojima" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     <link href="../../Styles/base.css" rel="stylesheet" type="text/css" />
 	<link href="../../Styles/common.css" rel="stylesheet" type="text/css" />

@@ -75,9 +75,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CKSKS_DL\ORS_RCM_DL.csproj">
+    <ProjectReference Include="..\CKSKS_DL\Upside_Golf_DL.csproj">
       <Project>{a89707d1-0292-4a2d-b15d-eb97fceb6621}</Project>
-      <Name>ORS_RCM_DL</Name>
+      <Name>Upside_Golf_DL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

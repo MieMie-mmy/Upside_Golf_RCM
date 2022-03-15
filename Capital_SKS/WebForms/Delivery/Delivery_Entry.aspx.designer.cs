@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM.WebForms.Delivery {
+namespace Upside_Golf_RCM.WebForms.Delivery {
     
     
     public partial class Delivery_Entry {
@@ -127,6 +127,6 @@ namespace ORS_RCM.WebForms.Delivery {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ORS_RCM.UCGrid_Paging gp;
+        protected global::Upside_Golf_RCM.UCGrid_Paging gp;
     }
 }

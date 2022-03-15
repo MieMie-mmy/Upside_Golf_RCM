@@ -1,4 +1,4 @@
-﻿<%@ Page Title="商品管理システム＜オプション＞" Language="C#" AutoEventWireup="true" CodeBehind="Item_Option_Select1.aspx.cs" Inherits="ORS_RCM.WebForms.Item.Item_Option_Select1" %>
+﻿<%@ Page Title="商品管理システム＜オプション＞" Language="C#" AutoEventWireup="true" CodeBehind="Item_Option_Select1.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Item.Item_Option_Select1" %>
 
 <!DOCTYPE html>
 <html>

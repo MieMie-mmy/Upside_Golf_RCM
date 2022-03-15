@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM.WebForms.Item_Exhibition {
+namespace Upside_Golf_RCM.WebForms.Item_Exhibition {
     
     
     public partial class Exhibition_List_Log {
@@ -361,6 +361,6 @@ namespace ORS_RCM.WebForms.Item_Exhibition {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ORS_RCM.UCGrid_Paging gp;
+        protected global::Upside_Golf_RCM.UCGrid_Paging gp;
     }
 }

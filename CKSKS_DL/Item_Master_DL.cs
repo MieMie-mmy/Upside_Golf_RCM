@@ -14,11 +14,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_Common;
 using System.Data.SqlClient;
 using System.Data;
 
-namespace ORS_RCM_DL
+namespace Upside_Golf_RCM_DL
 {
     public class Item_Master_DL
     {

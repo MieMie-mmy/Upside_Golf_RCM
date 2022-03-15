@@ -1,4 +1,4 @@
-﻿<%@ Page Title="商品管理システム＜商品情報一覧（商品管理）＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Item_View2.aspx.cs" Inherits="ORS_RCM.Item_View2" %>
+﻿<%@ Page Title="商品管理システム＜商品情報一覧（商品管理）＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Item_View2.aspx.cs" Inherits="Upside_Golf_RCM.Item_View2" %>
 <%@ Register src="../../UCGrid_Paging.ascx" tagname="UCGrid_Paging" tagprefix="uc1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 
@@ -765,7 +765,7 @@ document.getElementById("<%=txtmanproductcode.ClientID%>").value = null;
                                      </ContentTemplate>
                             </asp:UpdatePanel>
                                    <%-- <div>
-                                        <asp:ObjectDataSource ID="ObjectDataSource" EnablePaging="true" SelectCountMethod="TotalRowCount" SelectMethod="SearchItem_View2_Data" TypeName="ORS_RCM_BL.Item_Information_BL"
+                                        <asp:ObjectDataSource ID="ObjectDataSource" EnablePaging="true" SelectCountMethod="TotalRowCount" SelectMethod="SearchItem_View2_Data" TypeName="Upside_Golf_RCM_BL.Item_Information_BL"
                                             StartRowIndexParameterName="startIndex" runat="server" OnSelecting="ObjectDataSource_Selecting" MaximumRowsParameterName="PageSize"></asp:ObjectDataSource>
                                         <asp:HiddenField runat="server" ID="hdfsearch" />
                                     </div>--%>

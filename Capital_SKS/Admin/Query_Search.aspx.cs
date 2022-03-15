@@ -9,7 +9,7 @@ using System.Data.SqlClient;
 using System.Data;
 using System.Configuration;
 
-namespace ORS_RCM.Admin
+namespace Upside_Golf_RCM.Admin
 {
     public partial class Query_Search : System.Web.UI.Page
     {

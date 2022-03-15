@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 using System.IO;
 using System.Configuration;
 
-namespace ORS_RCM.WebForms.Import
+namespace Upside_Golf_RCM.WebForms.Import
 {
     public partial class Import_Template_Detail : System.Web.UI.Page
     {

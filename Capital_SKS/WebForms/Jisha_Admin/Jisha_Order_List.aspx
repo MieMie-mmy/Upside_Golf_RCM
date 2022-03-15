@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Jisha_Admin_Master.Master" AutoEventWireup="true" CodeBehind="Jisha_Order_List.aspx.cs" Inherits="ORS_RCM.WebForms.Jisha.Jisha_Order_List" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Jisha_Admin_Master.Master" AutoEventWireup="true" CodeBehind="Jisha_Order_List.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Jisha.Jisha_Order_List" %>
 <%@ Register Src="~/UCGrid_Paging.ascx" TagPrefix="uc" TagName="UCGrid_Paging" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 	<link href="../../Styles/Jisha_base.css" rel="stylesheet" type="text/css" />

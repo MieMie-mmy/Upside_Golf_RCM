@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM.WebForms.Item_Exhibition {
+namespace Upside_Golf_RCM.WebForms.Item_Exhibition {
     
     
     public partial class Details_of_exhibition_Amazone_ {

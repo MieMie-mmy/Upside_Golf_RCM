@@ -1,4 +1,4 @@
-﻿<%@ Page Title="商品管理システム＜ヤフースペック値＞" Language="C#" AutoEventWireup="true" CodeBehind="Item_YahooSpecificValue.aspx.cs" Inherits="ORS_RCM.WebForms.Item.Item_PopUp" %>
+﻿<%@ Page Title="商品管理システム＜ヤフースペック値＞" Language="C#" AutoEventWireup="true" CodeBehind="Item_YahooSpecificValue.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Item.Item_PopUp" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 

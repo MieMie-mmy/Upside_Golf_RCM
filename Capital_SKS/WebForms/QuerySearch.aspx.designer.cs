@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM.WebForms {
+namespace Upside_Golf_RCM.WebForms {
     
     
     public partial class QuerySearch {

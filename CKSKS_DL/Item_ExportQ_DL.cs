@@ -16,9 +16,9 @@ using System.Linq;
 using System.Text;
 using System.Data.SqlClient;
 using System.Data;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_Common;
 
-namespace ORS_RCM_DL
+namespace Upside_Golf_RCM_DL
 {
     public class Item_ExportQ_DL
     {

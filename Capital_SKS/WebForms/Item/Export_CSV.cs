@@ -15,16 +15,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Configuration;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Data;
 using System.IO;
 using System.Text;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_Common;
 using Ionic.Zip;
 using System.Data.SqlClient;
 using System.Text.RegularExpressions;
 
-namespace ORS_RCM.WebForms.Item
+namespace Upside_Golf_RCM.WebForms.Item
 {
     public class Export_CSV:System.Web.UI.Page
     {
@@ -541,7 +541,7 @@ namespace ORS_RCM.WebForms.Item
         public void DeleteFilesFromDirectory()
         {
             String path = "~/Export_CSV/Image/";
-            //String path = @"C:/MyData/Projects/ORS_RCM/ORS_RCM/Export_CSV/";
+            //String path = @"C:/MyData/Projects/Upside_Golf_RCM/Upside_Golf_RCM/Export_CSV/";
 
             string[] files = Directory.GetFiles(Server.MapPath(path));
             foreach (string pathFile in files)

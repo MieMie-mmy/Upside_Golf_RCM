@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Sale_List_Screen.aspx.cs" Inherits="ORS_RCM.WebForms.Sale_List_Screen" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Sale_List_Screen.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Sale_List_Screen" %>
 
 <%@ Register src="../UCGrid_Paging.ascx" tagname="UCGrid_Paging" tagprefix="uc1" %>
 

@@ -17,7 +17,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
     public partial class Item_Image_View : System.Web.UI.Page
     {

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="商品管理システム＜出品期日待ち商品一覧＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Item_ExportQList.aspx.cs" Inherits="ORS_RCM.Item_ExportQList" %>
+﻿<%@ Page Title="商品管理システム＜出品期日待ち商品一覧＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Item_ExportQList.aspx.cs" Inherits="Upside_Golf_RCM.Item_ExportQList" %>
 <%@ Register src="../../UCGrid_Paging.ascx" tagname="UCGrid_Paging" tagprefix="uc1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     <link href="../../Styles/base.css" rel="stylesheet" type="text/css" />

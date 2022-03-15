@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Item_Category_Import.aspx.cs" Inherits="ORS_RCM.WebForms.Import.Item_Category_Import_New" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Item_Category_Import.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Import.Item_Category_Import_New" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 	<link href="../../Styles/base.css" rel="stylesheet" type="text/css" />
 	<link href="../../Styles/common.css" rel="stylesheet" type="text/css" />

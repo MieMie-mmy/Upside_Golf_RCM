@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Import_Item_Option_Log.aspx.cs" Inherits="ORS_RCM.WebForms.Import.Import_Item_Option_Log" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Import_Item_Option_Log.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Import.Import_Item_Option_Log" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 	<link href="../../Styles/common.css" rel="stylesheet" type="text/css" />
 	<link href="../../Styles/manager-style.css" rel="stylesheet" type="text/css" />

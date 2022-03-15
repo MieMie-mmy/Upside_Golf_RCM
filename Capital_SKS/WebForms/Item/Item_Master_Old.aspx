@@ -1,4 +1,4 @@
-﻿<%@ Page Title="商品情報" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Item_Master_Old.aspx.cs" Inherits="ORS_RCM.Item" %>
+﻿<%@ Page Title="商品情報" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Item_Master_Old.aspx.cs" Inherits="Upside_Golf_RCM.Item" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     <%--    <script type="text/javascript" src="../../Scripts/jquery.Item_Master.js"></script>--%>
 <link href="../../Styles/base.css" rel="stylesheet" type="text/css" />

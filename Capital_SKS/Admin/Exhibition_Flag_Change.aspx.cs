@@ -6,10 +6,10 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Collections;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Globalization;
 
-namespace ORS_RCM.Admin
+namespace Upside_Golf_RCM.Admin
 {
     public partial class Exhibition_Flag_Change : System.Web.UI.Page
     {

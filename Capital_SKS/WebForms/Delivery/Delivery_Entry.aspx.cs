@@ -5,9 +5,9 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 
-namespace ORS_RCM.WebForms.Delivery
+namespace Upside_Golf_RCM.WebForms.Delivery
 {
     public partial class Delivery_Entry : System.Web.UI.Page
     {

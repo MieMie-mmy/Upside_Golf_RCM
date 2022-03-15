@@ -114,3 +114,20 @@ D:\ORS_Data\ORS_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\obj\x86\Debug\Rakuten
 D:\ORS_Data\ORS_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\obj\x86\Debug\Rakuten_CSV_Upload_Console.csproj.CopyComplete
 D:\ORS_Data\ORS_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\obj\x86\Debug\Rakuten_RacketPlaza_CSV_Upload_Console.exe
 D:\ORS_Data\ORS_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\obj\x86\Debug\Rakuten_RacketPlaza_CSV_Upload_Console.pdb
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\bin\Debug\Rakuten_RacketPlaza_CSV_Upload_Console.exe.config
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\bin\Debug\Rakuten_RacketPlaza_CSV_Upload_Console.exe
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\bin\Debug\Rakuten_RacketPlaza_CSV_Upload_Console.pdb
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\bin\Debug\ClosedXML.dll
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\bin\Debug\DocumentFormat.OpenXml.dll
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\bin\Debug\Excel.dll
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\bin\Debug\Ftp.dll
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\bin\Debug\icsharpcode.sharpziplib.dll
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\bin\Debug\ImapLibrary.dll
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\bin\Debug\ionic.zip.dll
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\bin\Debug\Newtonsoft.Json.dll
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\bin\Debug\OpenPop.dll
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\obj\x86\Debug\Rakuten_CSV_Upload_Console.csprojAssemblyReference.cache
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\obj\x86\Debug\Rakuten_CSV_Upload_Console.csproj.CoreCompileInputs.cache
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\obj\x86\Debug\Rakuten_CSV_Upload_Console.csproj.CopyComplete
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\obj\x86\Debug\Rakuten_RacketPlaza_CSV_Upload_Console.exe
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Rakuten_RacketPlaza_CSV_Upload_Console\obj\x86\Debug\Rakuten_RacketPlaza_CSV_Upload_Console.pdb

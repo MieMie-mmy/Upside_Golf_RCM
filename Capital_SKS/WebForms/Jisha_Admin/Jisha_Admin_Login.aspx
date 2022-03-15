@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="" AutoEventWireup="true" CodeBehind="Jisha_Admin_Login.aspx.cs" Inherits="ORS_RCM.WebForms.Jisha_Admin.Jisha_Admin_Login" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="" AutoEventWireup="true" CodeBehind="Jisha_Admin_Login.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Jisha_Admin.Jisha_Admin_Login" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" ErrorPage="~/CustomErrorPage.aspx" EnableSessionState="True" CodeBehind="CustomErrorPage.aspx.cs" Inherits="ORS_RCM.CustomErrorPage" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" ErrorPage="~/CustomErrorPage.aspx" EnableSessionState="True" CodeBehind="CustomErrorPage.aspx.cs" Inherits="Upside_Golf_RCM.CustomErrorPage" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">   
     <style type="text/css">

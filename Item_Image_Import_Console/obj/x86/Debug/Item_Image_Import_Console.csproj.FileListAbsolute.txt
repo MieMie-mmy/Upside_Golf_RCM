@@ -42,3 +42,10 @@ D:\ORS_Data\ORS_RCM\Item_Image_Import_Console\bin\Debug\Item_Image_Import_Consol
 D:\ORS_Data\ORS_RCM\Item_Image_Import_Console\obj\x86\Debug\Item_Image_Import_Console.csproj.CoreCompileInputs.cache
 D:\ORS_Data\ORS_RCM\Item_Image_Import_Console\obj\x86\Debug\Item_Image_Import_Console.exe
 D:\ORS_Data\ORS_RCM\Item_Image_Import_Console\obj\x86\Debug\Item_Image_Import_Console.pdb
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Item_Image_Import_Console\bin\Debug\Item_Image_Import_Console.exe.config
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Item_Image_Import_Console\bin\Debug\Item_Image_Import_Console.exe
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Item_Image_Import_Console\bin\Debug\Item_Image_Import_Console.pdb
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Item_Image_Import_Console\obj\x86\Debug\Item_Image_Import_Console.csprojAssemblyReference.cache
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Item_Image_Import_Console\obj\x86\Debug\Item_Image_Import_Console.csproj.CoreCompileInputs.cache
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Item_Image_Import_Console\obj\x86\Debug\Item_Image_Import_Console.exe
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\Item_Image_Import_Console\obj\x86\Debug\Item_Image_Import_Console.pdb

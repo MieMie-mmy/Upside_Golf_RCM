@@ -18,11 +18,11 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_Common;
-using ORS_RCM_BL;
-using ORS_RCM;
+using Upside_Golf_RCM_Common;
+using Upside_Golf_RCM_BL;
+using Upside_Golf_RCM;
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
     public partial class Shop_View : System.Web.UI.Page
     {

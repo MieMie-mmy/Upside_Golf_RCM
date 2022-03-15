@@ -6,7 +6,7 @@ using System.Data;
 using System.Data.SqlClient;
 
 
-namespace ORS_RCM_Common
+namespace Upside_Golf_RCM_Common
 {
     public class Mall_Setting_Ponpare_Default_Entity
     {

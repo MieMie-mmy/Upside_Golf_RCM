@@ -23,12 +23,12 @@ using Microsoft.VisualBasic.FileIO;
 using System.IO;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Configuration;
 using Limilabs.FTP.Client;
-using ORS_RCM.WebForms.Import;
+using Upside_Golf_RCM.WebForms.Import;
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
 	public partial class Item_Import_Interface : System.Web.UI.Page
 	{

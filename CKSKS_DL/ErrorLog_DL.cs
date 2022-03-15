@@ -16,7 +16,7 @@ Updated Date         :
     -
 */
 
-namespace ORS_RCM_DL
+namespace Upside_Golf_RCM_DL
 {
     using System;
     using System.Collections.Generic;

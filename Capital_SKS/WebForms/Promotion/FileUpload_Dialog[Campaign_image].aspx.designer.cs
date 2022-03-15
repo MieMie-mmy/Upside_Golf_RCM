@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM.WebForms.Promotion {
+namespace Upside_Golf_RCM.WebForms.Promotion {
     
     
     public partial class FileUpload_Dialog_Campaign_image_ {

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="商品管理システム＜ユーザ一覧＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Exhibition_Error.aspx.cs" Inherits="ORS_RCM.WebForms.Item_Exhibition.Exhibition_Error" %>
+﻿<%@ Page Title="商品管理システム＜ユーザ一覧＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Exhibition_Error.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Item_Exhibition.Exhibition_Error" %>
 <%@ Register Src="~/UCGrid_Paging.ascx" TagPrefix="uc" TagName="UCGrid_Paging" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 	<link href="../../Styles/base.css" rel="stylesheet" type="text/css" />

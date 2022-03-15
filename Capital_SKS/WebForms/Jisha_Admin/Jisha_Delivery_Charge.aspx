@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Jisha_Admin_Master.Master" AutoEventWireup="true" CodeBehind="Jisha_Delivery_Charge.aspx.cs" Inherits="ORS_RCM.WebForms.Jisha.Jisha_Delivery_Charge" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Jisha_Admin_Master.Master" AutoEventWireup="true" CodeBehind="Jisha_Delivery_Charge.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Jisha.Jisha_Delivery_Charge" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 	<link href="../../Styles/Jisha_base.css" rel="stylesheet" type="text/css" />
 		<link href="../../Styles/Jisha_common.css" rel="stylesheet" type="text/css" />

@@ -1,99 +1,14 @@
-C:\My Data\Projects\ORS_RCM\ORS_RCM\API_Check\bin\Debug\API_Check.exe.config
-C:\My Data\Projects\ORS_RCM\ORS_RCM\API_Check\bin\Debug\API_Check.exe
-C:\My Data\Projects\ORS_RCM\ORS_RCM\API_Check\bin\Debug\API_Check.pdb
-C:\My Data\Projects\ORS_RCM\ORS_RCM\API_Check\bin\Debug\ORS_RCM_BL.dll
-C:\My Data\Projects\ORS_RCM\ORS_RCM\API_Check\bin\Debug\ORS_RCM_Common.dll
-C:\My Data\Projects\ORS_RCM\ORS_RCM\API_Check\bin\Debug\ORS_RCM_DL.dll
-C:\My Data\Projects\ORS_RCM\ORS_RCM\API_Check\bin\Debug\ORS_RCM_BL.pdb
-C:\My Data\Projects\ORS_RCM\ORS_RCM\API_Check\bin\Debug\ORS_RCM_Common.pdb
-C:\My Data\Projects\ORS_RCM\ORS_RCM\API_Check\bin\Debug\ORS_RCM_DL.pdb
-C:\My Data\Projects\ORS_RCM\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csprojResolveAssemblyReference.cache
-C:\My Data\Projects\ORS_RCM\ORS_RCM\API_Check\obj\x86\Debug\API_Check.exe
-C:\My Data\Projects\ORS_RCM\ORS_RCM\API_Check\obj\x86\Debug\API_Check.pdb
-E:\ORS\ORS_RCM_GIT\ORS_RCM\API_Check\bin\Debug\API_Check.exe.config
-E:\ORS\ORS_RCM_GIT\ORS_RCM\API_Check\bin\Debug\API_Check.exe
-E:\ORS\ORS_RCM_GIT\ORS_RCM\API_Check\bin\Debug\API_Check.pdb
-E:\ORS\ORS_RCM_GIT\ORS_RCM\API_Check\bin\Debug\ORS_RCM_BL.dll
-E:\ORS\ORS_RCM_GIT\ORS_RCM\API_Check\bin\Debug\ORS_RCM_Common.dll
-E:\ORS\ORS_RCM_GIT\ORS_RCM\API_Check\bin\Debug\ORS_RCM_DL.dll
-E:\ORS\ORS_RCM_GIT\ORS_RCM\API_Check\bin\Debug\ORS_RCM_BL.pdb
-E:\ORS\ORS_RCM_GIT\ORS_RCM\API_Check\bin\Debug\ORS_RCM_Common.pdb
-E:\ORS\ORS_RCM_GIT\ORS_RCM\API_Check\bin\Debug\ORS_RCM_DL.pdb
-E:\ORS\ORS_RCM_GIT\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csprojAssemblyReference.cache
-E:\ORS\ORS_RCM_GIT\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csproj.CoreCompileInputs.cache
-E:\ORS\ORS_RCM_GIT\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csproj.CopyComplete
-E:\ORS\ORS_RCM_GIT\ORS_RCM\API_Check\obj\x86\Debug\API_Check.exe
-E:\ORS\ORS_RCM_GIT\ORS_RCM\API_Check\obj\x86\Debug\API_Check.pdb
-D:\C# Projects\ORS_RCM\API_Check\bin\Debug\API_Check.exe.config
-D:\C# Projects\ORS_RCM\API_Check\bin\Debug\API_Check.exe
-D:\C# Projects\ORS_RCM\API_Check\bin\Debug\API_Check.pdb
-D:\C# Projects\ORS_RCM\API_Check\bin\Debug\ORS_RCM_BL.dll
-D:\C# Projects\ORS_RCM\API_Check\bin\Debug\ORS_RCM_Common.dll
-D:\C# Projects\ORS_RCM\API_Check\bin\Debug\ORS_RCM_DL.dll
-D:\C# Projects\ORS_RCM\API_Check\bin\Debug\ORS_RCM_BL.pdb
-D:\C# Projects\ORS_RCM\API_Check\bin\Debug\ORS_RCM_Common.pdb
-D:\C# Projects\ORS_RCM\API_Check\bin\Debug\ORS_RCM_DL.pdb
-D:\C# Projects\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csprojAssemblyReference.cache
-D:\C# Projects\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csproj.CoreCompileInputs.cache
-D:\C# Projects\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csproj.CopyComplete
-D:\C# Projects\ORS_RCM\API_Check\obj\x86\Debug\API_Check.exe
-D:\C# Projects\ORS_RCM\API_Check\obj\x86\Debug\API_Check.pdb
-D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Check\bin\Debug\API_Check.exe.config
-D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Check\bin\Debug\API_Check.exe
-D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Check\bin\Debug\API_Check.pdb
-D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Check\bin\Debug\ORS_RCM_BL.dll
-D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Check\bin\Debug\ORS_RCM_Common.dll
-D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Check\bin\Debug\ORS_RCM_DL.dll
-D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Check\bin\Debug\ORS_RCM_BL.pdb
-D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Check\bin\Debug\ORS_RCM_Common.pdb
-D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Check\bin\Debug\ORS_RCM_DL.pdb
-D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csprojAssemblyReference.cache
-D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csproj.CoreCompileInputs.cache
-D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csproj.CopyComplete
-D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Check\obj\x86\Debug\API_Check.exe
-D:\ORS_Data\ORS_RCM_Git_New\ORS_RCM\API_Check\obj\x86\Debug\API_Check.pdb
-D:\ORS_Data\ORS_RCM\ORS_RCM\API_Check\bin\Debug\API_Check.exe.config
-D:\ORS_Data\ORS_RCM\ORS_RCM\API_Check\bin\Debug\API_Check.exe
-D:\ORS_Data\ORS_RCM\ORS_RCM\API_Check\bin\Debug\API_Check.pdb
-D:\ORS_Data\ORS_RCM\ORS_RCM\API_Check\bin\Debug\ORS_RCM_BL.dll
-D:\ORS_Data\ORS_RCM\ORS_RCM\API_Check\bin\Debug\ORS_RCM_Common.dll
-D:\ORS_Data\ORS_RCM\ORS_RCM\API_Check\bin\Debug\ORS_RCM_DL.dll
-D:\ORS_Data\ORS_RCM\ORS_RCM\API_Check\bin\Debug\ORS_RCM_BL.pdb
-D:\ORS_Data\ORS_RCM\ORS_RCM\API_Check\bin\Debug\ORS_RCM_Common.pdb
-D:\ORS_Data\ORS_RCM\ORS_RCM\API_Check\bin\Debug\ORS_RCM_DL.pdb
-D:\ORS_Data\ORS_RCM\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csprojAssemblyReference.cache
-D:\ORS_Data\ORS_RCM\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csproj.CoreCompileInputs.cache
-D:\ORS_Data\ORS_RCM\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csproj.CopyComplete
-D:\ORS_Data\ORS_RCM\ORS_RCM\API_Check\obj\x86\Debug\API_Check.exe
-D:\ORS_Data\ORS_RCM\ORS_RCM\API_Check\obj\x86\Debug\API_Check.pdb
-<<<<<<< HEAD
-D:\MyProjects\ORS_RCM\API_Check\bin\Debug\API_Check.exe.config
-D:\MyProjects\ORS_RCM\API_Check\bin\Debug\API_Check.exe
-D:\MyProjects\ORS_RCM\API_Check\bin\Debug\API_Check.pdb
-D:\MyProjects\ORS_RCM\API_Check\bin\Debug\ORS_RCM_BL.dll
-D:\MyProjects\ORS_RCM\API_Check\bin\Debug\ORS_RCM_Common.dll
-D:\MyProjects\ORS_RCM\API_Check\bin\Debug\ORS_RCM_DL.dll
-D:\MyProjects\ORS_RCM\API_Check\bin\Debug\ORS_RCM_BL.pdb
-D:\MyProjects\ORS_RCM\API_Check\bin\Debug\ORS_RCM_Common.pdb
-D:\MyProjects\ORS_RCM\API_Check\bin\Debug\ORS_RCM_DL.pdb
-D:\MyProjects\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csproj.AssemblyReference.cache
-D:\MyProjects\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csproj.CoreCompileInputs.cache
-D:\MyProjects\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csproj.CopyComplete
-D:\MyProjects\ORS_RCM\API_Check\obj\x86\Debug\API_Check.exe
-D:\MyProjects\ORS_RCM\API_Check\obj\x86\Debug\API_Check.pdb
-D:\ORS_Data\ORS_RCM\API_Check\bin\Debug\API_Check.exe.config
-D:\ORS_Data\ORS_RCM\API_Check\bin\Debug\API_Check.exe
-D:\ORS_Data\ORS_RCM\API_Check\bin\Debug\API_Check.pdb
-D:\ORS_Data\ORS_RCM\API_Check\bin\Debug\ORS_RCM_BL.dll
-D:\ORS_Data\ORS_RCM\API_Check\bin\Debug\ORS_RCM_Common.dll
-D:\ORS_Data\ORS_RCM\API_Check\bin\Debug\ORS_RCM_DL.dll
-D:\ORS_Data\ORS_RCM\API_Check\bin\Debug\ORS_RCM_BL.pdb
-D:\ORS_Data\ORS_RCM\API_Check\bin\Debug\ORS_RCM_Common.pdb
-D:\ORS_Data\ORS_RCM\API_Check\bin\Debug\ORS_RCM_DL.pdb
-D:\ORS_Data\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csproj.AssemblyReference.cache
-D:\ORS_Data\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csproj.CoreCompileInputs.cache
-D:\ORS_Data\ORS_RCM\API_Check\obj\x86\Debug\API_Check.csproj.CopyComplete
-D:\ORS_Data\ORS_RCM\API_Check\obj\x86\Debug\API_Check.exe
-D:\ORS_Data\ORS_RCM\API_Check\obj\x86\Debug\API_Check.pdb
-=======
->>>>>>> 4b22c521eefc8c67ff1384285a10c134fb06220b
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\API_Check\bin\Debug\API_Check.exe.config
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\API_Check\bin\Debug\API_Check.exe
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\API_Check\bin\Debug\API_Check.pdb
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\API_Check\bin\Debug\ORS_RCM_BL.dll
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\API_Check\bin\Debug\ORS_RCM_Common.dll
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\API_Check\bin\Debug\ORS_RCM_DL.dll
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\API_Check\bin\Debug\ORS_RCM_BL.pdb
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\API_Check\bin\Debug\ORS_RCM_Common.pdb
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\API_Check\bin\Debug\ORS_RCM_DL.pdb
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\API_Check\obj\x86\Debug\API_Check.csprojAssemblyReference.cache
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\API_Check\obj\x86\Debug\API_Check.csproj.CoreCompileInputs.cache
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\API_Check\obj\x86\Debug\API_Check.csproj.CopyComplete
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\API_Check\obj\x86\Debug\API_Check.exe
+C:\My Data\Projects\Upside Golf\Upside_Golf_RCM\Upside_Golf_RCM\API_Check\obj\x86\Debug\API_Check.pdb

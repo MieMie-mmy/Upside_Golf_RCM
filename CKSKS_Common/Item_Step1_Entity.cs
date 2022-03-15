@@ -4,7 +4,7 @@
 // </copyright>
 // -----------------------------------------------------------------------
 
-namespace ORS_RCM_Common
+namespace Upside_Golf_RCM_Common
 {
     using System;
     using System.Collections.Generic;

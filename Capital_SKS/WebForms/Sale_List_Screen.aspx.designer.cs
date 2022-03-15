@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM.WebForms {
+namespace Upside_Golf_RCM.WebForms {
     
     
     public partial class Sale_List_Screen {
@@ -145,6 +145,6 @@ namespace ORS_RCM.WebForms {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::ORS_RCM.UCGrid_Paging gp2;
+        protected global::Upside_Golf_RCM.UCGrid_Paging gp2;
     }
 }

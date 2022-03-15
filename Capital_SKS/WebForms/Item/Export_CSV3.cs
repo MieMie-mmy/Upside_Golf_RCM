@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Data;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.IO;
 using System.Text;
 using System.Configuration;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_Common;
 using System.Text.RegularExpressions;
 
-namespace ORS_RCM.WebForms.Item
+namespace Upside_Golf_RCM.WebForms.Item
 {
     //to replace SmartTemplate in Sale Description,PC Description field
     public class Export_CSV3
@@ -1233,7 +1233,7 @@ namespace ORS_RCM.WebForms.Item
 
         public DataTable GetTemplateDescription(string[] templateID, int shopID)
         {
-            shopTemplate = new ORS_RCM_BL.Shop_Template_BL();
+            shopTemplate = new Upside_Golf_RCM_BL.Shop_Template_BL();
             DataTable dt = shopTemplate.GetTemplateDescription(templateID, shopID);
             if (dt.Rows.Count > 0 && dt != null)
             {

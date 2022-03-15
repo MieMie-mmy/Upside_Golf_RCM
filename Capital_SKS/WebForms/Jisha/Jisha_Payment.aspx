@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/JishaMaster.Master" AutoEventWireup="true" CodeBehind="Jisha_Payment.aspx.cs" Inherits="ORS_RCM.WebForms.Jisha.Jisha_Payment" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/JishaMaster.Master" AutoEventWireup="true" CodeBehind="Jisha_Payment.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Jisha.Jisha_Payment" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 <link href="~/Styles/styles.css" rel="stylesheet" type="text/css" />
 </asp:Content>

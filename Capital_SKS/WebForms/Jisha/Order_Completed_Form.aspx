@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/JishaMaster.Master" AutoEventWireup="true" CodeBehind="Order_Completed_Form.aspx.cs" Inherits="ORS_RCM.WebForms.Jisha.Order_Completed_Form" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/JishaMaster.Master" AutoEventWireup="true" CodeBehind="Order_Completed_Form.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Jisha.Order_Completed_Form" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     <style type="text/css">
        

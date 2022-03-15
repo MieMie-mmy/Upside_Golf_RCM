@@ -58,13 +58,13 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CKSKS_BL\ORS_RCM_BL.csproj">
+    <ProjectReference Include="..\CKSKS_BL\Upside_Golf_BL.csproj">
       <Project>{F9557C2F-325E-405D-982C-DDBC893C3327}</Project>
-      <Name>ORS_RCM_BL</Name>
+      <Name>Upside_Golf_BL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CKSKS_Common\ORS_RCM_Common.csproj">
+    <ProjectReference Include="..\CKSKS_Common\Upside_Golf_Common.csproj">
       <Project>{DEAE143F-C8A5-4A16-8CD8-061FDA6DDBC8}</Project>
-      <Name>ORS_RCM_Common</Name>
+      <Name>Upside_Golf_Common</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

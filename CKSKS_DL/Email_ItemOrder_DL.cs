@@ -15,10 +15,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Data;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_Common;
 using System.Data.SqlClient;
 
-namespace ORS_RCM_DL
+namespace Upside_Golf_RCM_DL
 {
     public class Email_ItemOrder_DL
     {

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 
 namespace API_R_Painttool
 {
@@ -1512,7 +1512,7 @@ namespace API_R_Painttool
 
         public DataTable GetTemplateDescription(string[] templateID, int shopID)
         {
-            shopTemplate = new ORS_RCM_BL.Shop_Template_BL();
+            shopTemplate = new Upside_Golf_RCM_BL.Shop_Template_BL();
             DataTable dt = shopTemplate.GetTemplateDescription(templateID, shopID);
             if (dt.Rows.Count > 0 && dt != null)
             {

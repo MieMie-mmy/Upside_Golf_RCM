@@ -16,8 +16,8 @@ using System.Linq;
 using System.Text;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_Common;
-namespace ORS_RCM_DL
+using Upside_Golf_RCM_Common;
+namespace Upside_Golf_RCM_DL
 {
     public class Details_Ponpare_Exhibition_DL
     {

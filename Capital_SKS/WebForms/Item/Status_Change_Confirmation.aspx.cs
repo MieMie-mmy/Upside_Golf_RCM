@@ -6,13 +6,13 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_BL;
-using ORS_RCM.WebForms.Item;
+using Upside_Golf_RCM_BL;
+using Upside_Golf_RCM.WebForms.Item;
 using System.IO;
 using System.Configuration;
 using System.Web.UI.HtmlControls;
 
-namespace ORS_RCM.WebForms.Item
+namespace Upside_Golf_RCM.WebForms.Item
 {
     public partial class Status_Change_Confirmation : System.Web.UI.Page
     {

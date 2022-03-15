@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Item_Master.aspx.cs" Inherits="ORS_RCM.WebForms.Item.Item_Master_Edit1" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Item_Master.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Item.Item_Master_Edit1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />

@@ -9,7 +9,7 @@ using System.Data.SqlClient;
 using System.Data;
 using System.Web.SessionState;
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
     public partial class CustomErrorPage : System.Web.UI.Page
     {

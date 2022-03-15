@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" MasterPageFile="~/Site.Master"  AutoEventWireup="true" CodeBehind="Item_SKU_Setting_Confirm.aspx.cs" Inherits="ORS_RCM.WebForms.Delivery.Item_SKU_Setting_Confirm" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/Site.Master"  AutoEventWireup="true" CodeBehind="Item_SKU_Setting_Confirm.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Delivery.Item_SKU_Setting_Confirm" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 	<link href="../../Styles/base.css" rel="stylesheet" type="text/css" />

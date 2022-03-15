@@ -14,7 +14,7 @@ using System.Text.RegularExpressions;
 using System.IO;
 using System.Text;
 
-namespace ORS_RCM.WebForms
+namespace Upside_Golf_RCM.WebForms
 {
     public partial class MallData_Import : System.Web.UI.Page
     {

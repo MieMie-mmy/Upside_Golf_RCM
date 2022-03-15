@@ -7,9 +7,9 @@ using System.Web.UI.WebControls;
 using System.IO;
 using System.Data;
 using System.Transactions;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 
-namespace ORS_RCM.WebForms.Import
+namespace Upside_Golf_RCM.WebForms.Import
 {
     public partial class Import_RakutenImage_Setting : System.Web.UI.Page
     {

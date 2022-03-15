@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 
 
-namespace ORS_RCM_Common
+namespace Upside_Golf_RCM_Common
 {
    public class Shop_Entity
     {

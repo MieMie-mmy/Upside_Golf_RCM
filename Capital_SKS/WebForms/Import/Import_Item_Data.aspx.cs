@@ -34,11 +34,11 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Transactions;
 using System.Text;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using Microsoft.VisualBasic.FileIO;
 using System.Text.RegularExpressions;
 
-namespace ORS_RCM.WebForms.Import
+namespace Upside_Golf_RCM.WebForms.Import
 {
     public partial class Import_Item_Data : System.Web.UI.Page
     {

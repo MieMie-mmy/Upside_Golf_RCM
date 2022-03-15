@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="QuerySearch.aspx.cs" Inherits="ORS_RCM.WebForms.QuerySearch" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="QuerySearch.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.QuerySearch" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 

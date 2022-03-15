@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_DL;
+using Upside_Golf_RCM_DL;
 using System.IO;
 using System.Transactions;
 
-namespace ORS_RCM_BL
+namespace Upside_Golf_RCM_BL
 {
     //-----------------------------------------------------------------------------------------------------
     public class Import_Shop_ItemBL

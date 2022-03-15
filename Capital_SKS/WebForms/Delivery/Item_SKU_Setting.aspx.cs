@@ -1,5 +1,5 @@
 ﻿
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -14,7 +14,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace ORS_RCM.WebForms.Delivery
+namespace Upside_Golf_RCM.WebForms.Delivery
 {
     public partial class Item_SKU_Setting : System.Web.UI.Page
     {

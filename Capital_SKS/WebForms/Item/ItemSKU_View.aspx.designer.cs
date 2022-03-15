@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ORS_RCM.WebForms.Item {
+namespace Upside_Golf_RCM.WebForms.Item {
     
     
     public partial class ItemSKU_View {

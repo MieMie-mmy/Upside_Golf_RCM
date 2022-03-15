@@ -20,14 +20,14 @@ using System.Data;
 using System.Data.SqlClient;
 using System.IO;
 using System.Globalization;
-using ORS_RCM_BL;
-using ORS_RCM_Common;
+using Upside_Golf_RCM_BL;
+using Upside_Golf_RCM_Common;
 using System.Configuration;
 using System.Text;
 using System.Net;
 using System.Collections;
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
     public partial class Mall_Category : System.Web.UI.Page
     {

@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
     public partial class Jisha_Admin_Master : System.Web.UI.MasterPage
     {

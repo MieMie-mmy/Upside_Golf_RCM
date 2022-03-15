@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Mall_Setting_Rakhutan_Fixed.aspx.cs" Inherits="ORS_RCM.Mall_Setting_Rakhutan_Fixed" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Mall_Setting_Rakhutan_Fixed.aspx.cs" Inherits="Upside_Golf_RCM.Mall_Setting_Rakhutan_Fixed" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     <%--<asp:RadioButtonList ID="rdorewiewtext" runat="server" 
                                                                                                                                      RepeatDirection="Horizontal" BorderStyle="None" >

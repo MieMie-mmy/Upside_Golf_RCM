@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Item(Master)_Preview.aspx.cs" Inherits="ORS_RCM.WebForms.Item.Item_Master__Preview" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Item(Master)_Preview.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Item.Item_Master__Preview" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 

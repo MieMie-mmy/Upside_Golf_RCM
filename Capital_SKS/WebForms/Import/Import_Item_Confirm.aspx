@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Import_Item_Confirm.aspx.cs" Inherits="ORS_RCM.WebForms.Import.Import_Item_Confirm" MaintainScrollPositionOnPostback="false"%>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Import_Item_Confirm.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Import.Import_Item_Confirm" MaintainScrollPositionOnPostback="false"%>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 	<link href="../../Styles/base.css" rel="stylesheet" type="text/css" />

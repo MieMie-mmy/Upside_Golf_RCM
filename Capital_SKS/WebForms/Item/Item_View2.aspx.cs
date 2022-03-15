@@ -14,7 +14,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
 using System.Data.SqlClient;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Collections;
 using System.Configuration;
 using System.Text;
@@ -22,15 +22,15 @@ using System.IO;
 using System.Globalization;
 using System.Net;
 using System.Drawing;
-using ORS_RCM.WebForms.Item;
-using ORS_RCM_Common;
+using Upside_Golf_RCM.WebForms.Item;
+using Upside_Golf_RCM_Common;
 using System.Text.RegularExpressions;
 using System.Web.UI.HtmlControls;
 using System.Web.UI.WebControls.WebParts;
 using ClosedXML.Excel;
 using Newtonsoft.Json;
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
     public partial class Item_View2 : System.Web.UI.Page
     {

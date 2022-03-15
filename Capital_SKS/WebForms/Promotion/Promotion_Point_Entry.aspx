@@ -1,4 +1,4 @@
-﻿<%@ Page Title="商品管理システム＜ポイント設定＆検索＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Promotion_Point_Entry.aspx.cs" Inherits="ORS_RCM.WebForms.Promotion.Promotion_Point_Entry" %>
+﻿<%@ Page Title="商品管理システム＜ポイント設定＆検索＞" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Promotion_Point_Entry.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Promotion.Promotion_Point_Entry" %>
 <%@ Register src="../../UCGrid_Paging.ascx" tagname="UCGrid_Paging" tagprefix="uc1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js?ver=1.8.3" type="text/jscript"></script>

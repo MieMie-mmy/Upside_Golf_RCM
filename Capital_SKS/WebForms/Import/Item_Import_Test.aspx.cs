@@ -22,12 +22,12 @@ using System.Web.UI;
 using System.IO;
 using System.Web.UI.WebControls;
 using System.Data;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Transactions;
 using System.Data.SqlClient;
 using System.Configuration;
 
-namespace ORS_RCM.WebForms.Import
+namespace Upside_Golf_RCM.WebForms.Import
 {
     public partial class Item_Import_Test : System.Web.UI.Page
     {

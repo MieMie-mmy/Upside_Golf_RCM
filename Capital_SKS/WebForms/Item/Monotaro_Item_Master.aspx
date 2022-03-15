@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Monotaro_Item_Master.aspx.cs" Inherits="ORS_RCM.WebForms.Item.Monotaro_Item_Master" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Monotaro_Item_Master.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Item.Monotaro_Item_Master" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
    <link rel="stylesheet" href="../../Styles/tab-style.css" />
     <link rel="stylesheet" href="../../Styles/base.css"/>

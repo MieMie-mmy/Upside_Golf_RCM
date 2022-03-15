@@ -10,13 +10,13 @@ using System.Configuration;
 using System.IO;
 using System.Collections;
 
-namespace ORS_RCM.WebForms.Import
+namespace Upside_Golf_RCM.WebForms.Import
 {
     public partial class CopyImage : System.Web.UI.Page
     {
         //String conn = ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
 
-        string sourceimg = "C:/MyData/Software_Dev/Project_Source/ORS_RCM/Item_Image/";
+        string sourceimg = "C:/MyData/Software_Dev/Project_Source/Upside_Golf_RCM/Item_Image/";
         string desimg = "C:/Ponpare_Image/";
         string txtPath = "C:/MyData/temp.txt";
 

@@ -17,7 +17,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Data;
-using ORS_RCM_BL;
+using Upside_Golf_RCM_BL;
 using System.Text;
 using System.Transactions;
 using System.Configuration;
@@ -26,7 +26,7 @@ using System.Data.OleDb;
 using System.Runtime.InteropServices;
 using System.Data.SqlClient;
 
-namespace ORS_RCM.WebForms.Import
+namespace Upside_Golf_RCM.WebForms.Import
 {
     public partial class SmartTemplate_Import_Confirm : System.Web.UI.Page
     {

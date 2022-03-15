@@ -23,7 +23,7 @@ using Microsoft.VisualBasic.FileIO;
 using System.Configuration;
 using System.Data.OleDb;
 
-namespace ORS_RCM
+namespace Upside_Golf_RCM
 {
     public class GlobalUI
     {

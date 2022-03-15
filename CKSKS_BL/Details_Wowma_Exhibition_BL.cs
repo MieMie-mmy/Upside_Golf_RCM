@@ -1,11 +1,11 @@
-﻿using ORS_RCM_DL;
+﻿using Upside_Golf_RCM_DL;
 using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 using System.Text;
 
-namespace ORS_RCM_BL
+namespace Upside_Golf_RCM_BL
 {
     public class Details_Wowma_Exhibition_BL
     {

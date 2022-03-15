@@ -12,7 +12,7 @@ using System.Text;
 using System.Web.Script.Serialization;
 using System.Transactions;
 
-namespace ORS_RCM.WebForms.Import
+namespace Upside_Golf_RCM.WebForms.Import
 {
     /// <summary>
     /// Summary description for Quantity_Import

@@ -7,7 +7,7 @@ using System.Data.SqlClient;
 
 using System.Data.Common;
 
-namespace ORS_RCM_DL
+namespace Upside_Golf_RCM_DL
 {
     public class Log_Exhibition_DL
     {

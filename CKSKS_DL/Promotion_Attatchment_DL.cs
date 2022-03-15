@@ -6,7 +6,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Configuration;
 
-namespace ORS_RCM_DL
+namespace Upside_Golf_RCM_DL
 {
    public class Promotion_Attatchment_DL
     {

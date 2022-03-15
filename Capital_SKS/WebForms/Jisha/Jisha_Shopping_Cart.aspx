@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/JishaMaster.Master" AutoEventWireup="true" CodeBehind="Jisha_Shopping_Cart.aspx.cs" Inherits="ORS_RCM.WebForms.Jisha.Jisha_Item_OrderDetail" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/JishaMaster.Master" AutoEventWireup="true" CodeBehind="Jisha_Shopping_Cart.aspx.cs" Inherits="Upside_Golf_RCM.WebForms.Jisha.Jisha_Item_OrderDetail" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
